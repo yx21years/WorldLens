@@ -1,0 +1,237 @@
+涵盖你在前两个阶段（Phase 1 搭建 + Phase 2 采集）遇到的核心问题、解决方案和你学到的经验。
+
+---
+
+ 🎯 WorldLens AI 项目 — 面试准备总结
+
+ 项目概况
+- 项目名称：WorldLens AI（个人智能新闻简报助手）
+- 技术栈：FastAPI + SQLAlchemy(异步) + SQLite + React + Electron
+- 我的职责：后端架构设计、数据库建模、RSS 采集服务开发、LLM 集成准备
+- 项目状态：已完成数据采集管道，可每日自动抓取 30+ 新闻源并存入数据库
+
+---
+
+ 🧱 Phase 1：项目搭建与环境配置
+
+ 问题 1：FastAPI 启动失败，没有任何错误输出
+现象：执行 `python main.py` 后立即退出，无任何日志。
+
+原因：
+- `main.py` 中使用了过时的 `@app.on_event("startup")`，且没有 `if __name__ == "__main__"` 启动块
+- 依赖的 `.env` 文件缺失 `DATABASE_PATH` 等关键配置
+
+解决方案：
+1. 迁移到 `lifespan` 异步上下文管理器（FastAPI 官方推荐的新模式）
+2. 添加 `uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)`
+3. 确保 `.env` 文件包含所有必需字段
+
+```python
+ 新写法
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    await init_db()
+    yield
+     shutdown cleanup
+
+app = FastAPI(lifespan=lifespan)
+```
+
+学到的经验：
+- 使用最新的 FastAPI 特性比维护旧代码更省心
+- 项目配置集中管理（Pydantic Settings）可以避免环境变量遗漏
+- 开发时用 `uvicorn main:app --reload` 比 `python main.py` 更可靠
+
+---
+
+ 问题 2：循环导入（circular import）导致无法启动
+现象：
+```
+ImportError: cannot import name 'Base' from partially initialized module 'database.connection'
+```
+
+原因：
+- `models.py` 从 `connection.py` 导入 `Base`
+- `connection.py` 又从 `models.py` 导入 `Base`
+- Python 无法解析这种相互依赖
+
+解决方案：
+- 设计原则：`Base` 只在一个地方定义（`models.py`），`connection.py` 只在使用时动态导入
+- 将 `init_db` 改为在函数内部 `from database.models import Base`，避免模块级导入
+- 清理 `__pycache__` 缓存
+
+关键代码：
+```python
+ connection.py
+async def init_db():
+    engine = get_engine()
+    from database.models import Base   运行时导入，避免循环
+    Base.metadata.create_all(engine)
+```
+
+学到的经验：
+- Python 的导入机制是顺序执行的，循环导入是架构设计问题
+- 模块间依赖应该是有向无环图（DAG）
+- 清理缓存（`__pycache__`）是排障的第一步，不要忽略
+
+---
+
+ 📡 Phase 2：RSS 采集服务开发
+
+ 问题 3：异步上下文管理器使用错误
+现象：
+```
+'async_generator' object does not support the asynchronous context manager protocol
+```
+
+原因：
+- `get_async_session()` 用 `yield` 定义，是异步生成器
+- 代码中错误地用了 `async with get_async_session() as session`
+- `async with` 只适用于实现了 `__aenter__` 的上下文管理器，而异步生成器需要用 `async for` 消费
+
+解决方案：
+```python
+ ❌ 错误写法
+async with get_async_session() as session:
+     ...
+
+ ✅ 正确写法
+async for session in get_async_session():
+     执行数据库操作
+    break   只用一次会话
+```
+
+学到的经验：
+- `async def` + `yield` 创建的是异步生成器，不是上下文管理器
+- 深入理解 Python 的异步协议（`__aenter__` vs `__anext__`）
+- 写异步代码时要时刻注意对象的类型和协议
+
+---
+
+ 问题 4：日志方法不存在导致采集失败
+现象：
+```
+AttributeError: 'BoundLoggerFilteringA' object has no attribute 'fetched_articles'
+```
+
+原因：
+- 代码中使用了自定义日志方法 `logger.fetched_articles(count=...)`
+- 但 `structlog` 默认不识别这些方法，只有 `info`、`error`、`warning`、`debug` 等标准方法
+
+解决方案：
+- 将所有自定义方法替换为标准 `logger.info()`
+- 将结构化字段作为参数传入，如 `logger.info("message", count=len(articles))`
+
+学到的经验：
+- 日志库的 API 是有限的，不要创造不存在的方法
+- 结构化日志（结构化字段）比字符串拼接更易解析，但要确保库支持
+- 过早的“优化”和“封装”可能导致难以调试的问题
+
+---
+
+ 问题 5：字段不匹配导致数据库插入失败
+现象：
+```
+'summary' is an invalid keyword argument for Article
+```
+
+原因：
+- `normalize_artifacts()` 返回的字典包含 `summary` 字段
+- `Article` 模型没有 `summary` 字段（它在 `Analysis` 模型中）
+- `batch_insert_articles` 直接使用 `Article(art)`，导致 SQLAlchemy 报错
+
+解决方案（双重保险）：
+1. 在 `batch_insert_articles` 中过滤字段，只保留 `Article` 模型有效字段
+2. 在 `collection.py` 中调用 `batch_insert_articles` 前也主动过滤
+
+```python
+ repo.py
+valid_fields = {'source_id', 'url', 'title', 'raw_content', 'published_at', 'country', 'status'}
+filtered = {k: v for k, v in art.items() if k in valid_fields}
+db_art = Article(filtered)
+
+ collection.py
+article_fields = {'source_id', 'url', 'title', 'raw_content', 'published_at', 'country', 'status'}
+normalized = [{k: v for k, v in item.items() if k in article_fields} for item in normalized]
+```
+
+学到的经验：
+- 数据转换层（`normalize_artifacts`）应该只产生目标模型需要的字段
+- 数据访问层（`repo.py`）应该有防御性过滤，避免上游传入多余字段
+- 分层设计时，明确每层的数据契约，不要依赖隐式字段
+
+---
+
+ 问题 6：CORS 跨域问题
+现象：
+```
+Access to fetch at 'http://localhost:8000/health' from origin 'http://localhost:3000' has been blocked by CORS policy
+```
+
+原因：
+- 前端（端口 3000）请求后端（端口 8000），属于跨域
+- `allow_origins=["http://localhost:"]` 在 CORS 规范中无效（不能用通配符端口）
+
+解决方案：
+```python
+allow_origins=[
+    "http://localhost:3000",    前端开发端口
+    "http://localhost:5173",    Vite 备用端口
+    "app://worldlens-ai",       Electron 生产环境
+]
+```
+
+学到的经验：
+- CORS 配置要精确，不要用通配符（特别是端口号）
+- 开发时使用 Vite 代理也可解决，但生产环境需要后端正确配置
+- 跨域错误时，优先检查 `allow_origins` 和 `allow_methods`
+
+---
+
+ 🧠 面试时怎么回答“你遇到的最大挑战？”
+
+ 推荐话术（1-2 分钟版）
+
+> “我在这个项目中遇到的最大挑战是循环导入导致项目无法启动。我的数据库连接模块（`connection.py`）需要导入模型基类 `Base` 来创建表，而模型模块（`models.py`）又需要从连接模块导入数据库会话，形成了相互依赖。
+>
+> 我一开始尝试调整导入顺序，但效果不稳定。后来我学习了 Python 的导入机制，意识到应该打破循环，把 `Base` 的定义放在 `models.py` 中，而 `connection.py` 只在运行时（函数内部）动态导入 `Base`，这样就不存在模块级的循环依赖了。
+>
+> 这个经历让我深刻理解了模块职责划分的重要性——数据库连接和模型定义应该是单向依赖的。我还养成了一个习惯：每次重构都先清理 `__pycache__`，排除缓存干扰。”
+
+---
+
+ 如果想展示异步技能
+
+> “另一个坑是异步上下文管理器的使用。我设计了一个 `get_async_session()` 函数，用 `yield` 返回数据库会话。但在调用时我错误地用了 `async with get_async_session() as session`，导致报错说异步生成器不支持上下文管理协议。
+>
+> 后来我查了文档才发现，`yield` 创建的异步生成器需要用 `async for session in get_async_session():` 来消费。这让我对 Python 的异步协议（`__aenter__` vs `__anext__`）有了更清晰的理解。”
+
+---
+
+ 如果想展示数据建模能力
+
+> “在设计采集流程时，遇到了字段不匹配的问题。`normalize_artifacts` 返回的字典包含了 `summary`，但 `Article` 模型没有这个字段——它属于 `Analysis` 模型。
+>
+> 我没有简单地在调用处删除字段，而是在数据访问层（`repo.py`）加了一层字段过滤，只接受 `Article` 模型实际存在的字段。这样即使上层代码未来添加新字段，也不会导致数据库插入失败。这个设计让我学到了‘防御性编程’的重要性。”
+
+---
+
+ 📝 总结：技术关键词清单
+
+| 技术点 | 关键词 |
+|--------|--------|
+| 生命周期管理 | `lifespan`、`@asynccontextmanager`、替代 `@app.on_event` |
+| 异步会话 | `async for`、异步生成器、`async_sessionmaker` |
+| 循环导入 | 动态导入、模块级 vs 函数级、DAG 依赖 |
+| CORS | `allow_origins`、精确端口、预检请求 |
+| 数据转换 | 字段过滤、防御性编程、分层契约 |
+| 日志 | `structlog`、结构化日志、`logger.info()` |
+| 采集管道 | RSS 解析、去重、批量插入、异步并发 |
+
+---
+
+Phase2
+一是字段不匹配，RSS 字段太多，我加了白名单过滤；
+二是外键关联，文章必须绑定来源，我提前建了 URL 到 source_id 的映射表；
+三是去重失效，URL 大小写不一致，统一转小写比对就好了。
+核心经验是分层处理：清洗、映射、入库各司其职，不要依赖某一层解决所有问题。

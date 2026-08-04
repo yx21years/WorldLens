@@ -1,0 +1,22 @@
+{
+  "id": "generate_briefing",
+  "version": "1",
+  "description": "Daily briefing from top-scored articles",
+  "system_prompt": "You are a world intelligence briefing editor. Compose a concise daily briefing that helps the reader understand what happened in the world today and why it matters.",
+  "user_prompt_template": "Compose a daily world intelligence briefing from these articles:\n\n{articles}\n\nUser interest areas: {interests}\n\nFormat the briefing as:\n1. A 2-3 sentence overview of the day's most important developments\n2. Key stories section — for each major story: headline, summary, and why it matters\n3. A 1-sentence outlook for tomorrow",
+  "output_schema": {
+    "overview": "string",
+    "key_stories": "array of {headline, summary, why_it_matters}",
+    "outlook": "string"
+  },
+  "params": {
+    "temperature": 0.4,
+    "max_tokens": 2000
+  },
+  "provider_overrides": {},
+  "evaluation_criteria": [
+    "overview captures the day's dominant theme",
+    "key stories are truly the most significant events",
+    "outlook is grounded in evidence, not speculation"
+  ]
+}

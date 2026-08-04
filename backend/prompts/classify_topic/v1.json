@@ -1,0 +1,16 @@
+{
+  "id": "classify_topic",
+  "version": "1",
+  "description": "Topic classification for articles",
+  "system_prompt": "You are a news topic classifier. Categorize articles into specific topic areas.",
+  "user_prompt_template": "Classify the topic of this article:\n\nTitle: {title}\nContent: {content}\n\nRespond with the most fitting category from: geopolitics, technology, economy, environment, health, society, conflict, diplomacy, trade, domestic",
+  "output_schema": {
+    "category": "string",
+    "confidence": "float 0-1"
+  },
+  "params": {
+    "temperature": 0.1,
+    "max_tokens": 100
+  },
+  "provider_overrides": {}
+}

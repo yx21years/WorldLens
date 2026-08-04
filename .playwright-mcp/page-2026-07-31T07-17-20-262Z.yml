@@ -1,0 +1,689 @@
+- generic [active] [ref=f86e1]:
+  - generic [ref=f86e4]:
+    - navigation "Community" [ref=f86e5]:
+      - generic [ref=f86e6]:
+        - link "Framer Community Framer Community" [ref=f86e7] [cursor=pointer]:
+          - /url: /community/
+          - img "Framer Community" [ref=f86e8]
+          - generic [ref=f86e9]: Framer Community
+        - combobox "Search Community" [ref=f86e15]
+        - generic [ref=f86e16]: Discover
+        - link "Feed" [ref=f86e17] [cursor=pointer]:
+          - /url: /community/feed/
+        - link "Hype" [ref=f86e22] [cursor=pointer]:
+          - /url: /community/hype/
+        - link "Activity" [ref=f86e27] [cursor=pointer]:
+          - /url: /community/activity/
+      - generic [ref=f86e33]:
+        - generic [ref=f86e34]: Marketplace
+        - link "All" [ref=f86e35] [cursor=pointer]:
+          - /url: /community/marketplace/
+        - link "Templates" [ref=f86e40] [cursor=pointer]:
+          - /url: /community/marketplace/templates/
+        - link "Components" [ref=f86e45] [cursor=pointer]:
+          - /url: /community/marketplace/components/
+        - link "Vectors" [ref=f86e50] [cursor=pointer]:
+          - /url: /community/marketplace/vectors/
+        - link "Plugins" [ref=f86e55] [cursor=pointer]:
+          - /url: /community/marketplace/plugins/
+      - generic [ref=f86e61]:
+        - generic [ref=f86e62]: Community
+        - link "Gallery" [ref=f86e63] [cursor=pointer]:
+          - /url: /community/gallery/
+        - link "Members" [ref=f86e68] [cursor=pointer]:
+          - /url: /community/members/
+    - generic [ref=f86e78]:
+      - generic [ref=f86e79]:
+        - generic [ref=f86e80]:
+          - heading "Enhance your website with Framer Components" [level=1] [ref=f86e81]
+          - paragraph [ref=f86e82]: Discover and remix premium components from the community and easily paste them into your project.
+        - button "Post" [ref=f86e84] [cursor=pointer]
+      - separator [ref=f86e86]
+      - generic [ref=f86e87]:
+        - generic [ref=f86e88]:
+          - generic [ref=f86e89]:
+            - heading "Featured" [level=2] [ref=f86e90]
+            - generic [ref=f86e91]:
+              - button "Go to featured slide 1" [pressed] [ref=f86e92] [cursor=pointer]
+              - button "Go to featured slide 2" [ref=f86e93] [cursor=pointer]
+              - button "Go to featured slide 3" [ref=f86e94] [cursor=pointer]
+              - button "Go to featured slide 4" [ref=f86e95] [cursor=pointer]
+              - button "Go to featured slide 5" [ref=f86e96] [cursor=pointer]
+              - button "Go to featured slide 6" [ref=f86e97] [cursor=pointer]
+          - link "See all" [ref=f86e98] [cursor=pointer]:
+            - /url: /community/marketplace/components/featured/
+        - generic [ref=f86e99]:
+          - generic [ref=f86e100]:
+            - generic [ref=f86e102]:
+              - generic [ref=f86e103] [cursor=pointer]:
+                - link "Custom FAQ Accordion" [ref=f86e104]:
+                  - /url: /community/marketplace/components/custom-faq-accordion/
+                - button "Open preview" [ref=f86e105]
+                - generic [ref=f86e108]:
+                  - generic:
+                    - img "Custom FAQ Accordion"
+                    - generic:
+                      - generic:
+                        - generic: Custom FAQ Accordion
+                        - generic: $10
+                      - img "Stefan @ Pixco"
+              - generic [ref=f86e109] [cursor=pointer]:
+                - link "Progressive Blur" [ref=f86e110]:
+                  - /url: /community/marketplace/components/progressiveblur/
+                - button "Open preview" [ref=f86e111]
+                - generic [ref=f86e114]:
+                  - generic:
+                    - img "Progressive Blur"
+                    - generic:
+                      - generic:
+                        - generic: Progressive Blur
+                        - generic: Free
+                      - img "Fabian Albert"
+            - generic [ref=f86e116]:
+              - generic [ref=f86e117] [cursor=pointer]:
+                - link "DualWaveText" [ref=f86e118]:
+                  - /url: /community/marketplace/components/dualwavetext/
+                - button "Open preview" [ref=f86e119]
+                - generic [ref=f86e122]:
+                  - generic:
+                    - img "DualWaveText"
+                    - generic:
+                      - generic:
+                        - generic: DualWaveText
+                        - generic: $15
+                      - img "DiverseKit"
+              - generic [ref=f86e123] [cursor=pointer]:
+                - link "Image to Sticker" [ref=f86e124]:
+                  - /url: /community/marketplace/components/stickerfx/
+                - button "Open preview" [ref=f86e125]
+                - generic [ref=f86e128]:
+                  - generic:
+                    - img "Image to Sticker"
+                    - generic:
+                      - generic:
+                        - generic: Image to Sticker
+                        - generic: $15
+                      - img "Fred Moon"
+            - generic [ref=f86e130]:
+              - generic [ref=f86e131] [cursor=pointer]:
+                - link "Scroll SVG Reveal" [ref=f86e132]:
+                  - /url: /community/marketplace/components/scroll-svg-reveal/
+                - button "Open preview" [ref=f86e133]
+                - generic [ref=f86e136]:
+                  - generic:
+                    - img "Scroll SVG Reveal"
+                    - generic:
+                      - generic:
+                        - generic: Scroll SVG Reveal
+                        - generic: $9
+                      - img "Nabeel"
+              - generic [ref=f86e137] [cursor=pointer]:
+                - link "Elastic Menu Pro" [ref=f86e138]:
+                  - /url: /community/marketplace/components/elastic-menu-pro/
+                - button "Open preview" [ref=f86e139]
+                - generic [ref=f86e142]:
+                  - generic:
+                    - img "Elastic Menu Pro"
+                    - generic:
+                      - generic:
+                        - generic: Elastic Menu Pro
+                        - generic: $12
+                      - img "Minjoo Kim"
+            - generic [ref=f86e144]:
+              - generic [ref=f86e145] [cursor=pointer]:
+                - link "GravityGallery" [ref=f86e146]:
+                  - /url: /community/marketplace/components/gravitygallery/
+                - button "Open preview" [ref=f86e147]
+                - generic [ref=f86e150]:
+                  - generic:
+                    - img "GravityGallery"
+                    - generic:
+                      - generic:
+                        - generic: GravityGallery
+                        - generic: $10
+                      - img "Magdalena Wołowiec"
+              - generic [ref=f86e151] [cursor=pointer]:
+                - link "Halftone Media FX" [ref=f86e152]:
+                  - /url: /community/marketplace/components/halftone-media-fx/
+                - button "Open preview" [ref=f86e153]
+                - generic [ref=f86e156]:
+                  - generic:
+                    - img "Halftone Media FX"
+                    - generic:
+                      - generic:
+                        - generic: Halftone Media FX
+                        - generic: $30
+                      - img "Lee Black"
+            - generic [ref=f86e158]:
+              - generic [ref=f86e159] [cursor=pointer]:
+                - link "Back Trigger" [ref=f86e160]:
+                  - /url: /community/marketplace/components/back-trigger/
+                - button "Open preview" [ref=f86e161]
+                - generic [ref=f86e164]:
+                  - generic:
+                    - img "Back Trigger"
+                    - generic:
+                      - generic:
+                        - generic: Back Trigger
+                        - generic: Free
+                      - img "Eric Zhang"
+              - generic [ref=f86e165] [cursor=pointer]:
+                - link "Gradient Strips" [ref=f86e166]:
+                  - /url: /community/marketplace/components/gradient-strips-bg/
+                - button "Open preview" [ref=f86e167]
+                - generic [ref=f86e170]:
+                  - generic:
+                    - img "Gradient Strips"
+                    - generic:
+                      - generic:
+                        - generic: Gradient Strips
+                        - generic: $12
+                      - img "Sanna Granqvist"
+            - generic [ref=f86e172]:
+              - generic [ref=f86e173] [cursor=pointer]:
+                - link "Minimalistic tabs" [ref=f86e174]:
+                  - /url: /community/marketplace/components/minimalistic-tabs/
+                - button "Open preview" [ref=f86e175]
+                - generic [ref=f86e178]:
+                  - generic:
+                    - img "Minimalistic tabs"
+                    - generic:
+                      - generic:
+                        - generic: Minimalistic tabs
+                        - generic: $12
+                      - img "Bob Torfs"
+              - generic [ref=f86e179] [cursor=pointer]:
+                - link "WebGL Particle Text" [ref=f86e180]:
+                  - /url: /community/marketplace/components/webgl-particle-text/
+                - button "Open preview" [ref=f86e181]
+                - generic [ref=f86e184]:
+                  - generic:
+                    - img "WebGL Particle Text"
+                    - generic:
+                      - generic:
+                        - generic: WebGL Particle Text
+                        - generic: $5
+                      - img "THE DESIGN FUTURIST"
+          - button "Previous featured resources"
+          - button "Next featured resources"
+      - separator [ref=f86e185]
+      - generic [ref=f86e186]:
+        - generic [ref=f86e187]:
+          - heading "Top Categories" [level=2] [ref=f86e188]
+          - link "See all" [ref=f86e189] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/
+        - generic [ref=f86e190]:
+          - link "Interactions Interactions 2.1K" [ref=f86e191] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/interactions/
+            - img "Interactions" [ref=f86e193]
+            - generic [ref=f86e194]:
+              - generic [ref=f86e195]: Interactions
+              - generic [ref=f86e196]: 2.1K
+          - link "Carousels Carousels 807" [ref=f86e197] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/carousels/
+            - img "Carousels" [ref=f86e199]
+            - generic [ref=f86e200]:
+              - generic [ref=f86e201]: Carousels
+              - generic [ref=f86e202]: "807"
+          - link "Typography Typography 666" [ref=f86e203] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/typography/
+            - img "Typography" [ref=f86e205]
+            - generic [ref=f86e206]:
+              - generic [ref=f86e207]: Typography
+              - generic [ref=f86e208]: "666"
+          - link "Backgrounds Backgrounds 615" [ref=f86e209] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/backgrounds/
+            - img "Backgrounds" [ref=f86e211]
+            - generic [ref=f86e212]:
+              - generic [ref=f86e213]: Backgrounds
+              - generic [ref=f86e214]: "615"
+          - link "Buttons Buttons 580" [ref=f86e215] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/buttons/
+            - img "Buttons" [ref=f86e217]
+            - generic [ref=f86e218]:
+              - generic [ref=f86e219]: Buttons
+              - generic [ref=f86e220]: "580"
+      - separator [ref=f86e221]
+      - generic [ref=f86e223]:
+        - generic [ref=f86e226]:
+          - generic [ref=f86e227]: 7.3K Components
+          - generic [ref=f86e228]:
+            - button "Open filters" [ref=f86e229] [cursor=pointer]
+            - button "Sort" [ref=f86e233] [cursor=pointer]
+        - generic [ref=f86e238]:
+          - generic [ref=f86e240]:
+            - generic [ref=f86e242] [cursor=pointer]:
+              - link "Confidential Folder" [ref=f86e243]:
+                - /url: /community/marketplace/components/confidential-folder/
+              - button "Open preview" [ref=f86e244]
+              - generic [ref=f86e247]:
+                - generic:
+                  - img "Confidential Folder"
+              - generic [ref=f86e248]:
+                - generic [ref=f86e249]:
+                  - link "Confidential Folder" [ref=f86e251]:
+                    - /url: /community/marketplace/components/confidential-folder/
+                  - generic [ref=f86e253]: Free
+                - generic [ref=f86e254]:
+                  - button "Like component" [ref=f86e255]:
+                    - generic [ref=f86e260]: "786"
+                  - link "2 comments" [ref=f86e265]:
+                    - /url: /community/marketplace/components/confidential-folder/#comment-input
+                    - generic [ref=f86e268]: "2"
+            - generic [ref=f86e274] [cursor=pointer]:
+              - link "Stacked Flow" [ref=f86e275]:
+                - /url: /community/marketplace/components/stacked-flow/
+              - button "Open preview" [ref=f86e276]
+              - generic [ref=f86e279]:
+                - generic:
+                  - img "Stacked Flow"
+              - generic [ref=f86e280]:
+                - generic [ref=f86e281]:
+                  - link "Stacked Flow" [ref=f86e283]:
+                    - /url: /community/marketplace/components/stacked-flow/
+                  - generic [ref=f86e285]: $5
+                - generic [ref=f86e286]:
+                  - button "Like component" [ref=f86e287]:
+                    - generic [ref=f86e292]: "274"
+                  - link "0 comments" [ref=f86e297]:
+                    - /url: /community/marketplace/components/stacked-flow/#comment-input
+            - generic [ref=f86e301] [cursor=pointer]:
+              - link "3D Flipping Book" [ref=f86e302]:
+                - /url: /community/marketplace/components/interactivebook/
+              - button "Open preview" [ref=f86e303]
+              - generic [ref=f86e306]:
+                - generic:
+                  - img "3D Flipping Book"
+              - generic [ref=f86e307]:
+                - generic [ref=f86e308]:
+                  - link "3D Flipping Book" [ref=f86e310]:
+                    - /url: /community/marketplace/components/interactivebook/
+                  - generic [ref=f86e312]: Free
+                - generic [ref=f86e313]:
+                  - button "Like component" [ref=f86e314]:
+                    - generic [ref=f86e319]: "483"
+                  - link "3 comments" [ref=f86e324]:
+                    - /url: /community/marketplace/components/interactivebook/#comment-input
+                    - generic [ref=f86e327]: "3"
+          - generic [ref=f86e333]:
+            - generic [ref=f86e335] [cursor=pointer]:
+              - link "Focus Slice Carousel" [ref=f86e336]:
+                - /url: /community/marketplace/components/focus-slice-carousel/
+              - button "Open preview" [ref=f86e337]
+              - generic [ref=f86e340]:
+                - generic:
+                  - img "Focus Slice Carousel"
+              - generic [ref=f86e341]:
+                - generic [ref=f86e342]:
+                  - link "Focus Slice Carousel" [ref=f86e344]:
+                    - /url: /community/marketplace/components/focus-slice-carousel/
+                  - generic [ref=f86e346]: $6
+                - generic [ref=f86e347]:
+                  - button "Like component" [ref=f86e348]:
+                    - generic [ref=f86e353]: "256"
+                  - link "0 comments" [ref=f86e358]:
+                    - /url: /community/marketplace/components/focus-slice-carousel/#comment-input
+            - generic [ref=f86e362] [cursor=pointer]:
+              - link "Premium Pixel Hero" [ref=f86e363]:
+                - /url: /community/marketplace/components/premium-pixel-hero/
+              - button "Open preview" [ref=f86e364]
+              - generic [ref=f86e367]:
+                - generic:
+                  - img "Premium Pixel Hero"
+              - generic [ref=f86e368]:
+                - generic [ref=f86e369]:
+                  - link "Premium Pixel Hero" [ref=f86e371]:
+                    - /url: /community/marketplace/components/premium-pixel-hero/
+                  - generic [ref=f86e373]: $5
+                - generic [ref=f86e374]:
+                  - button "Like component" [ref=f86e375]:
+                    - generic [ref=f86e380]: "424"
+                  - link "0 comments" [ref=f86e385]:
+                    - /url: /community/marketplace/components/premium-pixel-hero/#comment-input
+            - generic [ref=f86e389] [cursor=pointer]:
+              - link "Focus Gallery" [ref=f86e390]:
+                - /url: /community/marketplace/components/focus-gallery/
+              - button "Open preview" [ref=f86e391]
+              - generic [ref=f86e394]:
+                - generic:
+                  - img "Focus Gallery"
+              - generic [ref=f86e395]:
+                - generic [ref=f86e396]:
+                  - link "Focus Gallery" [ref=f86e398]:
+                    - /url: /community/marketplace/components/focus-gallery/
+                  - generic [ref=f86e400]: $5
+                - generic [ref=f86e401]:
+                  - button "Like component" [ref=f86e402]:
+                    - generic [ref=f86e407]: "287"
+                  - link "1 comment" [ref=f86e412]:
+                    - /url: /community/marketplace/components/focus-gallery/#comment-input
+                    - generic [ref=f86e415]: "1"
+          - generic [ref=f86e421]:
+            - generic [ref=f86e423] [cursor=pointer]:
+              - link "Floating Pill Nav" [ref=f86e424]:
+                - /url: /community/marketplace/components/floating-pill-nav/
+              - button "Open preview" [ref=f86e425]
+              - generic [ref=f86e428]:
+                - generic:
+                  - img "Floating Pill Nav"
+              - generic [ref=f86e429]:
+                - generic [ref=f86e430]:
+                  - link "Floating Pill Nav" [ref=f86e432]:
+                    - /url: /community/marketplace/components/floating-pill-nav/
+                  - generic [ref=f86e434]: Free
+                - generic [ref=f86e435]:
+                  - button "Like component" [ref=f86e436]:
+                    - generic [ref=f86e441]: "379"
+                  - link "2 comments" [ref=f86e446]:
+                    - /url: /community/marketplace/components/floating-pill-nav/#comment-input
+                    - generic [ref=f86e449]: "2"
+            - generic [ref=f86e455] [cursor=pointer]:
+              - link "Text Reveal" [ref=f86e456]:
+                - /url: /community/marketplace/components/text-reveal/
+              - button "Open preview" [ref=f86e457]
+              - generic [ref=f86e460]:
+                - generic:
+                  - img "Text Reveal"
+              - generic [ref=f86e461]:
+                - generic [ref=f86e462]:
+                  - link "Text Reveal" [ref=f86e464]:
+                    - /url: /community/marketplace/components/text-reveal/
+                  - generic [ref=f86e466]: Free
+                - generic [ref=f86e467]:
+                  - button "Like component" [ref=f86e468]:
+                    - generic [ref=f86e473]: "387"
+                  - link "8 comments" [ref=f86e478]:
+                    - /url: /community/marketplace/components/text-reveal/#comment-input
+                    - generic [ref=f86e481]: "8"
+            - generic [ref=f86e487] [cursor=pointer]:
+              - link "Instagram Carousel" [ref=f86e488]:
+                - /url: /community/marketplace/components/instagram-carousel/
+              - button "Open preview" [ref=f86e489]
+              - generic [ref=f86e492]:
+                - generic:
+                  - img "Instagram Carousel"
+              - generic [ref=f86e493]:
+                - generic [ref=f86e494]:
+                  - link "Instagram Carousel" [ref=f86e496]:
+                    - /url: /community/marketplace/components/instagram-carousel/
+                  - generic [ref=f86e498]: $5
+                - generic [ref=f86e499]:
+                  - button "Like component" [ref=f86e500]:
+                    - generic [ref=f86e505]: "154"
+                  - link "2 comments" [ref=f86e510]:
+                    - /url: /community/marketplace/components/instagram-carousel/#comment-input
+                    - generic [ref=f86e513]: "2"
+          - generic [ref=f86e519]:
+            - generic [ref=f86e521] [cursor=pointer]:
+              - link "Swtich on hover tabs" [ref=f86e522]:
+                - /url: /community/marketplace/components/swtich-on-hover-tabs/
+              - button "Open preview" [ref=f86e523]
+              - generic [ref=f86e526]:
+                - generic:
+                  - img "Swtich on hover tabs"
+              - generic [ref=f86e527]:
+                - generic [ref=f86e528]:
+                  - link "Swtich on hover tabs" [ref=f86e530]:
+                    - /url: /community/marketplace/components/swtich-on-hover-tabs/
+                  - generic [ref=f86e532]: Free
+                - generic [ref=f86e533]:
+                  - button "Like component" [ref=f86e534]:
+                    - generic [ref=f86e539]: "244"
+                  - link "2 comments" [ref=f86e544]:
+                    - /url: /community/marketplace/components/swtich-on-hover-tabs/#comment-input
+                    - generic [ref=f86e547]: "2"
+            - generic [ref=f86e553] [cursor=pointer]:
+              - link "Lifted Carousel" [ref=f86e554]:
+                - /url: /community/marketplace/components/lifted-carousel/
+              - button "Open preview" [ref=f86e555]
+              - generic [ref=f86e558]:
+                - generic:
+                  - img "Lifted Carousel"
+              - generic [ref=f86e559]:
+                - generic [ref=f86e560]:
+                  - link "Lifted Carousel" [ref=f86e562]:
+                    - /url: /community/marketplace/components/lifted-carousel/
+                  - generic [ref=f86e564]: $5
+                - generic [ref=f86e565]:
+                  - button "Like component" [ref=f86e566]:
+                    - generic [ref=f86e571]: "199"
+                  - link "1 comment" [ref=f86e576]:
+                    - /url: /community/marketplace/components/lifted-carousel/#comment-input
+                    - generic [ref=f86e579]: "1"
+            - generic [ref=f86e585] [cursor=pointer]:
+              - link "Eye Follow Button" [ref=f86e586]:
+                - /url: /community/marketplace/components/eye-follow-button/
+              - button "Open preview" [ref=f86e587]
+              - generic [ref=f86e590]:
+                - generic:
+                  - img "Eye Follow Button"
+              - generic [ref=f86e591]:
+                - generic [ref=f86e592]:
+                  - link "Eye Follow Button" [ref=f86e594]:
+                    - /url: /community/marketplace/components/eye-follow-button/
+                  - generic [ref=f86e596]: Free
+                - generic [ref=f86e597]:
+                  - button "Like component" [ref=f86e598]:
+                    - generic [ref=f86e603]: "403"
+                  - link "1 comment" [ref=f86e608]:
+                    - /url: /community/marketplace/components/eye-follow-button/#comment-input
+                    - generic [ref=f86e611]: "1"
+          - generic [ref=f86e617]:
+            - generic [ref=f86e619] [cursor=pointer]:
+              - link "Spiral 3D Slider" [ref=f86e620]:
+                - /url: /community/marketplace/components/spiral-3d-slider/
+              - button "Open preview" [ref=f86e621]
+              - generic [ref=f86e624]:
+                - generic:
+                  - img "Spiral 3D Slider"
+              - generic [ref=f86e625]:
+                - generic [ref=f86e626]:
+                  - link "Spiral 3D Slider" [ref=f86e628]:
+                    - /url: /community/marketplace/components/spiral-3d-slider/
+                  - generic [ref=f86e630]: $4
+                - generic [ref=f86e631]:
+                  - button "Like component" [ref=f86e632]:
+                    - generic [ref=f86e637]: "203"
+                  - link "4 comments" [ref=f86e642]:
+                    - /url: /community/marketplace/components/spiral-3d-slider/#comment-input
+                    - generic [ref=f86e645]: "4"
+            - generic [ref=f86e651] [cursor=pointer]:
+              - link "SpiderEffect" [ref=f86e652]:
+                - /url: /community/marketplace/components/spidereffect/
+              - button "Open preview" [ref=f86e653]
+              - generic [ref=f86e656]:
+                - generic:
+                  - img "SpiderEffect"
+              - generic [ref=f86e657]:
+                - generic [ref=f86e658]:
+                  - link "SpiderEffect" [ref=f86e660]:
+                    - /url: /community/marketplace/components/spidereffect/
+                  - generic [ref=f86e662]: $4
+                - generic [ref=f86e663]:
+                  - button "Like component" [ref=f86e664]:
+                    - generic [ref=f86e669]: "115"
+                  - link "7 comments" [ref=f86e674]:
+                    - /url: /community/marketplace/components/spidereffect/#comment-input
+                    - generic [ref=f86e677]: "7"
+            - generic [ref=f86e683] [cursor=pointer]:
+              - link "Lenis" [ref=f86e684]:
+                - /url: /community/marketplace/components/lenis/
+              - button "Open preview" [ref=f86e685]
+              - generic [ref=f86e688]:
+                - generic:
+                  - img "Lenis"
+              - generic [ref=f86e689]:
+                - generic [ref=f86e690]:
+                  - link "Lenis" [ref=f86e692]:
+                    - /url: /community/marketplace/components/lenis/
+                  - generic [ref=f86e694]: Free
+                - generic [ref=f86e695]:
+                  - button "Like component" [ref=f86e696]:
+                    - generic [ref=f86e701]: "208"
+                  - link "6 comments" [ref=f86e706]:
+                    - /url: /community/marketplace/components/lenis/#comment-input
+                    - generic [ref=f86e709]: "6"
+          - generic [ref=f86e715]:
+            - generic [ref=f86e717] [cursor=pointer]:
+              - link "Reveal Text" [ref=f86e718]:
+                - /url: /community/marketplace/components/reveal-text/
+              - button "Open preview" [ref=f86e719]
+              - generic [ref=f86e722]:
+                - generic:
+                  - img "Reveal Text"
+              - generic [ref=f86e723]:
+                - generic [ref=f86e724]:
+                  - link "Reveal Text" [ref=f86e726]:
+                    - /url: /community/marketplace/components/reveal-text/
+                  - generic [ref=f86e728]: Free
+                - generic [ref=f86e729]:
+                  - button "Like component" [ref=f86e730]:
+                    - generic [ref=f86e735]: "340"
+                  - link "0 comments" [ref=f86e740]:
+                    - /url: /community/marketplace/components/reveal-text/#comment-input
+            - generic [ref=f86e744] [cursor=pointer]:
+              - link "Animation loader" [ref=f86e745]:
+                - /url: /community/marketplace/components/animation-loader/
+              - button "Open preview" [ref=f86e746]
+              - generic [ref=f86e749]:
+                - generic:
+                  - img "Animation loader"
+              - generic [ref=f86e750]:
+                - generic [ref=f86e751]:
+                  - link "Animation loader" [ref=f86e753]:
+                    - /url: /community/marketplace/components/animation-loader/
+                  - generic [ref=f86e755]: Free
+                - generic [ref=f86e756]:
+                  - button "Like component" [ref=f86e757]:
+                    - generic [ref=f86e762]: "371"
+                  - link "0 comments" [ref=f86e767]:
+                    - /url: /community/marketplace/components/animation-loader/#comment-input
+            - generic [ref=f86e771] [cursor=pointer]:
+              - link "Grainy Carousel" [ref=f86e772]:
+                - /url: /community/marketplace/components/grainy-carousel/
+              - button "Open preview" [ref=f86e773]
+              - generic [ref=f86e776]:
+                - generic:
+                  - img "Grainy Carousel"
+              - generic [ref=f86e777]:
+                - generic [ref=f86e778]:
+                  - link "Grainy Carousel" [ref=f86e780]:
+                    - /url: /community/marketplace/components/grainy-carousel/
+                  - generic [ref=f86e782]: $5
+                - generic [ref=f86e783]:
+                  - button "Like component" [ref=f86e784]:
+                    - generic [ref=f86e789]: "120"
+                  - link "1 comment" [ref=f86e794]:
+                    - /url: /community/marketplace/components/grainy-carousel/#comment-input
+                    - generic [ref=f86e797]: "1"
+          - generic [ref=f86e803]:
+            - generic [ref=f86e805] [cursor=pointer]:
+              - link "Video Slide Show" [ref=f86e806]:
+                - /url: /community/marketplace/components/video-slide-show/
+              - button "Open preview" [ref=f86e807]
+              - generic [ref=f86e810]:
+                - generic:
+                  - img "Video Slide Show"
+              - generic [ref=f86e811]:
+                - generic [ref=f86e812]:
+                  - link "Video Slide Show" [ref=f86e814]:
+                    - /url: /community/marketplace/components/video-slide-show/
+                  - generic [ref=f86e816]: Free
+                - generic [ref=f86e817]:
+                  - button "Like component" [ref=f86e818]:
+                    - generic [ref=f86e823]: "259"
+                  - link "4 comments" [ref=f86e828]:
+                    - /url: /community/marketplace/components/video-slide-show/#comment-input
+                    - generic [ref=f86e831]: "4"
+            - generic [ref=f86e837] [cursor=pointer]:
+              - link "Silky Mouse Trail" [ref=f86e838]:
+                - /url: /community/marketplace/components/silky-mouse-trail/
+              - button "Open preview" [ref=f86e839]
+              - generic [ref=f86e842]:
+                - generic:
+                  - img "Silky Mouse Trail"
+              - generic [ref=f86e843]:
+                - generic [ref=f86e844]:
+                  - link "Silky Mouse Trail" [ref=f86e846]:
+                    - /url: /community/marketplace/components/silky-mouse-trail/
+                  - generic [ref=f86e848]: $8
+                - generic [ref=f86e849]:
+                  - button "Like component" [ref=f86e850]:
+                    - generic [ref=f86e855]: "84"
+                  - link "2 comments" [ref=f86e860]:
+                    - /url: /community/marketplace/components/silky-mouse-trail/#comment-input
+                    - generic [ref=f86e863]: "2"
+            - generic [ref=f86e869] [cursor=pointer]:
+              - link "CMS Scroll Gallery" [ref=f86e870]:
+                - /url: /community/marketplace/components/cms-scroll-gallery/
+              - button "Open preview" [ref=f86e871]
+              - generic [ref=f86e874]:
+                - generic:
+                  - img "CMS Scroll Gallery"
+              - generic [ref=f86e875]:
+                - generic [ref=f86e876]:
+                  - link "CMS Scroll Gallery" [ref=f86e878]:
+                    - /url: /community/marketplace/components/cms-scroll-gallery/
+                  - generic [ref=f86e880]: Free
+                - generic [ref=f86e881]:
+                  - button "Like component" [ref=f86e882]:
+                    - generic [ref=f86e887]: "443"
+                  - link "5 comments" [ref=f86e892]:
+                    - /url: /community/marketplace/components/cms-scroll-gallery/#comment-input
+                    - generic [ref=f86e895]: "5"
+          - generic [ref=f86e901]:
+            - generic [ref=f86e903] [cursor=pointer]:
+              - link "Mask Hover Reveal" [ref=f86e904]:
+                - /url: /community/marketplace/components/image-hover-reveal/
+              - button "Open preview" [ref=f86e905]
+              - generic [ref=f86e908]:
+                - generic:
+                  - img "Mask Hover Reveal"
+              - generic [ref=f86e909]:
+                - generic [ref=f86e910]:
+                  - link "Mask Hover Reveal" [ref=f86e912]:
+                    - /url: /community/marketplace/components/image-hover-reveal/
+                  - generic [ref=f86e914]: Free
+                - generic [ref=f86e915]:
+                  - button "Like component" [ref=f86e916]:
+                    - generic [ref=f86e921]: "338"
+                  - link "2 comments" [ref=f86e926]:
+                    - /url: /community/marketplace/components/image-hover-reveal/#comment-input
+                    - generic [ref=f86e929]: "2"
+            - generic [ref=f86e935] [cursor=pointer]:
+              - link "Text Flow" [ref=f86e936]:
+                - /url: /community/marketplace/components/text-flow/
+              - button "Open preview" [ref=f86e937]
+              - generic [ref=f86e940]:
+                - generic:
+                  - img "Text Flow"
+              - generic [ref=f86e941]:
+                - generic [ref=f86e942]:
+                  - link "Text Flow" [ref=f86e944]:
+                    - /url: /community/marketplace/components/text-flow/
+                  - generic [ref=f86e946]: Free
+                - generic [ref=f86e947]:
+                  - button "Like component" [ref=f86e948]:
+                    - generic [ref=f86e953]: "229"
+                  - link "0 comments" [ref=f86e958]:
+                    - /url: /community/marketplace/components/text-flow/#comment-input
+            - generic [ref=f86e962] [cursor=pointer]:
+              - link "Fan Card Carousel" [ref=f86e963]:
+                - /url: /community/marketplace/components/fan-card-carousel/
+              - button "Open preview" [ref=f86e964]
+              - generic [ref=f86e967]:
+                - generic:
+                  - img "Fan Card Carousel"
+              - generic [ref=f86e968]:
+                - generic [ref=f86e969]:
+                  - link "Fan Card Carousel" [ref=f86e971]:
+                    - /url: /community/marketplace/components/fan-card-carousel/
+                  - generic [ref=f86e973]: $5
+                - generic [ref=f86e974]:
+                  - button "Like component" [ref=f86e975]:
+                    - generic [ref=f86e980]: "219"
+                  - link "0 comments" [ref=f86e985]:
+                    - /url: /community/marketplace/components/fan-card-carousel/#comment-input
+  - region "Notifications (F8)":
+    - list
+  - alert [ref=f86e988]

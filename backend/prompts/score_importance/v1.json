@@ -1,0 +1,16 @@
+{
+  "id": "score_importance",
+  "version": "1",
+  "description": "Importance scoring for global significance",
+  "system_prompt": "You are a global news importance scorer. Rate how significant a news event is on a global scale.",
+  "user_prompt_template": "Score the global importance of this article:\n\nTitle: {title}\nContent: {content}\n\nRate from 1-10 where:\n1 = local interest only\n5 = significant for one region\n10 = affects the entire world\n\nRespond with your score and a brief justification.",
+  "output_schema": {
+    "score": "integer 1-10",
+    "justification": "string"
+  },
+  "params": {
+    "temperature": 0.1,
+    "max_tokens": 200
+  },
+  "provider_overrides": {}
+}

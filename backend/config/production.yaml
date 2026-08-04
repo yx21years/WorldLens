@@ -1,0 +1,20 @@
+[default]
+app:
+  name: "WorldLens AI"
+  version: "0.1.0"
+  api_port: 8000
+  debug: false
+database:
+  path: "/var/lib/worldlens/worldlens.db"
+llm:
+  provider: "claude"
+  model: "claude-haiku-4-5-20251001"
+  temperature: 0.3
+  max_tokens: 1000
+collection:
+  interval_minutes: 30
+  rss_feeds: []
+briefing:
+  top_n: 10
+logging:
+  level: "INFO"

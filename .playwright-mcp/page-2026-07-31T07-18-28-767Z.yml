@@ -1,0 +1,363 @@
+- generic [active] [ref=f101e1]:
+  - generic [ref=f101e4]:
+    - navigation "Community" [ref=f101e5]:
+      - generic [ref=f101e6]:
+        - link "Framer Community Framer Community" [ref=f101e7] [cursor=pointer]:
+          - /url: /community/
+          - img "Framer Community" [ref=f101e8]
+          - generic [ref=f101e9]: Framer Community
+        - combobox "Search Community" [ref=f101e15]
+        - generic [ref=f101e16]: Discover
+        - link "Feed" [ref=f101e17] [cursor=pointer]:
+          - /url: /community/feed/
+        - link "Hype" [ref=f101e22] [cursor=pointer]:
+          - /url: /community/hype/
+        - link "Activity" [ref=f101e27] [cursor=pointer]:
+          - /url: /community/activity/
+      - generic [ref=f101e33]:
+        - generic [ref=f101e34]: Marketplace
+        - link "All" [ref=f101e35] [cursor=pointer]:
+          - /url: /community/marketplace/
+        - link "Templates" [ref=f101e40] [cursor=pointer]:
+          - /url: /community/marketplace/templates/
+        - link "Components" [ref=f101e45] [cursor=pointer]:
+          - /url: /community/marketplace/components/
+        - link "Vectors" [ref=f101e50] [cursor=pointer]:
+          - /url: /community/marketplace/vectors/
+        - link "Plugins" [ref=f101e55] [cursor=pointer]:
+          - /url: /community/marketplace/plugins/
+      - generic [ref=f101e61]:
+        - generic [ref=f101e62]: Community
+        - link "Gallery" [ref=f101e63] [cursor=pointer]:
+          - /url: /community/gallery/
+        - link "Members" [ref=f101e68] [cursor=pointer]:
+          - /url: /community/members/
+    - generic [ref=f101e74]:
+      - generic [ref=f101e79]:
+        - button "Go back" [ref=f101e80] [cursor=pointer]:
+          - generic [ref=f101e81]: Back
+        - navigation "Breadcrumb" [ref=f101e85]:
+          - link "Components" [ref=f101e87] [cursor=pointer]:
+            - /url: /community/marketplace/components/
+          - link "Categories" [ref=f101e91] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/
+          - link "Carousels" [ref=f101e95] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/carousels/
+      - generic [ref=f101e97]:
+        - generic [ref=f101e98]:
+          - heading "Spiral 3D Slider · Customizable 3D Spiral Slider" [level=1] [ref=f101e100]
+          - generic [ref=f101e102]:
+            - generic [ref=f101e103]:
+              - button "More options" [ref=f101e104] [cursor=pointer]
+              - button "4 comments" [ref=f101e108] [cursor=pointer]
+              - button "Like component" [ref=f101e111] [cursor=pointer]
+            - button "Buy for $4" [ref=f101e117] [cursor=pointer]
+        - generic [ref=f101e119]:
+          - img "Spiral 3D Slider" [ref=f101e121]
+          - button "Open preview" [ref=f101e122] [cursor=pointer]
+        - generic [ref=f101e126]:
+          - article [ref=f101e127]:
+            - generic [ref=f101e130]:
+              - heading "Feature Highlights" [level=2] [ref=f101e131]
+              - list [ref=f101e132]:
+                - listitem [ref=f101e133]:
+                  - paragraph [ref=f101e134]:
+                    - strong [ref=f101e135]: Spiral Motion
+                    - text: Displays content along a smooth spiral path for a cinematic 3D browsing effect.
+                - listitem [ref=f101e136]:
+                  - paragraph [ref=f101e137]:
+                    - strong [ref=f101e138]: Scroll Based
+                    - text: Smooth scroll based rotation along a 3D spiral
+                - listitem [ref=f101e139]:
+                  - paragraph [ref=f101e140]:
+                    - strong [ref=f101e141]: Depth Perspective
+                    - text: Creates layered visual depth with dynamic scaling and positioning.
+                - listitem [ref=f101e142]:
+                  - paragraph [ref=f101e143]:
+                    - strong [ref=f101e144]: Interactive Navigation
+                    - text: Supports drag, swipe, and smooth motion-based interaction.
+                - listitem [ref=f101e145]:
+                  - paragraph [ref=f101e146]:
+                    - strong [ref=f101e147]: Auto Rotation
+                    - text: Continuously animates items for an immersive gallery experience.
+                - listitem [ref=f101e148]:
+                  - paragraph [ref=f101e149]:
+                    - strong [ref=f101e150]: Dynamic Focus
+                    - text: Keeps attention centered on highlighted elements while surrounding items flow naturally.
+                - listitem [ref=f101e151]:
+                  - paragraph [ref=f101e152]:
+                    - strong [ref=f101e153]: Responsive Layout
+                    - text: Adapts beautifully across desktop, tablet, and mobile screens.
+              - heading "Why It’s Useful" [level=2] [ref=f101e154]
+              - paragraph [ref=f101e155]: SpiralSlider transforms traditional galleries into immersive visual experiences.Perfect for portfolios, creative showcases, product presentations, hero sections, and experimental interfaces.
+              - paragraph [ref=f101e156]: Its floating spiral layout adds motion, depth, and elegance while keeping interactions smooth and intuitive.
+            - generic [ref=f101e157]:
+              - button "Like component" [ref=f101e158] [cursor=pointer]:
+                - generic [ref=f101e163]: "203"
+              - button "4 comments" [ref=f101e168] [cursor=pointer]:
+                - generic [ref=f101e171]: "4"
+              - generic [ref=f101e177]:
+                - generic [ref=f101e178]: Updated 1mo ago
+                - generic [ref=f101e179]: ·
+                - button "View activity" [ref=f101e180] [cursor=pointer]
+          - complementary [ref=f101e182]:
+            - generic [ref=f101e183]:
+              - heading "Details" [level=2] [ref=f101e185]
+              - generic [ref=f101e187]:
+                - generic [ref=f101e188]:
+                  - term [ref=f101e189]: Creator
+                  - definition [ref=f101e190]:
+                    - button [ref=f101e192] [cursor=pointer]:
+                      - link "FrameSpace FrameSpace" [ref=f101e193]:
+                        - /url: /community/creator/@framespace/
+                        - img "FrameSpace" [ref=f101e194]
+                        - generic [ref=f101e195]: FrameSpace
+                - generic [ref=f101e196]:
+                  - term [ref=f101e197]: Published
+                  - definition [ref=f101e198]: May 30, 2026
+                - generic [ref=f101e199]:
+                  - term [ref=f101e200]: License
+                  - definition [ref=f101e201]:
+                    - link "Single-Use License" [ref=f101e202] [cursor=pointer]:
+                      - /url: https://www.framer.com/legal/community-terms/
+            - generic [ref=f101e203]:
+              - generic [ref=f101e204]:
+                - heading "Categories" [level=2] [ref=f101e205]
+                - link "See all" [ref=f101e206] [cursor=pointer]:
+                  - /url: /community/marketplace/components/categories/
+              - list "Categories" [ref=f101e208]:
+                - listitem [ref=f101e209]:
+                  - link "Carousels" [ref=f101e210] [cursor=pointer]:
+                    - /url: /community/marketplace/components/categories/carousels/
+          - generic [ref=f101e211]:
+            - generic [ref=f101e214]:
+              - textbox "Reply…" [ref=f101e216]:
+                - paragraph [ref=f101e217]: Reply…
+              - button [disabled]
+            - generic [ref=f101e218]:
+              - group "Thread by Mina Panjković" [ref=f101e220]:
+                - generic [ref=f101e221]:
+                  - button [ref=f101e223] [cursor=pointer]:
+                    - link [ref=f101e224]:
+                      - /url: /community/creator/@mina-panjkovic/
+                      - img "Mina Panjković" [ref=f101e225]
+                  - generic [ref=f101e227]:
+                    - generic [ref=f101e228]:
+                      - button [ref=f101e229] [cursor=pointer]:
+                        - link "Mina Panjković" [ref=f101e230]:
+                          - /url: /community/creator/@mina-panjkovic/
+                      - generic [ref=f101e231]: 5d
+                      - button [ref=f101e232] [cursor=pointer]
+                    - paragraph [ref=f101e236]: I just bought it, but no matter what I do I don't have access to it
+                    - generic [ref=f101e237]:
+                      - button "Like comment" [ref=f101e238] [cursor=pointer]:
+                        - generic [ref=f101e243]: "1"
+                      - button "Reply" [ref=f101e248] [cursor=pointer]:
+                        - generic [ref=f101e251]: "1"
+                - generic [ref=f101e253]:
+                  - button [ref=f101e255] [cursor=pointer]:
+                    - link [ref=f101e256]:
+                      - /url: /community/creator/@framespace/
+                      - img "FrameSpace" [ref=f101e257]
+                  - generic [ref=f101e258]:
+                    - generic [ref=f101e259]:
+                      - button [ref=f101e260] [cursor=pointer]:
+                        - link "FrameSpace" [ref=f101e261]:
+                          - /url: /community/creator/@framespace/
+                      - generic [ref=f101e262]: 5d
+                      - button [ref=f101e263] [cursor=pointer]
+                    - generic [ref=f101e266]:
+                      - paragraph [ref=f101e267]: you don't recive the component link?
+                      - paragraph [ref=f101e268]: I don't get it it's automatically appears once you finish your payment
+                      - paragraph [ref=f101e269]: "contact us at : xquad.io.team@gmail.com"
+                      - paragraph [ref=f101e270]: we'll resolve your issue
+                    - generic [ref=f101e271]:
+                      - button "Like comment" [ref=f101e272] [cursor=pointer]
+                      - button "Reply to FrameSpace" [ref=f101e277] [cursor=pointer]
+              - group "Thread by KollinaStudio." [ref=f101e281]:
+                - generic [ref=f101e282]:
+                  - button [ref=f101e284] [cursor=pointer]:
+                    - link [ref=f101e285]:
+                      - /url: /community/creator/@kollina-studio/
+                      - img "KollinaStudio." [ref=f101e286]
+                  - generic [ref=f101e287]:
+                    - generic [ref=f101e288]:
+                      - button [ref=f101e289] [cursor=pointer]:
+                        - link "KollinaStudio." [ref=f101e290]:
+                          - /url: /community/creator/@kollina-studio/
+                      - generic [ref=f101e291]: 1w
+                      - button [ref=f101e292] [cursor=pointer]
+                    - paragraph [ref=f101e296]: I know the guy that got you this inspo ( pacome )
+                    - generic [ref=f101e297]:
+                      - button "Like comment" [ref=f101e298] [cursor=pointer]:
+                        - generic [ref=f101e303]: "1"
+                      - button "Reply" [ref=f101e308] [cursor=pointer]
+              - group "Thread by Gustav ❖" [ref=f101e312]:
+                - generic [ref=f101e313]:
+                  - button [ref=f101e315] [cursor=pointer]:
+                    - link [ref=f101e316]:
+                      - /url: /community/creator/@gustavwf/
+                      - img "Gustav ❖" [ref=f101e317]
+                  - generic [ref=f101e319]:
+                    - generic [ref=f101e320]:
+                      - button [ref=f101e321] [cursor=pointer]:
+                        - link "Gustav ❖" [ref=f101e322]:
+                          - /url: /community/creator/@gustavwf/
+                      - generic "Expert" [ref=f101e323]
+                      - generic [ref=f101e324]: 3w
+                      - button [ref=f101e325] [cursor=pointer]
+                    - paragraph [ref=f101e329]: This looks awesome 😍
+                    - generic [ref=f101e330]:
+                      - button "Like comment" [ref=f101e331] [cursor=pointer]:
+                        - generic [ref=f101e336]: "1"
+                      - button "Reply" [ref=f101e341] [cursor=pointer]:
+                        - generic [ref=f101e344]: "1"
+                - generic [ref=f101e346]:
+                  - button [ref=f101e348] [cursor=pointer]:
+                    - link [ref=f101e349]:
+                      - /url: /community/creator/@framespace/
+                      - img "FrameSpace" [ref=f101e350]
+                  - generic [ref=f101e351]:
+                    - generic [ref=f101e352]:
+                      - button [ref=f101e353] [cursor=pointer]:
+                        - link "FrameSpace" [ref=f101e354]:
+                          - /url: /community/creator/@framespace/
+                      - generic [ref=f101e355]: 5d
+                      - button [ref=f101e356] [cursor=pointer]
+                    - paragraph [ref=f101e360]: Thank you so much!
+                    - generic [ref=f101e361]:
+                      - button "Like comment" [ref=f101e362] [cursor=pointer]
+                      - button "Reply to FrameSpace" [ref=f101e367] [cursor=pointer]
+              - group "Thread by LM Monserrat" [ref=f101e371]:
+                - generic [ref=f101e372]:
+                  - button [ref=f101e374] [cursor=pointer]:
+                    - link [ref=f101e375]:
+                      - /url: /community/creator/@lm-monserrat/
+                      - img "LM Monserrat" [ref=f101e376]
+                  - generic [ref=f101e378]:
+                    - generic [ref=f101e379]:
+                      - button [ref=f101e380] [cursor=pointer]:
+                        - link "LM Monserrat" [ref=f101e381]:
+                          - /url: /community/creator/@lm-monserrat/
+                      - generic [ref=f101e382]: 1mo
+                      - button [ref=f101e383] [cursor=pointer]
+                    - paragraph [ref=f101e387]: Hi there! Just tried pasting the component onto Framer and I'm getting an error that reads "Cannot read properties of null". Any chance I could get some assistance with this?
+                    - generic [ref=f101e388]:
+                      - button "Like comment" [ref=f101e389] [cursor=pointer]:
+                        - generic [ref=f101e394]: "1"
+                      - button "Reply" [ref=f101e399] [cursor=pointer]:
+                        - generic [ref=f101e402]: "6"
+                - generic [ref=f101e404]:
+                  - button [ref=f101e406] [cursor=pointer]:
+                    - link [ref=f101e407]:
+                      - /url: /community/creator/@framespace/
+                      - img "FrameSpace" [ref=f101e408]
+                  - generic [ref=f101e410]:
+                    - generic [ref=f101e411]:
+                      - button [ref=f101e412] [cursor=pointer]:
+                        - link "FrameSpace" [ref=f101e413]:
+                          - /url: /community/creator/@framespace/
+                      - generic [ref=f101e414]: 1mo
+                      - button [ref=f101e415] [cursor=pointer]
+                    - generic [ref=f101e418]:
+                      - paragraph [ref=f101e419]: I've fixed the issue, please try again.
+                      - paragraph
+                      - paragraph [ref=f101e420]: "Important notes:"
+                      - paragraph [ref=f101e421]:
+                        - text: please upload photo for each element and if you want to specify links for each image make sure that it's a VALID link with
+                        - link "https://www.google.com" [ref=f101e422] [cursor=pointer]:
+                          - /url: https://www.google.com
+                        - text: for example...
+                      - paragraph [ref=f101e423]: thanks.
+                    - generic [ref=f101e424]:
+                      - button "Like comment" [ref=f101e425] [cursor=pointer]
+                      - button "Reply to FrameSpace" [ref=f101e430] [cursor=pointer]
+                - button [ref=f101e433] [cursor=pointer]
+          - generic [ref=f101e437]:
+            - generic [ref=f101e438]:
+              - generic [ref=f101e439]:
+                - heading "More from FrameSpace" [level=2] [ref=f101e440]
+                - link "See all" [ref=f101e441] [cursor=pointer]:
+                  - /url: /@framespace/?tab=marketplace
+              - generic [ref=f101e442]:
+                - generic [ref=f101e443] [cursor=pointer]:
+                  - link "SwipeGallery" [ref=f101e444]:
+                    - /url: /community/marketplace/components/swipegallery/
+                  - button "Open preview" [ref=f101e445]
+                  - generic [ref=f101e448]:
+                    - generic:
+                      - img "SwipeGallery"
+                  - generic [ref=f101e449]:
+                    - link "SwipeGallery" [ref=f101e452]:
+                      - /url: /community/marketplace/components/swipegallery/
+                    - button "Like component" [ref=f101e455]:
+                      - generic [ref=f101e460]: "51"
+                - generic [ref=f101e465] [cursor=pointer]:
+                  - link "SpiderEffect" [ref=f101e466]:
+                    - /url: /community/marketplace/components/spidereffect/
+                  - button "Open preview" [ref=f101e467]
+                  - generic [ref=f101e470]:
+                    - generic:
+                      - img "SpiderEffect"
+                  - generic [ref=f101e471]:
+                    - link "SpiderEffect" [ref=f101e474]:
+                      - /url: /community/marketplace/components/spidereffect/
+                    - button "Like component" [ref=f101e477]:
+                      - generic [ref=f101e482]: "115"
+                - generic [ref=f101e487] [cursor=pointer]:
+                  - link "Kinetic Text Slider" [ref=f101e488]:
+                    - /url: /community/marketplace/components/kinetic-text-slider/
+                  - button "Open preview" [ref=f101e489]
+                  - generic [ref=f101e492]:
+                    - generic:
+                      - img "Kinetic Text Slider"
+                  - generic [ref=f101e493]:
+                    - link "Kinetic Text Slider" [ref=f101e496]:
+                      - /url: /community/marketplace/components/kinetic-text-slider/
+                    - button "Like component" [ref=f101e499]:
+                      - generic [ref=f101e504]: "145"
+            - generic [ref=f101e509]:
+              - generic [ref=f101e511]:
+                - heading "Related Components" [level=2] [ref=f101e512]
+                - link "See all" [ref=f101e513] [cursor=pointer]:
+                  - /url: /community/marketplace/components/
+              - generic [ref=f101e514]:
+                - generic [ref=f101e515] [cursor=pointer]:
+                  - link "HelixCircular" [ref=f101e516]:
+                    - /url: /community/marketplace/components/helixcircular/
+                  - button "Open preview" [ref=f101e517]
+                  - generic [ref=f101e520]:
+                    - generic:
+                      - img "HelixCircular"
+                  - generic [ref=f101e521]:
+                    - link "HelixCircular" [ref=f101e524]:
+                      - /url: /community/marketplace/components/helixcircular/
+                    - button "Like component" [ref=f101e527]:
+                      - generic [ref=f101e532]: "4"
+                - generic [ref=f101e537] [cursor=pointer]:
+                  - link "PersonaFlow" [ref=f101e538]:
+                    - /url: /community/marketplace/components/personaflow/
+                  - button "Open preview" [ref=f101e539]
+                  - generic [ref=f101e542]:
+                    - generic:
+                      - img "PersonaFlow"
+                  - generic [ref=f101e543]:
+                    - link "PersonaFlow" [ref=f101e546]:
+                      - /url: /community/marketplace/components/personaflow/
+                    - button "Like component" [ref=f101e549]:
+                      - generic [ref=f101e554]: "3"
+                - generic [ref=f101e559] [cursor=pointer]:
+                  - link "InfiniteCarousel3D" [ref=f101e560]:
+                    - /url: /community/marketplace/components/infinitecarousel3d/
+                  - button "Open preview" [ref=f101e561]
+                  - generic [ref=f101e564]:
+                    - generic:
+                      - img "InfiniteCarousel3D"
+                  - generic [ref=f101e565]:
+                    - link "InfiniteCarousel3D" [ref=f101e568]:
+                      - /url: /community/marketplace/components/infinitecarousel3d/
+                    - button "Like component" [ref=f101e571]:
+                      - generic [ref=f101e576]: "8"
+  - region "Notifications (F8)":
+    - list
+  - alert [ref=f101e581]

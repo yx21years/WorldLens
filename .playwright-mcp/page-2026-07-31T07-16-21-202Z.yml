@@ -1,0 +1,661 @@
+- generic [ref=f57e3]:
+  - navigation [ref=f57e6]:
+    - generic [ref=f57e8]:
+      - generic [ref=f57e9]:
+        - link [ref=f57e11] [cursor=pointer]:
+          - /url: ../../
+          - paragraph [ref=f57e14]: Framer
+        - generic [ref=f57e15]:
+          - paragraph [ref=f57e21]: Solutions
+          - paragraph [ref=f57e28]: Platform
+          - paragraph [ref=f57e35]: Community
+          - paragraph [ref=f57e42]: Resources
+          - link [ref=f57e45] [cursor=pointer]:
+            - /url: ../../enterprise/
+            - paragraph [ref=f57e49]: Enterprise
+          - link [ref=f57e52] [cursor=pointer]:
+            - /url: ../../pricing
+            - paragraph [ref=f57e56]: Pricing
+        - generic [ref=f57e61]:
+          - paragraph [ref=f57e65] [cursor=pointer]:
+            - link "Log in" [ref=f57e66]:
+              - /url: https://framer.com/r/login
+          - link [ref=f57e69] [cursor=pointer]:
+            - /url: https://www.framer.com/r/signup/
+            - paragraph [ref=f57e71]: Sign up
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Copy logo SVG
+          - generic:
+            - link "Brand guidelines":
+              - /url: ../../brand
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Brand guidelines
+  - generic [ref=f57e74]:
+    - banner [ref=f57e75]:
+      - generic [ref=f57e77]:
+        - generic [ref=f57e78]:
+          - heading "Connect Framer to Claude, Codex, Cursor, and more" [level=1] [ref=f57e80]
+          - paragraph [ref=f57e82]: Skip the MCP setup. Framer works directly with Claude Code, Cursor, Codex, and other AI tools. Native access to Framer with your own AI agents for deeper capabilities, custom skills, and the latest model advancements.
+        - link [ref=f57e84] [cursor=pointer]:
+          - /url: ../
+          - paragraph [ref=f57e86]: Try the Internal Agent
+      - generic [ref=f57e90]:
+        - generic [ref=f57e91]:
+          - generic [ref=f57e92]:
+            - img "Codex logo" [ref=f57e95]
+            - generic [ref=f57e96]:
+              - heading "Codex" [level=3] [ref=f57e98]
+              - paragraph [ref=f57e101]:
+                - text: Connect Codex to Framer with full access to your canvas, components, CMS, and more.
+                - link "Get Codex" [ref=f57e102] [cursor=pointer]:
+                  - /url: https://chatgpt.com/codex/
+                - text: .
+          - generic [ref=f57e105]:
+            - button "Copy" [ref=f57e111] [cursor=pointer]
+            - paragraph [ref=f57e116]:
+              - code [ref=f57e117]: Copy install prompt
+        - generic [ref=f57e123]:
+          - img "Claude logo" [ref=f57e126]
+          - generic [ref=f57e127]:
+            - heading "Claude Code" [level=3] [ref=f57e129]
+            - paragraph [ref=f57e131]:
+              - text: Connect Claude to Framer with full access to your canvas, components, CMS, and more.
+              - link "Get Claude Code" [ref=f57e132] [cursor=pointer]:
+                - /url: https://claude.com/product/claude-code
+              - text: .
+          - generic [ref=f57e135]:
+            - button "Copy" [ref=f57e141] [cursor=pointer]
+            - paragraph [ref=f57e146]:
+              - code [ref=f57e147]: Copy install prompt
+        - generic [ref=f57e148]:
+          - img "Cursor logo" [ref=f57e151]
+          - generic [ref=f57e152]:
+            - heading "Cursor" [level=3] [ref=f57e154]
+            - paragraph [ref=f57e157]:
+              - text: Connect Cursor to Framer with full access to your canvas, components, CMS, and more.
+              - link "Get Cursor." [ref=f57e158] [cursor=pointer]:
+                - /url: https://cursor.com/
+          - generic [ref=f57e161]:
+            - button "Copy" [ref=f57e167] [cursor=pointer]
+            - paragraph [ref=f57e172]:
+              - code [ref=f57e173]: Copy install prompt
+        - generic [ref=f57e174]:
+          - img "Antigravity logo" [ref=f57e177]
+          - generic [ref=f57e178]:
+            - heading "Antigravity" [level=3] [ref=f57e180]
+            - paragraph [ref=f57e182]:
+              - text: Connect Google Antigravity to Framer with full access to your canvas, components, CMS, and more.
+              - link "Get Antigravity" [ref=f57e183] [cursor=pointer]:
+                - /url: https://antigravity.google/
+              - text: .
+          - generic [ref=f57e186]:
+            - button "Copy" [ref=f57e192] [cursor=pointer]
+            - paragraph [ref=f57e197]:
+              - code [ref=f57e198]: Copy install prompt
+    - main [ref=f57e199]:
+      - generic [ref=f57e200]:
+        - heading "Learn how to Connect Framer to Claude, Codex, Cursor, and more" [level=2] [ref=f57e203]
+        - generic [ref=f57e204]:
+          - generic [ref=f57e205]:
+            - generic [ref=f57e207]:
+              - generic [ref=f57e208]:
+                - generic [ref=f57e209]:
+                  - paragraph [ref=f57e210]: Opus 4.7 · Claude Max
+                  - paragraph [ref=f57e211]: /Users/paul
+                - paragraph [ref=f57e213]: "> npx @framer/agent setup"
+              - generic [ref=f57e215]:
+                - list [ref=f57e217]:
+                  - listitem [ref=f57e218]:
+                    - heading "Run the install prompt" [level=3] [ref=f57e219]
+                - paragraph [ref=f57e221]:
+                  - text: Run the
+                  - link "install prompt" [ref=f57e222] [cursor=pointer]:
+                    - /url: ./#install
+                  - text: in your preferred AI. This installs the bridge your agent uses to talk to Framer. If asked to pick a
+                  - code [ref=f57e223]: folder
+                  - text: to work from, pick any folder like your Desktop.
+            - generic [ref=f57e224]:
+              - generic [ref=f57e225]:
+                - paragraph [ref=f57e227]: "> npx @framer/agent setup"
+                - paragraph [ref=f57e229]: ⏺ Bash (npx @framer/agent setup)\ Installed 2 skills to /Users/paul/.agents/skills, /Users/paul/.claude/skills
+                - paragraph [ref=f57e231]: "> /framer"
+              - generic [ref=f57e233]:
+                - list [ref=f57e235]:
+                  - listitem [ref=f57e236]:
+                    - heading "Connect to your projects" [level=3] [ref=f57e237]
+                - paragraph [ref=f57e239]:
+                  - text: In your AI agent, run the
+                  - code [ref=f57e240]: /framer
+                  - text: skill to connect it to your Framer project and grant access to the project from your browser. This establishes the connection between your external AI and your Framer project.
+            - generic [ref=f57e241]:
+              - generic [ref=f57e242]:
+                - paragraph [ref=f57e244]: ⏺ Bash (npx @framer/agent setup)\ Installed 2 skills to /Users/paul/.agents/skills, /Users/paul/.claude/skills
+                - paragraph [ref=f57e246]: Connected to your Site project (session 6). What would you like me to help you with?
+                - paragraph [ref=f57e248]: "> List all the blogposts in my project"
+              - generic [ref=f57e250]:
+                - list [ref=f57e252]:
+                  - listitem [ref=f57e253]:
+                    - heading "Write your first prompt" [level=3] [ref=f57e254]
+                - paragraph [ref=f57e256]: Tell your agent what to build, change, or fix. It works directly in your Framer project without the need to have it open. This means you can update anything in your project and even publish remotely.
+          - generic [ref=f57e260] [cursor=pointer]:
+            - button "Play" [ref=f57e263]
+            - generic:
+              - generic:
+                - paragraph: Connect Framer to Claude Code, Codex, Cursor, and more
+              - generic:
+                - paragraph: 7:13
+      - generic [ref=f57e268]:
+        - heading "Frequently asked questions" [level=2] [ref=f57e270]
+        - list [ref=f57e271]:
+          - listitem [ref=f57e273]:
+            - generic [ref=f57e274]:
+              - heading "Do I need to set up a Framer MCP server?" [level=3] [ref=f57e276]
+              - paragraph [ref=f57e278]:
+                - text: No. Framer doesn’t require a separate MCP server. If you’re searching for a Framer MCP, the native Framer External Agent connection gives
+                - link "Claude Code" [ref=f57e279] [cursor=pointer]:
+                  - /url: https://www.anthropic.com/claude-code
+                - text: ","
+                - link "Cursor" [ref=f57e280] [cursor=pointer]:
+                  - /url: https://cursor.com/
+                - text: ","
+                - link "Codex" [ref=f57e281] [cursor=pointer]:
+                  - /url: https://openai.com/codex/
+                - text: ","
+                - link "Antigravity CLI" [ref=f57e282] [cursor=pointer]:
+                  - /url: https://antigravity.google/
+                - text: ", and other AI tools direct access to your canvas, components, CMS, and project context, without manual MCP setup."
+          - listitem [ref=f57e284]:
+            - generic [ref=f57e285]:
+              - heading "Which AI agents are supported?" [level=3] [ref=f57e287]
+              - paragraph [ref=f57e289]:
+                - text: Framer Agent works with any AI that can run a terminal command or call an MCP tool, including
+                - link "Claude Code" [ref=f57e290] [cursor=pointer]:
+                  - /url: https://www.anthropic.com/claude-code
+                - text: ","
+                - link "Codex" [ref=f57e291] [cursor=pointer]:
+                  - /url: https://openai.com/codex/
+                - text: ","
+                - link "Cursor" [ref=f57e292] [cursor=pointer]:
+                  - /url: https://cursor.com/
+                - text: ","
+                - link "Antigravity CLI" [ref=f57e293] [cursor=pointer]:
+                  - /url: https://antigravity.google/
+                - text: ", and"
+                - link "Windsurf" [ref=f57e294] [cursor=pointer]:
+                  - /url: https://windsurf.com/
+                - text: . If your agent supports tools or a terminal, it can connect.
+          - listitem [ref=f57e296]:
+            - generic [ref=f57e297]:
+              - heading "Can the agent edit my live site?" [level=3] [ref=f57e299]
+              - paragraph [ref=f57e301]: No. The agent works on your canvas in the Framer editor, not on your published site. Changes only go live when you choose to publish them yourself or tell the agent.
+          - listitem [ref=f57e303]:
+            - generic [ref=f57e304]:
+              - heading "Does the agent have access to my CMS?" [level=3] [ref=f57e306]
+              - paragraph [ref=f57e308]: Yes. Once connected, the agent can read and write CMS collections, including creating, updating, and deleting items. You stay in control of what gets published.
+          - listitem [ref=f57e310]:
+            - generic [ref=f57e311]:
+              - heading "Is it safe to give an agent access to my project?" [level=3] [ref=f57e313]
+              - paragraph [ref=f57e315]: The agent only has access to the projects you explicitly connect it to. It cannot access other projects, your account settings, or billing. You can revoke access at any time.
+          - listitem [ref=f57e317]:
+            - generic [ref=f57e318]:
+              - heading "What happens if the agent makes a mistake?" [level=3] [ref=f57e320]
+              - paragraph [ref=f57e322]:
+                - text: Framer has
+                - link "branching" [ref=f57e323] [cursor=pointer]:
+                  - /url: ../../collaborate/
+                - text: ", so every change made by an external agent automatically happens on a branch. You can undo changes, review the branch, and decide when to merge it back into your main branch."
+          - listitem [ref=f57e325]:
+            - generic [ref=f57e326]:
+              - heading "What should I do when my AI asks me to choose a folder to work from?" [level=3] [ref=f57e328]
+              - paragraph [ref=f57e330]: External Agents running on your machine need a folder to work from. They use it to save temporary files that make working with your Framer project more efficient. You can choose any folder in any location, such as your Desktop or Documents.
+    - generic [ref=f57e331]:
+      - heading "What external agents can do in Framer" [level=2] [ref=f57e334]
+      - list [ref=f57e335]:
+        - listitem [ref=f57e337]:
+          - link [ref=f57e338] [cursor=pointer]:
+            - /url: ../../
+            - generic [ref=f57e341]:
+              - paragraph [ref=f57e343]: Layouts
+              - paragraph [ref=f57e345]: Create responsive layouts that adapt cleanly across pages and breakpoints.
+        - listitem [ref=f57e347]:
+          - link [ref=f57e348] [cursor=pointer]:
+            - /url: ../../collaborate/
+            - generic [ref=f57e351]:
+              - paragraph [ref=f57e353]: Collaborate
+              - paragraph [ref=f57e355]: Work with teammates and agents while keeping changes organized.
+        - listitem [ref=f57e357]:
+          - link [ref=f57e358] [cursor=pointer]:
+            - /url: ../../
+            - generic [ref=f57e361]:
+              - paragraph [ref=f57e363]: Components
+              - paragraph [ref=f57e365]: Reuse shared building blocks so edits stay consistent everywhere.
+        - listitem [ref=f57e367]:
+          - link [ref=f57e368] [cursor=pointer]:
+            - /url: ./
+            - generic [ref=f57e371]:
+              - paragraph [ref=f57e373]: App
+              - paragraph [ref=f57e375]: Connect external agents directly to Framer projects and pages.
+        - listitem [ref=f57e377]:
+          - link [ref=f57e378] [cursor=pointer]:
+            - /url: ../../publish/
+            - generic [ref=f57e381]:
+              - paragraph [ref=f57e383]: Publish
+              - paragraph [ref=f57e385]: Ship updates from design to a live site without leaving Framer.
+        - listitem [ref=f57e387]:
+          - link [ref=f57e388] [cursor=pointer]:
+            - /url: ../../cms/
+            - generic [ref=f57e391]:
+              - paragraph [ref=f57e393]: CMS
+              - paragraph [ref=f57e395]: Structure dynamic content and let agents update it safely.
+  - generic [ref=f57e396]:
+    - banner [ref=f57e397]:
+      - heading "Your next idea starts here" [level=2] [ref=f57e399]
+    - generic [ref=f57e401]:
+      - generic [ref=f57e403]:
+        - textbox "Make" [ref=f57e406]
+        - generic [ref=f57e408]:
+          - paragraph [ref=f57e411] [cursor=pointer]: GPT 5.6 Terra
+          - button [ref=f57e415] [cursor=pointer]
+      - generic [ref=f57e417]:
+        - paragraph [ref=f57e420] [cursor=pointer]: Create personal portfolio
+        - paragraph [ref=f57e423] [cursor=pointer]: Build startup site
+        - paragraph [ref=f57e426] [cursor=pointer]:
+          - code [ref=f57e427]: Launch landing page
+        - paragraph [ref=f57e430] [cursor=pointer]: Start company blog
+    - link [ref=f57e432] [cursor=pointer]:
+      - /url: https://framer.com/signup
+      - paragraph [ref=f57e434]: Start without AI
+  - contentinfo [ref=f57e440]:
+    - generic [ref=f57e441]:
+      - link [ref=f57e443] [cursor=pointer]:
+        - /url: ../../
+        - paragraph [ref=f57e446]: Framer
+      - generic [ref=f57e448]:
+        - list [ref=f57e450]:
+          - listitem [ref=f57e451]:
+            - paragraph [ref=f57e454]: Product
+          - listitem [ref=f57e455]:
+            - link [ref=f57e456] [cursor=pointer]:
+              - /url: ../../ai/
+              - paragraph [ref=f57e458]: AI
+              - paragraph [ref=f57e463]: New
+          - listitem [ref=f57e464]:
+            - link [ref=f57e465] [cursor=pointer]:
+              - /url: ../
+              - paragraph [ref=f57e467]: Agents
+              - paragraph [ref=f57e472]: New
+          - listitem [ref=f57e473]:
+            - link [ref=f57e474] [cursor=pointer]:
+              - /url: ./
+              - paragraph [ref=f57e476]: External Agents
+              - paragraph [ref=f57e481]: New
+          - listitem [ref=f57e482]:
+            - link [ref=f57e483] [cursor=pointer]:
+              - /url: ../../design/
+              - paragraph [ref=f57e485]: Design
+          - listitem [ref=f57e486]:
+            - link [ref=f57e487] [cursor=pointer]:
+              - /url: ../../collaborate/
+              - paragraph [ref=f57e489]: Collaborate
+              - paragraph [ref=f57e494]: New
+          - listitem [ref=f57e495]:
+            - link [ref=f57e496] [cursor=pointer]:
+              - /url: ../../cms/
+              - paragraph [ref=f57e498]: CMS
+          - listitem [ref=f57e499]:
+            - link [ref=f57e500] [cursor=pointer]:
+              - /url: ../../hosting/
+              - paragraph [ref=f57e502]: Hosting
+          - listitem [ref=f57e503]:
+            - link [ref=f57e504] [cursor=pointer]:
+              - /url: ../../performance/
+              - paragraph [ref=f57e506]: Performance
+          - listitem [ref=f57e507]:
+            - link [ref=f57e508] [cursor=pointer]:
+              - /url: ../../seo/
+              - paragraph [ref=f57e510]: SEO
+          - listitem [ref=f57e511]:
+            - link [ref=f57e512] [cursor=pointer]:
+              - /url: ../../convert/
+              - paragraph [ref=f57e514]: Convert
+          - listitem [ref=f57e515]:
+            - link [ref=f57e516] [cursor=pointer]:
+              - /url: ../../publish/
+              - paragraph [ref=f57e518]: Publish
+          - listitem [ref=f57e519]:
+            - link [ref=f57e520] [cursor=pointer]:
+              - /url: ../../updates
+              - paragraph [ref=f57e522]: Updates
+              - paragraph [ref=f57e527]: New
+        - list [ref=f57e529]:
+          - listitem [ref=f57e530]:
+            - paragraph [ref=f57e533]: Resources
+          - listitem [ref=f57e534]:
+            - link [ref=f57e535] [cursor=pointer]:
+              - /url: ../../academy/
+              - paragraph [ref=f57e537]: Academy
+          - listitem [ref=f57e538]:
+            - link [ref=f57e539] [cursor=pointer]:
+              - /url: ../../guides
+              - paragraph [ref=f57e541]: Guides
+          - listitem [ref=f57e542]:
+            - link [ref=f57e543] [cursor=pointer]:
+              - /url: ../../downloads/
+              - paragraph [ref=f57e545]: Desktop app
+          - listitem [ref=f57e546]:
+            - link [ref=f57e547] [cursor=pointer]:
+              - /url: ../../blog/
+              - paragraph [ref=f57e549]: Blog
+          - listitem [ref=f57e550]:
+            - link [ref=f57e551] [cursor=pointer]:
+              - /url: ../../newsletter
+              - paragraph [ref=f57e553]: Newsletter
+          - listitem [ref=f57e554]:
+            - link [ref=f57e555] [cursor=pointer]:
+              - /url: ../../stories/
+              - paragraph [ref=f57e557]: Stories
+          - listitem [ref=f57e558]:
+            - link [ref=f57e559] [cursor=pointer]:
+              - /url: ../../developers/
+              - paragraph [ref=f57e561]: Developers
+          - listitem [ref=f57e562]:
+            - link [ref=f57e563] [cursor=pointer]:
+              - /url: ../../creators
+              - paragraph [ref=f57e565]: Creators
+          - listitem [ref=f57e566]:
+            - link [ref=f57e567] [cursor=pointer]:
+              - /url: ../../expert/apply/
+              - paragraph [ref=f57e569]: Experts
+          - listitem [ref=f57e570]:
+            - link [ref=f57e571] [cursor=pointer]:
+              - /url: ../../education/students/
+              - paragraph [ref=f57e573]: Students
+          - listitem [ref=f57e574]:
+            - link [ref=f57e575] [cursor=pointer]:
+              - /url: ../../education/ambassadors/
+              - paragraph [ref=f57e577]: Ambassadors
+          - listitem [ref=f57e578]:
+            - link [ref=f57e579] [cursor=pointer]:
+              - /url: https://www.framer.com/state-of-sites-2026/
+              - paragraph [ref=f57e581]: State of Sites
+          - listitem [ref=f57e582]:
+            - link [ref=f57e583] [cursor=pointer]:
+              - /url: ../../help/
+              - paragraph [ref=f57e585]: Support
+          - listitem [ref=f57e586]:
+            - link [ref=f57e587] [cursor=pointer]:
+              - /url: ../../contact/
+              - paragraph [ref=f57e589]: Contact
+        - list [ref=f57e592]:
+          - listitem [ref=f57e593]:
+            - paragraph [ref=f57e596]: Solutions
+          - listitem [ref=f57e597]:
+            - link [ref=f57e598] [cursor=pointer]:
+              - /url: ../../solutions/designers/
+              - paragraph [ref=f57e600]: Designers
+          - listitem [ref=f57e601]:
+            - link [ref=f57e602] [cursor=pointer]:
+              - /url: ../../solutions/builders/
+              - paragraph [ref=f57e604]: Builders
+          - listitem [ref=f57e605]:
+            - link [ref=f57e606] [cursor=pointer]:
+              - /url: ../../solutions/marketers/
+              - paragraph [ref=f57e608]: Marketers
+          - listitem [ref=f57e609]:
+            - link [ref=f57e610] [cursor=pointer]:
+              - /url: ../../solutions/site-teams/
+              - paragraph [ref=f57e612]: Site teams
+          - listitem [ref=f57e613]:
+            - link [ref=f57e614] [cursor=pointer]:
+              - /url: ../../solutions/agencies/
+              - paragraph [ref=f57e616]: Agencies
+          - listitem [ref=f57e617]:
+            - link [ref=f57e618] [cursor=pointer]:
+              - /url: ../../solutions/growth/
+              - paragraph [ref=f57e620]: Growth
+          - listitem [ref=f57e621]:
+            - link [ref=f57e622] [cursor=pointer]:
+              - /url: ../../solutions/founders/
+              - paragraph [ref=f57e624]: Founders
+          - listitem [ref=f57e625]:
+            - link [ref=f57e626] [cursor=pointer]:
+              - /url: ../../solutions/ai-website-builder/
+              - paragraph [ref=f57e628]: AI website builder
+          - listitem [ref=f57e629]:
+            - link [ref=f57e630] [cursor=pointer]:
+              - /url: ../../solutions/ai-designer/
+              - paragraph [ref=f57e632]: AI design agent
+          - listitem [ref=f57e633]:
+            - link [ref=f57e634] [cursor=pointer]:
+              - /url: ../../solutions/website-builder/
+              - paragraph [ref=f57e636]: Website builder
+          - listitem [ref=f57e637]:
+            - link [ref=f57e638] [cursor=pointer]:
+              - /url: ../../solutions/landing-pages/
+              - paragraph [ref=f57e640]: Landing pages
+          - listitem [ref=f57e641]:
+            - link [ref=f57e642] [cursor=pointer]:
+              - /url: ../../solutions/portfolio-website/
+              - paragraph [ref=f57e644]: Portfolio maker
+          - listitem [ref=f57e645]:
+            - link [ref=f57e646] [cursor=pointer]:
+              - /url: ../../solutions/ui-ux-design/
+              - paragraph [ref=f57e648]: UI/UX design
+          - listitem [ref=f57e649]:
+            - link [ref=f57e650] [cursor=pointer]:
+              - /url: ../../solutions/no-code-website-builder/
+              - paragraph [ref=f57e652]: No-code
+        - list [ref=f57e654]:
+          - listitem [ref=f57e655]:
+            - paragraph [ref=f57e658]: Compare
+          - listitem [ref=f57e659]:
+            - link [ref=f57e661] [cursor=pointer]:
+              - /url: ../../compare
+              - paragraph [ref=f57e663]: Overview
+            - link [ref=f57e665] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-webflow
+              - paragraph [ref=f57e667]: Webflow
+            - link [ref=f57e669] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-figma
+              - paragraph [ref=f57e671]: Figma
+            - link [ref=f57e673] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-wix
+              - paragraph [ref=f57e675]: Wix
+            - link [ref=f57e677] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-squarespace
+              - paragraph [ref=f57e679]: Squarespace
+            - link [ref=f57e681] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-wordpress
+              - paragraph [ref=f57e683]: WordPress
+            - link [ref=f57e685] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-readymag
+              - paragraph [ref=f57e687]: Readymag
+            - link [ref=f57e689] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-ceros
+              - paragraph [ref=f57e691]: Ceros
+            - link [ref=f57e693] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-unbounce
+              - paragraph [ref=f57e695]: Unbounce
+            - link [ref=f57e697] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-lovable
+              - paragraph [ref=f57e699]: Lovable
+            - link [ref=f57e701] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-claude-code
+              - paragraph [ref=f57e703]: Claude Code
+            - link [ref=f57e705] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-codex
+              - paragraph [ref=f57e707]: Codex
+            - link [ref=f57e709] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-contentful
+              - paragraph [ref=f57e711]: Contentful
+            - link [ref=f57e713] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-sanity
+              - paragraph [ref=f57e715]: Sanity
+            - link [ref=f57e717] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-adobe-experience-manager
+              - paragraph [ref=f57e719]: AEM
+            - link [ref=f57e721] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-replit
+              - paragraph [ref=f57e723]: Replit
+            - link [ref=f57e725] [cursor=pointer]:
+              - /url: ../../compare/framer-vs-v0
+              - paragraph [ref=f57e727]: v0
+        - list [ref=f57e729]:
+          - listitem [ref=f57e730]:
+            - paragraph [ref=f57e734]: Business
+            - link [ref=f57e736] [cursor=pointer]:
+              - /url: ../../pricing
+              - paragraph [ref=f57e738]: Pricing
+            - link [ref=f57e740] [cursor=pointer]:
+              - /url: ../../enterprise/
+              - paragraph [ref=f57e742]: Enterprise
+            - link [ref=f57e744] [cursor=pointer]:
+              - /url: ../../enterprise/infrastructure/
+              - paragraph [ref=f57e746]: Infrastructure
+            - link [ref=f57e748] [cursor=pointer]:
+              - /url: ../../startups/
+              - paragraph [ref=f57e750]: Startups
+            - link [ref=f57e752] [cursor=pointer]:
+              - /url: ../../agencies/
+              - paragraph [ref=f57e754]: Agencies
+            - link [ref=f57e756] [cursor=pointer]:
+              - /url: ../../switch/
+              - paragraph [ref=f57e758]: Switch
+          - listitem [ref=f57e759]:
+            - paragraph [ref=f57e763]: Company
+            - link [ref=f57e765] [cursor=pointer]:
+              - /url: ../../careers/
+              - paragraph [ref=f57e767]: Careers
+            - link [ref=f57e769] [cursor=pointer]:
+              - /url: ../../brand
+              - paragraph [ref=f57e771]: Brand
+            - link [ref=f57e773] [cursor=pointer]:
+              - /url: ../../store
+              - paragraph [ref=f57e775]: Store
+            - link [ref=f57e777] [cursor=pointer]:
+              - /url: ../../legal/security
+              - paragraph [ref=f57e779]: Security
+            - link [ref=f57e781] [cursor=pointer]:
+              - /url: mailto:abuse@framer.com
+              - paragraph [ref=f57e783]: Abuse
+            - link [ref=f57e785] [cursor=pointer]:
+              - /url: ../../legal/community-terms
+              - paragraph [ref=f57e787]: Legal
+            - link [ref=f57e789] [cursor=pointer]:
+              - /url: https://app.eu.vanta.com/framer.com/trust/ow67ujg7iav0t6qtd1o6r2
+              - paragraph [ref=f57e791]: Trust
+        - generic [ref=f57e793]:
+          - list [ref=f57e794]:
+            - listitem [ref=f57e795]:
+              - paragraph [ref=f57e798]: Community
+            - listitem [ref=f57e799]:
+              - link [ref=f57e800] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/
+                - paragraph [ref=f57e802]: Marketplace
+            - listitem [ref=f57e803]:
+              - link [ref=f57e804] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/templates/
+                - paragraph [ref=f57e806]: Templates
+            - listitem [ref=f57e807]:
+              - link [ref=f57e808] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/components/
+                - paragraph [ref=f57e810]: Components
+            - listitem [ref=f57e811]:
+              - link [ref=f57e812] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/plugins/
+                - paragraph [ref=f57e814]: Plugins
+            - listitem [ref=f57e815]:
+              - link [ref=f57e816] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/vectors/
+                - paragraph [ref=f57e818]: Vectors
+            - listitem [ref=f57e819]:
+              - link [ref=f57e820] [cursor=pointer]:
+                - /url: https://www.framer.com/community/feed/
+                - paragraph [ref=f57e822]: Feed
+            - listitem [ref=f57e823]:
+              - link [ref=f57e824] [cursor=pointer]:
+                - /url: https://www.framer.com/community/hype/
+                - paragraph [ref=f57e826]: Hype
+            - listitem [ref=f57e827]:
+              - link [ref=f57e828] [cursor=pointer]:
+                - /url: https://www.framer.com/community/gallery/
+                - paragraph [ref=f57e830]: Gallery
+            - listitem [ref=f57e831]:
+              - link [ref=f57e832] [cursor=pointer]:
+                - /url: https://www.framer.com/community/contests/
+                - paragraph [ref=f57e834]: Contests
+            - listitem [ref=f57e835]:
+              - link [ref=f57e836] [cursor=pointer]:
+                - /url: https://www.framer.com/community/members/
+                - paragraph [ref=f57e838]: Members
+            - listitem [ref=f57e839]:
+              - link [ref=f57e840] [cursor=pointer]:
+                - /url: ../../meetups/
+                - paragraph [ref=f57e842]: Meetups
+          - list [ref=f57e843]:
+            - listitem [ref=f57e844]:
+              - paragraph [ref=f57e847]: Tools
+            - listitem [ref=f57e848]:
+              - link [ref=f57e849] [cursor=pointer]:
+                - /url: ../../solutions/figma-to-html/
+                - paragraph [ref=f57e851]: Figma to HTML
+            - listitem [ref=f57e852]:
+              - link [ref=f57e853] [cursor=pointer]:
+                - /url: ../../aeo
+                - paragraph [ref=f57e855]: AEO scanner
+            - listitem [ref=f57e856]:
+              - link [ref=f57e857] [cursor=pointer]:
+                - /url: https://www.linkpreview.app/
+                - paragraph [ref=f57e859]: Link previewer
+            - listitem [ref=f57e860]:
+              - link [ref=f57e861] [cursor=pointer]:
+                - /url: ../../domains/
+                - paragraph [ref=f57e863]: Free domains
+            - listitem [ref=f57e864]:
+              - link [ref=f57e865] [cursor=pointer]:
+                - /url: ../../canvasbench/
+                - paragraph [ref=f57e867]: CanvasBench
+            - listitem [ref=f57e868]:
+              - link [ref=f57e869] [cursor=pointer]:
+                - /url: ../../shortcuts
+                - paragraph [ref=f57e871]: Shortcuts
+    - generic [ref=f57e872]:
+      - generic [ref=f57e873]:
+        - paragraph [ref=f57e875]: Follow us
+        - generic [ref=f57e876]:
+          - link "Twitter / X" [ref=f57e877] [cursor=pointer]:
+            - /url: https://x.com/framer
+          - link "YouTube" [ref=f57e879] [cursor=pointer]:
+            - /url: https://www.youtube.com/@Framer
+          - link "Instagram" [ref=f57e881] [cursor=pointer]:
+            - /url: https://www.instagram.com/framer/
+          - link "LinkedIn" [ref=f57e883] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/framer/
+          - link "Threads" [ref=f57e885] [cursor=pointer]:
+            - /url: https://www.threads.com/@framer
+      - generic [ref=f57e887]:
+        - paragraph [ref=f57e889]: AI summary
+        - generic [ref=f57e890]:
+          - link "OpenAI summary of Framer" [ref=f57e891] [cursor=pointer]:
+            - /url: https://chat.openai.com/?q=How%20do%20Framer%E2%80%99s%20AI%20agent%20and%20external%20agents%20fit%20into%20a%20website%20workflow%3F%20Explain%20briefly%20how%20the%20built-in%20agent%20and%20external%20tools%20such%20as%20Claude%20Code%20and%20Codex%20connect%20to%20Framer%2C%20what%20each%20can%20do%2C%20how%20work%20moves%20between%20them%2C%20and%20what%20I%20remain%20responsible%20for.%0A%0AThen%20give%20a%20concise%20overview%20of%20Framer%3A%20what%20I%20can%20build%2C%20the%20editor%2C%20CMS%2C%20components%2C%20publishing%2C%20hosting%2C%20and%20analytics%20basics%2C%20and%20what%20updates%20automatically.%20Keep%20the%20answer%20short%2C%20concrete%2C%20and%20focused%20on%20day-to-day%20use.
+          - link "Gemini summary of Framer" [ref=f57e893] [cursor=pointer]:
+            - /url: https://www.google.com/search?udm=50&q=How%20do%20Framer%E2%80%99s%20AI%20agent%20and%20external%20agents%20fit%20into%20a%20website%20workflow%3F%20Explain%20briefly%20how%20the%20built-in%20agent%20and%20external%20tools%20such%20as%20Claude%20Code%20and%20Codex%20connect%20to%20Framer%2C%20what%20each%20can%20do%2C%20how%20work%20moves%20between%20them%2C%20and%20what%20I%20remain%20responsible%20for.%0A%0AThen%20give%20a%20concise%20overview%20of%20Framer%3A%20what%20I%20can%20build%2C%20the%20editor%2C%20CMS%2C%20components%2C%20publishing%2C%20hosting%2C%20and%20analytics%20basics%2C%20and%20what%20updates%20automatically.%20Keep%20the%20answer%20short%2C%20concrete%2C%20and%20focused%20on%20day-to-day%20use.
+          - link "Perplexity summary of Framer" [ref=f57e895] [cursor=pointer]:
+            - /url: https://www.perplexity.ai/search?q=How%20do%20Framer%E2%80%99s%20AI%20agent%20and%20external%20agents%20fit%20into%20a%20website%20workflow%3F%20Explain%20briefly%20how%20the%20built-in%20agent%20and%20external%20tools%20such%20as%20Claude%20Code%20and%20Codex%20connect%20to%20Framer%2C%20what%20each%20can%20do%2C%20how%20work%20moves%20between%20them%2C%20and%20what%20I%20remain%20responsible%20for.%0A%0AThen%20give%20a%20concise%20overview%20of%20Framer%3A%20what%20I%20can%20build%2C%20the%20editor%2C%20CMS%2C%20components%2C%20publishing%2C%20hosting%2C%20and%20analytics%20basics%2C%20and%20what%20updates%20automatically.%20Keep%20the%20answer%20short%2C%20concrete%2C%20and%20focused%20on%20day-to-day%20use.
+      - generic [ref=f57e897]:
+        - paragraph [ref=f57e899]: Trusted by
+        - link [ref=f57e900] [cursor=pointer]:
+          - /url: https://app.eu.vanta.com/framer.com/trust/ow67ujg7iav0t6qtd1o6r2
+          - paragraph [ref=f57e911]: CCPA
+      - link [ref=f57e915] [cursor=pointer]:
+        - /url: https://www.framerstatus.com/
+        - paragraph [ref=f57e919]: Checking status
+      - paragraph [ref=f57e925]: Framer

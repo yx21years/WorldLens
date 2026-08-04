@@ -1,0 +1,6 @@
+{
+  "analyze_article": {"latest_version": "2", "description": "Full article analysis with background context, impact, and trend assessment"},
+  "generate_briefing": {"latest_version": "1", "description": "Daily briefing from top-scored articles"},
+  "classify_topic": {"latest_version": "1", "description": "Topic classification for articles"},
+  "score_importance": {"latest_version": "1", "description": "Importance scoring for global significance"}
+}

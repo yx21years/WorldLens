@@ -1,0 +1,257 @@
+- generic [ref=f15e2]:
+  - region "Notifications (F8)":
+    - list
+  - region "Notifications alt+T"
+  - main [ref=f15e3]:
+    - generic [ref=f15e4]:
+      - navigation [ref=f15e5]:
+        - generic [ref=f15e6]:
+          - link [ref=f15e7] [cursor=pointer]:
+            - /url: /
+            - img "MotionSites logo" [ref=f15e8]
+          - generic [ref=f15e9]:
+            - link "Sites" [ref=f15e10] [cursor=pointer]:
+              - /url: /
+            - link "Apps New" [ref=f15e11] [cursor=pointer]:
+              - /url: /apps
+              - text: Apps
+              - generic [ref=f15e12]: New
+        - generic [ref=f15e14]:
+          - link "Sections" [ref=f15e15] [cursor=pointer]:
+            - /url: /sections
+          - link "Backgrounds" [ref=f15e16] [cursor=pointer]:
+            - /url: /backgrounds
+          - link "Academy New" [ref=f15e17] [cursor=pointer]:
+            - /url: /academy
+            - text: Academy
+            - generic [ref=f15e18]: New
+          - link "Contact Us" [ref=f15e20] [cursor=pointer]:
+            - /url: /public-contact
+          - button "Search" [ref=f15e21] [cursor=pointer]
+          - link "Go Unlimited" [ref=f15e24] [cursor=pointer]:
+            - /url: /unlimited
+      - generic [ref=f15e25]:
+        - generic [ref=f15e26]:
+          - generic [ref=f15e27]: Fresh Drops Everyday
+          - heading [level=1] [ref=f15e29]:
+            - generic [ref=f15e30]:
+              - text: Unlock
+              - emphasis [ref=f15e31]: your
+              - text: AI
+            - generic [ref=f15e32]:
+              - text: Design
+              - generic [ref=f15e33]:
+                - text: Superpowers
+                - generic: Superpowers
+          - paragraph [ref=f15e34]: Build beautiful landing pages in minutes with our ready-to-use prompts. Just copy, paste, and launch.
+          - link "Go Unlimited →" [ref=f15e35] [cursor=pointer]:
+            - /url: /unlimited
+        - generic [ref=f15e36]:
+          - generic [ref=f15e37]:
+            - button "Featured" [ref=f15e38] [cursor=pointer]
+            - button "Popular" [ref=f15e39] [cursor=pointer]
+            - button "Recent" [ref=f15e40] [cursor=pointer]
+          - generic [ref=f15e41]:
+            - button "Type" [ref=f15e42] [cursor=pointer]
+            - button "Pricing" [ref=f15e46] [cursor=pointer]
+        - generic [ref=f15e50]:
+          - generic [ref=f15e51] [cursor=pointer]:
+            - img "Imperial VPN" [ref=f15e55]
+            - generic [ref=f15e57]:
+              - generic [ref=f15e58]:
+                - heading "Imperial VPN" [level=3] [ref=f15e59]
+                - text: Cybersecurity
+              - button "Unlock prompt" [ref=f15e61]: Premium
+          - generic [ref=f15e65] [cursor=pointer]:
+            - img "Mostar Guide" [ref=f15e69]
+            - generic [ref=f15e71]:
+              - generic [ref=f15e72]:
+                - heading "Mostar Guide" [level=3] [ref=f15e73]
+                - text: Travel
+              - button "Copy prompt" [ref=f15e75]: Copy
+          - link "Design Rocket Learn to design beautiful Websites using AI tools. Master AI-powered design Start Learning for Free" [ref=f15e79] [cursor=pointer]:
+            - /url: https://designrocket.io/?utm_source=motionsites&utm_medium=site&utm_campaign=promo
+            - img "Design Rocket"
+            - generic [ref=f15e80]:
+              - heading "Learn to design beautiful Websites using AI tools." [level=3] [ref=f15e81]
+              - paragraph [ref=f15e82]: Master AI-powered design
+              - generic [ref=f15e83]: Start Learning for Free
+          - generic [ref=f15e84] [cursor=pointer]:
+            - img "Personal Showcase" [ref=f15e88]
+            - generic [ref=f15e90]:
+              - generic [ref=f15e91]:
+                - heading "Personal Showcase" [level=3] [ref=f15e92]
+                - text: Portfolio
+              - button "Copy prompt" [ref=f15e94]: Copy
+          - generic [ref=f15e98] [cursor=pointer]:
+            - img "OYLA" [ref=f15e102]
+            - generic [ref=f15e104]:
+              - generic [ref=f15e105]:
+                - heading "OYLA" [level=3] [ref=f15e106]
+                - text: Ecommerce
+              - button "Unlock prompt" [ref=f15e108]: Premium
+          - generic [ref=f15e112] [cursor=pointer]:
+            - img "3D Portfolio" [ref=f15e116]
+            - generic [ref=f15e118]:
+              - generic [ref=f15e119]:
+                - heading "3D Portfolio" [level=3] [ref=f15e120]
+                - text: Portfolio
+              - button "Copy prompt" [ref=f15e122]: Copy
+          - generic [ref=f15e126] [cursor=pointer]:
+            - img "Sentinel" [ref=f15e130]
+            - generic [ref=f15e132]:
+              - generic [ref=f15e133]:
+                - heading "Sentinel" [level=3] [ref=f15e134]
+                - text: Cybersecurity
+              - button "Unlock prompt" [ref=f15e136]: Premium
+          - generic [ref=f15e140] [cursor=pointer]:
+            - img "AI Workflow Agents" [ref=f15e144]
+            - generic [ref=f15e146]:
+              - generic [ref=f15e147]:
+                - heading "AI Workflow Agents" [level=3] [ref=f15e148]
+                - text: SaaS
+              - button "Copy prompt" [ref=f15e150]: Copy
+          - generic [ref=f15e154] [cursor=pointer]:
+            - img "Data Storytelling" [ref=f15e158]
+            - generic [ref=f15e160]:
+              - generic [ref=f15e161]:
+                - heading "Data Storytelling" [level=3] [ref=f15e162]
+                - text: SaaS
+              - button "Unlock prompt" [ref=f15e164]: Premium
+          - generic [ref=f15e168] [cursor=pointer]:
+            - img "Sky Estate" [ref=f15e172]
+            - generic [ref=f15e174]:
+              - generic [ref=f15e175]:
+                - heading "Sky Estate" [level=3] [ref=f15e176]
+                - text: Real Estate
+              - button "Unlock prompt" [ref=f15e178]: Premium
+          - generic [ref=f15e182] [cursor=pointer]:
+            - img "Dreamcore Landing" [ref=f15e186]
+            - generic [ref=f15e187]:
+              - generic [ref=f15e188]:
+                - heading "Dreamcore Landing" [level=3] [ref=f15e189]
+                - text: Landing Page
+              - button "Unlock prompt" [ref=f15e191]: Premium
+          - generic [ref=f15e195] [cursor=pointer]:
+            - img "Bold Studio" [ref=f15e199]
+            - generic [ref=f15e200]:
+              - generic [ref=f15e201]:
+                - heading "Bold Studio" [level=3] [ref=f15e202]
+                - text: Hero
+              - button "Copy prompt" [ref=f15e204]: Copy
+          - generic [ref=f15e208] [cursor=pointer]:
+            - img "Intelligent Operations" [ref=f15e212]
+            - generic [ref=f15e214]:
+              - generic [ref=f15e215]:
+                - heading "Intelligent Operations" [level=3] [ref=f15e216]
+                - text: Agency
+              - button "Copy prompt" [ref=f15e218]: Copy
+          - link "MotionSites logo Backgrounds Animated backgrounds designed to convert, impress, and amaze. Explore Videos" [ref=f15e222] [cursor=pointer]:
+            - /url: /backgrounds
+            - generic [ref=f15e223]:
+              - img "MotionSites logo"
+              - generic [ref=f15e224]: Backgrounds
+            - generic [ref=f15e225]:
+              - heading "Animated backgrounds designed to convert, impress, and amaze." [level=3] [ref=f15e226]
+              - generic [ref=f15e227]: Explore Videos
+          - generic [ref=f15e228] [cursor=pointer]:
+            - img "Prisma Creative Studio" [ref=f15e232]
+            - generic [ref=f15e233]:
+              - generic [ref=f15e234]:
+                - heading "Prisma Creative Studio" [level=3] [ref=f15e235]
+                - text: Landing Page
+              - button "Copy prompt" [ref=f15e237]: Copy
+          - generic [ref=f15e241] [cursor=pointer]:
+            - img "Augmented Sight" [ref=f15e245]
+            - generic [ref=f15e247]:
+              - generic [ref=f15e248]:
+                - heading "Augmented Sight" [level=3] [ref=f15e249]
+                - text: Technology
+              - button "Unlock prompt" [ref=f15e251]: Premium
+          - generic [ref=f15e255] [cursor=pointer]:
+            - img "Interactive Discovery" [ref=f15e259]
+            - generic [ref=f15e260]:
+              - generic [ref=f15e261]:
+                - heading "Interactive Discovery" [level=3] [ref=f15e262]
+                - text: Hero
+              - button "Copy prompt" [ref=f15e264]: Copy
+          - generic [ref=f15e268] [cursor=pointer]:
+            - img "Cloud Kicks" [ref=f15e272]
+            - generic [ref=f15e274]:
+              - generic [ref=f15e275]:
+                - heading "Cloud Kicks" [level=3] [ref=f15e276]
+                - text: Fashion
+              - button "Unlock prompt" [ref=f15e278]: Premium
+          - generic [ref=f15e287] [cursor=pointer]:
+            - generic [ref=f15e288]:
+              - heading "Art Landing" [level=3] [ref=f15e289]
+              - text: Landing Page
+            - button "Unlock prompt" [ref=f15e291]: Premium
+          - generic [ref=f15e295] [cursor=pointer]:
+            - img "Routine Coach" [ref=f15e299]
+            - generic [ref=f15e301]:
+              - generic [ref=f15e302]:
+                - heading "Routine Coach" [level=3] [ref=f15e303]
+                - text: Wellness
+              - button "Unlock prompt" [ref=f15e305]: Premium
+          - generic [ref=f15e309] [cursor=pointer]:
+            - img "Velorah" [ref=f15e313]
+            - generic [ref=f15e314]:
+              - generic [ref=f15e315]:
+                - heading "Velorah" [level=3] [ref=f15e316]
+                - text: Agency
+              - button "Copy prompt" [ref=f15e318]: Copy
+          - generic [ref=f15e322] [cursor=pointer]:
+            - img "TrustFlow" [ref=f15e326]
+            - generic [ref=f15e328]:
+              - generic [ref=f15e329]:
+                - heading "TrustFlow" [level=3] [ref=f15e330]
+                - text: Finance
+              - button "Copy prompt" [ref=f15e332]: Copy
+          - generic [ref=f15e336] [cursor=pointer]:
+            - img "Web3 EOS Hero" [ref=f15e340]
+            - generic [ref=f15e341]:
+              - generic [ref=f15e342]:
+                - heading "Web3 EOS Hero" [level=3] [ref=f15e343]
+                - text: Web3
+              - button "Unlock prompt" [ref=f15e345]: Premium
+          - generic [ref=f15e349] [cursor=pointer]:
+            - img "Relocation Card" [ref=f15e353]
+            - generic [ref=f15e355]:
+              - generic [ref=f15e356]:
+                - heading "Relocation Card" [level=3] [ref=f15e357]
+                - text: Finance
+              - button "Unlock prompt" [ref=f15e359]: Premium
+          - generic [ref=f15e363] [cursor=pointer]:
+            - img "Aetheris Voyage" [ref=f15e367]
+            - generic [ref=f15e368]:
+              - generic [ref=f15e369]:
+                - heading "Aetheris Voyage" [level=3] [ref=f15e370]
+                - text: Hero Section
+              - button "Copy prompt" [ref=f15e372]: Copy
+          - generic [ref=f15e376] [cursor=pointer]:
+            - img "Form Study" [ref=f15e380]
+            - generic [ref=f15e382]:
+              - generic [ref=f15e383]:
+                - heading "Form Study" [level=3] [ref=f15e384]
+                - text: Art
+              - button "Unlock prompt" [ref=f15e386]: Premium
+        - generic [ref=f15e392]:
+          - generic [ref=f15e393]:
+            - img "MotionSites logo"
+            - heading "Develop Your AI Design Skills That Stand Out." [level=2] [ref=f15e394]
+            - paragraph [ref=f15e395]: "\"Give Me Just a Few Days And I'll Show You How To Create AI Design Websites That Most Agencies Charge $5,000 For\""
+            - link "Explore the Full Library" [ref=f15e396] [cursor=pointer]:
+              - /url: https://designrocket.io/
+          - img "Design Rocket preview"
+        - paragraph [ref=f15e399]: Built with Design Rocket 🚀
+      - generic [ref=f15e401]:
+        - button [ref=f15e402] [cursor=pointer]
+        - generic [ref=f15e406]:
+          - generic [ref=f15e407]:
+            - heading "Stillmind" [level=3] [ref=f15e408]
+            - text: Hero
+          - button "Like" [ref=f15e409] [cursor=pointer]:
+            - generic [ref=f15e412]: "291"
+            - generic [ref=f15e413]: likes
+          - button "Copy full prompt" [ref=f15e414] [cursor=pointer]

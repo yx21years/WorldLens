@@ -1,0 +1,257 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - heading "WorldLens" [level=1] [ref=e6]
+      - paragraph [ref=e7]: AI 全球新闻简报
+    - generic [ref=e8]: 2026年8月1日
+  - generic [ref=e9]:
+    - heading "📌 今日要点" [level=2] [ref=e10]
+    - generic [ref=e11]: "# 今日全球简报 ## 地缘政治与冲突 **欧洲移民危机升级**：西班牙北非休达地区遭遇大规模移民潮，约6万名摩洛哥移民涌入西班牙飞地，造成至少18人死亡。西班牙已派遣军队应对，意大利则暂停与西班牙的申根区自由流动协议。这一事件凸显了欧洲与非洲之间持续的移民挑战，可能考验欧盟在边境管理方面的合作。 **俄乌冲突持续**：乌克兰总统泽连斯基报告，一枚俄罗斯导弹袭击了克里维里赫附近的一个村庄，造成一个家庭的5名成员死亡，包括一名6岁女孩和两名男孩。此外，波兰总理称在靠近乌克兰边境地区发现的导弹很可能是俄罗斯发射的，这标志着俄乌冲突可能升级，并涉及北约领土。 **中东局势紧张**：美国与伊朗之间的紧张关系加剧，前总统特朗普威胁对伊朗发动军事打击，而伊朗官员声称已制定应对计划。沙特阿拉伯面临战略抉择，是在美伊冲突中保持威慑姿态还是尝试缓和紧张局势。与此同时，哈马斯解除武装的计划提供了加沙地区罕见的希望，尽管面临重大障碍，国际社会对此反应谨慎乐观。 ..."
+  - heading "📰 已分析文章 (25)" [level=2] [ref=e12]
+  - generic [ref=e13]:
+    - 'link "Spain''s PM blames traffickers after 60,000 migrants reach Ceuta from Morocco Spain''s PM blames traffickers after 60,000 migrants reach Ceuta from Morocco {\"title\": \"Spain''s PM blames traffickers after 60,000 migrants reach Ceuta from Morocco\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\"... 未知来源 重要性 N/A 阅读原文 →" [ref=e14] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss
+      - img "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco" [ref=e15]
+      - generic [ref=e16]:
+        - heading "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco" [level=3] [ref=e17]
+        - paragraph [ref=e18]: "{\"title\": \"Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\"..."
+        - generic [ref=e19]:
+          - generic [ref=e20]: 未知来源
+          - generic [ref=e21]: 重要性 N/A
+        - generic [ref=e22]: 阅读原文 →
+    - 'link "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza {\"title\": \"Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world... 未知来源 重要性 N/A 阅读原文 →" [ref=e23] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss
+      - 'img "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza" [ref=e24]'
+      - generic [ref=e25]:
+        - 'heading "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza" [level=3] [ref=e26]'
+        - paragraph [ref=e27]: "{\"title\": \"Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world..."
+        - generic [ref=e28]:
+          - generic [ref=e29]: 未知来源
+          - generic [ref=e30]: 重要性 N/A
+        - generic [ref=e31]: 阅读原文 →
+    - 'link "Fifa says ''nobody selling football'' as plan continues Fifa says ''nobody selling football'' as plan continues {\"title\": \"Fifa says ''nobody selling football'' as plan continues\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"Fifa says ''... 未知来源 重要性 N/A 阅读原文 →" [ref=e32] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss
+      - img "Fifa says 'nobody selling football' as plan continues" [ref=e33]
+      - generic [ref=e34]:
+        - heading "Fifa says 'nobody selling football' as plan continues" [level=3] [ref=e35]
+        - paragraph [ref=e36]: "{\"title\": \"Fifa says 'nobody selling football' as plan continues\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"Fifa says '..."
+        - generic [ref=e37]:
+          - generic [ref=e38]: 未知来源
+          - generic [ref=e39]: 重要性 N/A
+        - generic [ref=e40]: 阅读原文 →
+    - 'link "Spain sending troops as thousands enter enclave of Ceuta from Morocco Spain sending troops as thousands enter enclave of Ceuta from Morocco {\"title\": \"Spain sending troops as thousands enter enclave of Ceuta from Morocco\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"valu... 未知来源 重要性 N/A 阅读原文 →" [ref=e41] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss
+      - img "Spain sending troops as thousands enter enclave of Ceuta from Morocco" [ref=e42]
+      - generic [ref=e43]:
+        - heading "Spain sending troops as thousands enter enclave of Ceuta from Morocco" [level=3] [ref=e44]
+        - paragraph [ref=e45]: "{\"title\": \"Spain sending troops as thousands enter enclave of Ceuta from Morocco\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"valu..."
+        - generic [ref=e46]:
+          - generic [ref=e47]: 未知来源
+          - generic [ref=e48]: 重要性 N/A
+        - generic [ref=e49]: 阅读原文 →
+    - 'link "At least five members of same family killed in Russian missile attack, Zelensky says At least five members of same family killed in Russian missile attack, Zelensky says {\"title\": \"At least five members of same family killed in Russian missile attack, Zelensky says\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/... 未知来源 重要性 N/A 阅读原文 →" [ref=e50] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss
+      - img "At least five members of same family killed in Russian missile attack, Zelensky says" [ref=e51]
+      - generic [ref=e52]:
+        - heading "At least five members of same family killed in Russian missile attack, Zelensky says" [level=3] [ref=e53]
+        - paragraph [ref=e54]: "{\"title\": \"At least five members of same family killed in Russian missile attack, Zelensky says\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/..."
+        - generic [ref=e55]:
+          - generic [ref=e56]: 未知来源
+          - generic [ref=e57]: 重要性 N/A
+        - generic [ref=e58]: 阅读原文 →
+    - 'link "Why limited war with the US may suit Iran better than peace Why limited war with the US may suit Iran better than peace {\"title\": \"Why limited war with the US may suit Iran better than peace\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"Why l... 未知来源 重要性 N/A 阅读原文 →" [ref=e59] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss
+      - img "Why limited war with the US may suit Iran better than peace" [ref=e60]
+      - generic [ref=e61]:
+        - heading "Why limited war with the US may suit Iran better than peace" [level=3] [ref=e62]
+        - paragraph [ref=e63]: "{\"title\": \"Why limited war with the US may suit Iran better than peace\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"Why l..."
+        - generic [ref=e64]:
+          - generic [ref=e65]: 未知来源
+          - generic [ref=e66]: 重要性 N/A
+        - generic [ref=e67]: 阅读原文 →
+    - 'link "Uefa to boycott World Cups if Fifa plans approved Uefa to boycott World Cups if Fifa plans approved {\"title\": \"Uefa to boycott World Cups if Fifa plans approved\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"Uefa to boycott... 未知来源 重要性 N/A 阅读原文 →" [ref=e68] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss
+      - img "Uefa to boycott World Cups if Fifa plans approved" [ref=e69]
+      - generic [ref=e70]:
+        - heading "Uefa to boycott World Cups if Fifa plans approved" [level=3] [ref=e71]
+        - paragraph [ref=e72]: "{\"title\": \"Uefa to boycott World Cups if Fifa plans approved\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"Uefa to boycott..."
+        - generic [ref=e73]:
+          - generic [ref=e74]: 未知来源
+          - generic [ref=e75]: 重要性 N/A
+        - generic [ref=e76]: 阅读原文 →
+    - 'link "Danube''s record low levels force shutdown of Hungary''s only nuclear plant Danube''s record low levels force shutdown of Hungary''s only nuclear plant {\"title\": \"Danube''s record low levels force shutdown of Hungary''s only nuclear plant\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"... 未知来源 重要性 N/A 阅读原文 →" [ref=e77] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss
+      - img "Danube's record low levels force shutdown of Hungary's only nuclear plant" [ref=e78]
+      - generic [ref=e79]:
+        - heading "Danube's record low levels force shutdown of Hungary's only nuclear plant" [level=3] [ref=e80]
+        - paragraph [ref=e81]: "{\"title\": \"Danube's record low levels force shutdown of Hungary's only nuclear plant\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"..."
+        - generic [ref=e82]:
+          - generic [ref=e83]: 未知来源
+          - generic [ref=e84]: 重要性 N/A
+        - generic [ref=e85]: 阅读原文 →
+    - 'link "Missile that left crater deep inside Poland was probably Russian - Polish PM Missile that left crater deep inside Poland was probably Russian - Polish PM {\"title\": \"Missile that left crater deep inside Poland was probably Russian - Polish PM\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\"... 未知来源 重要性 N/A 阅读原文 →" [ref=e86] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss
+      - img "Missile that left crater deep inside Poland was probably Russian - Polish PM" [ref=e87]
+      - generic [ref=e88]:
+        - heading "Missile that left crater deep inside Poland was probably Russian - Polish PM" [level=3] [ref=e89]
+        - paragraph [ref=e90]: "{\"title\": \"Missile that left crater deep inside Poland was probably Russian - Polish PM\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\"..."
+        - generic [ref=e91]:
+          - generic [ref=e92]: 未知来源
+          - generic [ref=e93]: 重要性 N/A
+        - generic [ref=e94]: 阅读原文 →
+    - 'link "Anthropic''s Claude AI escapes to hack into three organisations Anthropic''s Claude AI escapes to hack into three organisations {\"title\": \"Anthropic''s Claude AI escapes to hack into three organisations\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"An... 未知来源 重要性 N/A 阅读原文 →" [ref=e95] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss
+      - img "Anthropic's Claude AI escapes to hack into three organisations" [ref=e96]
+      - generic [ref=e97]:
+        - heading "Anthropic's Claude AI escapes to hack into three organisations" [level=3] [ref=e98]
+        - paragraph [ref=e99]: "{\"title\": \"Anthropic's Claude AI escapes to hack into three organisations\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"An..."
+        - generic [ref=e100]:
+          - generic [ref=e101]: 未知来源
+          - generic [ref=e102]: 重要性 N/A
+        - generic [ref=e103]: 阅读原文 →
+    - 'link "What could happen to Fifa if Uefa boycotts World Cup? What could happen to Fifa if Uefa boycotts World Cup? {\"title\": \"What could happen to Fifa if Uefa boycotts World Cup?\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"What could ... 未知来源 重要性 N/A 阅读原文 →" [ref=e104] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss
+      - img "What could happen to Fifa if Uefa boycotts World Cup?" [ref=e105]
+      - generic [ref=e106]:
+        - heading "What could happen to Fifa if Uefa boycotts World Cup?" [level=3] [ref=e107]
+        - paragraph [ref=e108]: "{\"title\": \"What could happen to Fifa if Uefa boycotts World Cup?\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"What could ..."
+        - generic [ref=e109]:
+          - generic [ref=e110]: 未知来源
+          - generic [ref=e111]: 重要性 N/A
+        - generic [ref=e112]: 阅读原文 →
+    - 'link "Saudi Arabia''s dilemma as it tries to stay out of US-Iran war Saudi Arabia''s dilemma as it tries to stay out of US-Iran war {\"title\": \"Saudi Arabia''s dilemma as it tries to stay out of US-Iran war\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"Sau... 未知来源 重要性 N/A 阅读原文 →" [ref=e113] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss
+      - img "Saudi Arabia's dilemma as it tries to stay out of US-Iran war" [ref=e114]
+      - generic [ref=e115]:
+        - heading "Saudi Arabia's dilemma as it tries to stay out of US-Iran war" [level=3] [ref=e116]
+        - paragraph [ref=e117]: "{\"title\": \"Saudi Arabia's dilemma as it tries to stay out of US-Iran war\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"Sau..."
+        - generic [ref=e118]:
+          - generic [ref=e119]: 未知来源
+          - generic [ref=e120]: 重要性 N/A
+        - generic [ref=e121]: 阅读原文 →
+    - 'link "What triggered the mass migrant crossings into Ceuta? What triggered the mass migrant crossings into Ceuta? {\"title\": \"What triggered the mass migrant crossings into Ceuta?\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"What trigge... 未知来源 重要性 N/A 阅读原文 →" [ref=e122] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss
+      - img "What triggered the mass migrant crossings into Ceuta?" [ref=e123]
+      - generic [ref=e124]:
+        - heading "What triggered the mass migrant crossings into Ceuta?" [level=3] [ref=e125]
+        - paragraph [ref=e126]: "{\"title\": \"What triggered the mass migrant crossings into Ceuta?\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"What trigge..."
+        - generic [ref=e127]:
+          - generic [ref=e128]: 未知来源
+          - generic [ref=e129]: 重要性 N/A
+        - generic [ref=e130]: 阅读原文 →
+    - 'link "Iran war live: Trump threatens strikes, Iran says it has a plan to respond {\"links\": [{\"rel\": \"alternate\", \"type\": \"text/html\", \"href\": \"https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss\"}]... 未知来源 重要性 N/A 阅读原文 →" [ref=e131] [cursor=pointer]':
+      - /url: https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss
+      - generic [ref=e132]:
+        - 'heading "Iran war live: Trump threatens strikes, Iran says it has a plan to respond" [level=3] [ref=e133]'
+        - paragraph [ref=e134]: "{\"links\": [{\"rel\": \"alternate\", \"type\": \"text/html\", \"href\": \"https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss\"}]..."
+        - generic [ref=e135]:
+          - generic [ref=e136]: 未知来源
+          - generic [ref=e137]: 重要性 N/A
+        - generic [ref=e138]: 阅读原文 →
+    - 'link "Powerful El Nino to intensify heat on ‘a planet already on fire’: UN {\"links\": [{\"rel\": \"alternate\", \"type\": \"text/html\", \"href\": \"https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss\"}], \"link\": ... 未知来源 重要性 N/A 阅读原文 →" [ref=e139] [cursor=pointer]':
+      - /url: https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss
+      - generic [ref=e140]:
+        - 'heading "Powerful El Nino to intensify heat on ‘a planet already on fire’: UN" [level=3] [ref=e141]'
+        - paragraph [ref=e142]: "{\"links\": [{\"rel\": \"alternate\", \"type\": \"text/html\", \"href\": \"https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss\"}], \"link\": ..."
+        - generic [ref=e143]:
+          - generic [ref=e144]: 未知来源
+          - generic [ref=e145]: 重要性 N/A
+        - generic [ref=e146]: 阅读原文 →
+    - 'link "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal {\"links\": [{\"rel\": \"alternate\", \"type\": \"text/html\", \"href\": \"https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss\"}], \"lin... 未知来源 重要性 N/A 阅读原文 →" [ref=e147] [cursor=pointer]':
+      - /url: https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss
+      - generic [ref=e148]:
+        - heading "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal" [level=3] [ref=e149]
+        - paragraph [ref=e150]: "{\"links\": [{\"rel\": \"alternate\", \"type\": \"text/html\", \"href\": \"https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss\"}], \"lin..."
+        - generic [ref=e151]:
+          - generic [ref=e152]: 未知来源
+          - generic [ref=e153]: 重要性 N/A
+        - generic [ref=e154]: 阅读原文 →
+    - 'link "World reacts with cautious optimism to Hamas disarmament agreement {\"links\": [{\"rel\": \"alternate\", \"type\": \"text/html\", \"href\": \"https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss\"}], \"link\":... 未知来源 重要性 N/A 阅读原文 →" [ref=e155] [cursor=pointer]':
+      - /url: https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss
+      - generic [ref=e156]:
+        - heading "World reacts with cautious optimism to Hamas disarmament agreement" [level=3] [ref=e157]
+        - paragraph [ref=e158]: "{\"links\": [{\"rel\": \"alternate\", \"type\": \"text/html\", \"href\": \"https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss\"}], \"link\":..."
+        - generic [ref=e159]:
+          - generic [ref=e160]: 未知来源
+          - generic [ref=e161]: 重要性 N/A
+        - generic [ref=e162]: 阅读原文 →
+    - 'link "Hundreds escape Greek wildfire by sea as blazes continue across Europe Hundreds escape Greek wildfire by sea as blazes continue across Europe {\"title\": \"Hundreds escape Greek wildfire by sea as blazes continue across Europe\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"val... 未知来源 重要性 N/A 阅读原文 →" [ref=e163] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss
+      - img "Hundreds escape Greek wildfire by sea as blazes continue across Europe" [ref=e164]
+      - generic [ref=e165]:
+        - heading "Hundreds escape Greek wildfire by sea as blazes continue across Europe" [level=3] [ref=e166]
+        - paragraph [ref=e167]: "{\"title\": \"Hundreds escape Greek wildfire by sea as blazes continue across Europe\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"val..."
+        - generic [ref=e168]:
+          - generic [ref=e169]: 未知来源
+          - generic [ref=e170]: 重要性 N/A
+        - generic [ref=e171]: 阅读原文 →
+    - 'link "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect {\"title\": \"Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"... 未知来源 重要性 N/A 阅读原文 →" [ref=e172] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss
+      - img "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect" [ref=e173]
+      - generic [ref=e174]:
+        - heading "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect" [level=3] [ref=e175]
+        - paragraph [ref=e176]: "{\"title\": \"Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"..."
+        - generic [ref=e177]:
+          - generic [ref=e178]: 未知来源
+          - generic [ref=e179]: 重要性 N/A
+        - generic [ref=e180]: 阅读原文 →
+    - 'link "Trump considering AI controls after OpenAI hacking incidents Trump considering AI controls after OpenAI hacking incidents {\"title\": \"Trump considering AI controls after OpenAI hacking incidents\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"Trum... 未知来源 重要性 N/A 阅读原文 →" [ref=e181] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss
+      - img "Trump considering AI controls after OpenAI hacking incidents" [ref=e182]
+      - generic [ref=e183]:
+        - heading "Trump considering AI controls after OpenAI hacking incidents" [level=3] [ref=e184]
+        - paragraph [ref=e185]: "{\"title\": \"Trump considering AI controls after OpenAI hacking incidents\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"Trum..."
+        - generic [ref=e186]:
+          - generic [ref=e187]: 未知来源
+          - generic [ref=e188]: 重要性 N/A
+        - generic [ref=e189]: 阅读原文 →
+    - 'link "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says Veteran Ugandan opposition leader collapses in court and in ICU, his wife says {\"title\": \"Veteran Ugandan opposition leader collapses in court and in ICU, his wife says\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xm... 未知来源 重要性 N/A 阅读原文 →" [ref=e190] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss
+      - img "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says" [ref=e191]
+      - generic [ref=e192]:
+        - heading "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says" [level=3] [ref=e193]
+        - paragraph [ref=e194]: "{\"title\": \"Veteran Ugandan opposition leader collapses in court and in ICU, his wife says\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xm..."
+        - generic [ref=e195]:
+          - generic [ref=e196]: 未知来源
+          - generic [ref=e197]: 重要性 N/A
+        - generic [ref=e198]: 阅读原文 →
+    - 'link "Australia takes Telegram to court over alleged failure to remove ''pro-terror'' material Australia takes Telegram to court over alleged failure to remove ''pro-terror'' material {\"title\": \"Australia takes Telegram to court over alleged failure to remove ''pro-terror'' material\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/worl... 未知来源 重要性 N/A 阅读原文 →" [ref=e199] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss
+      - img "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material" [ref=e200]
+      - generic [ref=e201]:
+        - heading "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material" [level=3] [ref=e202]
+        - paragraph [ref=e203]: "{\"title\": \"Australia takes Telegram to court over alleged failure to remove 'pro-terror' material\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/worl..."
+        - generic [ref=e204]:
+          - generic [ref=e205]: 未知来源
+          - generic [ref=e206]: 重要性 N/A
+        - generic [ref=e207]: 阅读原文 →
+    - 'link "Salman Rushdie attacker convicted of terror offences Salman Rushdie attacker convicted of terror offences {\"title\": \"Salman Rushdie attacker convicted of terror offences\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"Salman Rushd... 未知来源 重要性 N/A 阅读原文 →" [ref=e208] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss
+      - img "Salman Rushdie attacker convicted of terror offences" [ref=e209]
+      - generic [ref=e210]:
+        - heading "Salman Rushdie attacker convicted of terror offences" [level=3] [ref=e211]
+        - paragraph [ref=e212]: "{\"title\": \"Salman Rushdie attacker convicted of terror offences\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"Salman Rushd..."
+        - generic [ref=e213]:
+          - generic [ref=e214]: 未知来源
+          - generic [ref=e215]: 重要性 N/A
+        - generic [ref=e216]: 阅读原文 →
+    - 'link "''It''s our home, it''s our forest'': BBC speaks to locals fighting France wildfire ''It''s our home, it''s our forest'': BBC speaks to locals fighting France wildfire {\"title\": \"''It''s our home, it''s our forest'': BBC speaks to locals fighting France wildfire\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.x... 未知来源 重要性 N/A 阅读原文 →" [ref=e217] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss
+      - 'img "''It''s our home, it''s our forest'': BBC speaks to locals fighting France wildfire" [ref=e218]'
+      - generic [ref=e219]:
+        - 'heading "''It''s our home, it''s our forest'': BBC speaks to locals fighting France wildfire" [level=3] [ref=e220]'
+        - paragraph [ref=e221]: "{\"title\": \"'It's our home, it's our forest': BBC speaks to locals fighting France wildfire\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.x..."
+        - generic [ref=e222]:
+          - generic [ref=e223]: 未知来源
+          - generic [ref=e224]: 重要性 N/A
+        - generic [ref=e225]: 阅读原文 →
+    - 'link "The Chinese robot army transforming the UK''s retail industry The Chinese robot army transforming the UK''s retail industry {\"title\": \"The Chinese robot army transforming the UK''s retail industry\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"The ... 未知来源 重要性 N/A 阅读原文 →" [ref=e226] [cursor=pointer]':
+      - /url: https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss
+      - img "The Chinese robot army transforming the UK's retail industry" [ref=e227]
+      - generic [ref=e228]:
+        - heading "The Chinese robot army transforming the UK's retail industry" [level=3] [ref=e229]
+        - paragraph [ref=e230]: "{\"title\": \"The Chinese robot army transforming the UK's retail industry\", \"title_detail\": {\"type\": \"text/plain\", \"language\": null, \"base\": \"https://feeds.bbci.co.uk/news/world/rss.xml\", \"value\": \"The ..."
+        - generic [ref=e231]:
+          - generic [ref=e232]: 未知来源
+          - generic [ref=e233]: 重要性 N/A
+        - generic [ref=e234]: 阅读原文 →

@@ -1,0 +1,213 @@
+- generic [active] [ref=f91e1]:
+  - generic [ref=f91e4]:
+    - navigation "Community" [ref=f91e5]:
+      - generic [ref=f91e6]:
+        - link "Framer Community Framer Community" [ref=f91e7] [cursor=pointer]:
+          - /url: /community/
+          - img "Framer Community" [ref=f91e8]
+          - generic [ref=f91e9]: Framer Community
+        - combobox "Search Community" [ref=f91e15]
+        - generic [ref=f91e16]: Discover
+        - link "Feed" [ref=f91e17] [cursor=pointer]:
+          - /url: /community/feed/
+        - link "Hype" [ref=f91e22] [cursor=pointer]:
+          - /url: /community/hype/
+        - link "Activity" [ref=f91e27] [cursor=pointer]:
+          - /url: /community/activity/
+      - generic [ref=f91e33]:
+        - generic [ref=f91e34]: Marketplace
+        - link "All" [ref=f91e35] [cursor=pointer]:
+          - /url: /community/marketplace/
+        - link "Templates" [ref=f91e40] [cursor=pointer]:
+          - /url: /community/marketplace/templates/
+        - link "Components" [ref=f91e45] [cursor=pointer]:
+          - /url: /community/marketplace/components/
+        - link "Vectors" [ref=f91e50] [cursor=pointer]:
+          - /url: /community/marketplace/vectors/
+        - link "Plugins" [ref=f91e55] [cursor=pointer]:
+          - /url: /community/marketplace/plugins/
+      - generic [ref=f91e61]:
+        - generic [ref=f91e62]: Community
+        - link "Gallery" [ref=f91e63] [cursor=pointer]:
+          - /url: /community/gallery/
+        - link "Members" [ref=f91e68] [cursor=pointer]:
+          - /url: /community/members/
+    - generic [ref=f91e74]:
+      - generic [ref=f91e79]:
+        - button "Go back" [ref=f91e80] [cursor=pointer]:
+          - generic [ref=f91e81]: Back
+        - navigation "Breadcrumb" [ref=f91e85]:
+          - link "Components" [ref=f91e87] [cursor=pointer]:
+            - /url: /community/marketplace/components/
+          - link "Categories" [ref=f91e91] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/
+          - link "Interactions" [ref=f91e95] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/interactions/
+      - generic [ref=f91e97]:
+        - generic [ref=f91e98]:
+          - heading "Custom FAQ Accordion · Premium Interactions Component" [level=1] [ref=f91e100]
+          - generic [ref=f91e102]:
+            - generic [ref=f91e103]:
+              - button "More options" [ref=f91e104] [cursor=pointer]
+              - button "0 comments" [ref=f91e108] [cursor=pointer]
+              - button "Like component" [ref=f91e111] [cursor=pointer]
+            - button "Buy for $10" [ref=f91e117] [cursor=pointer]
+        - generic [ref=f91e119]:
+          - img "Custom FAQ Accordion" [ref=f91e121]
+          - button "Open preview" [ref=f91e122] [cursor=pointer]
+        - generic [ref=f91e126]:
+          - article [ref=f91e127]:
+            - generic [ref=f91e130]:
+              - paragraph [ref=f91e131]:
+                - text: The Custom Accordion component for
+                - link "Framer" [ref=f91e132] [cursor=pointer]:
+                  - /url: https://www.framer.com/?via=pixco
+                - text: is a powerful tool for anyone looking to streamline their FAQs or organize content within a Framer project. It’s especially great for users who aren’t deeply familiar with Framer, enabling them to effortlessly add as many questions and answers as they need without having to mess with complex component linking. This component handles all the connections automatically, letting you focus solely on your content.
+              - heading "Controls" [level=2] [ref=f91e133]
+              - paragraph [ref=f91e134]: • Add as many FAQs as you want
+              - paragraph [ref=f91e135]: • Full background controls
+              - paragraph [ref=f91e136]: • Gap & padding controls
+              - paragraph [ref=f91e137]: • Icon controls, including custom icons, animations, sizing & spacing
+              - paragraph [ref=f91e138]: • Font styling controls
+              - paragraph [ref=f91e139]: • Border and border radius controls
+              - paragraph [ref=f91e140]: • Thorough hover controls
+              - paragraph [ref=f91e141]: • Transition control for animations
+              - paragraph [ref=f91e142]: • First card open control
+              - heading "Support" [level=2] [ref=f91e143]
+              - paragraph [ref=f91e144]:
+                - text: For the full documentation of this component, please visit the
+                - link "support page" [ref=f91e145] [cursor=pointer]:
+                  - /url: https://pixcodrops.com/articles/custom-accordion-for-framer/?utm_source=framer-marketplace
+                - text: on our website.
+            - generic [ref=f91e146]:
+              - button "Like component" [ref=f91e147] [cursor=pointer]:
+                - generic [ref=f91e152]: "16"
+              - button "0 comments" [ref=f91e157] [cursor=pointer]
+              - generic [ref=f91e161]:
+                - generic [ref=f91e162]: Updated 3mo ago
+                - generic [ref=f91e163]: ·
+                - button "View activity" [ref=f91e164] [cursor=pointer]
+          - complementary [ref=f91e166]:
+            - generic [ref=f91e167]:
+              - heading "Details" [level=2] [ref=f91e169]
+              - generic [ref=f91e171]:
+                - generic [ref=f91e172]:
+                  - term [ref=f91e173]: Creator
+                  - definition [ref=f91e174]:
+                    - button [ref=f91e176] [cursor=pointer]:
+                      - link "Stefan @ Pixco Stefan @ Pixco" [ref=f91e177]:
+                        - /url: /community/creator/@stefcr/
+                        - img "Stefan @ Pixco" [ref=f91e178]
+                        - generic [ref=f91e179]: Stefan @ Pixco
+                - generic [ref=f91e180]:
+                  - term [ref=f91e181]: Published
+                  - definition [ref=f91e182]: September 30, 2025
+                - generic [ref=f91e183]:
+                  - term [ref=f91e184]: License
+                  - definition [ref=f91e185]:
+                    - link "Single-Use License" [ref=f91e186] [cursor=pointer]:
+                      - /url: https://www.framer.com/legal/community-terms/
+            - generic [ref=f91e187]:
+              - generic [ref=f91e188]:
+                - heading "Categories" [level=2] [ref=f91e189]
+                - link "See all" [ref=f91e190] [cursor=pointer]:
+                  - /url: /community/marketplace/components/categories/
+              - list "Categories" [ref=f91e192]:
+                - listitem [ref=f91e193]:
+                  - link "Featured" [ref=f91e194] [cursor=pointer]:
+                    - /url: /community/marketplace/components/featured/
+                - listitem [ref=f91e195]:
+                  - link "Interactions" [ref=f91e196] [cursor=pointer]:
+                    - /url: /community/marketplace/components/categories/interactions/
+          - generic [ref=f91e200]:
+            - textbox "Reply…" [ref=f91e202]:
+              - paragraph [ref=f91e203]: Reply…
+            - button [disabled]
+          - generic [ref=f91e204]:
+            - generic [ref=f91e205]:
+              - generic [ref=f91e206]:
+                - heading "More from Stefan @ Pixco" [level=2] [ref=f91e207]
+                - link "See all" [ref=f91e208] [cursor=pointer]:
+                  - /url: /@stefcr/?tab=marketplace
+              - generic [ref=f91e209]:
+                - generic [ref=f91e210] [cursor=pointer]:
+                  - link "Pixelate Image Hover" [ref=f91e211]:
+                    - /url: /community/marketplace/components/pixelate-image-hover/
+                  - button "Open preview" [ref=f91e212]
+                  - generic [ref=f91e215]:
+                    - generic:
+                      - img "Pixelate Image Hover"
+                  - generic [ref=f91e216]:
+                    - link "Pixelate Image Hover" [ref=f91e219]:
+                      - /url: /community/marketplace/components/pixelate-image-hover/
+                    - button "Like component" [ref=f91e222]:
+                      - generic [ref=f91e227]: "11"
+                - generic [ref=f91e232] [cursor=pointer]:
+                  - link "Tinder Like Swipe" [ref=f91e233]:
+                    - /url: /community/marketplace/components/tinder-like-swipe/
+                  - button "Open preview" [ref=f91e234]
+                  - generic [ref=f91e237]:
+                    - generic:
+                      - img "Tinder Like Swipe"
+                  - generic [ref=f91e238]:
+                    - link "Tinder Like Swipe" [ref=f91e241]:
+                      - /url: /community/marketplace/components/tinder-like-swipe/
+                    - button "Like component" [ref=f91e244]:
+                      - generic [ref=f91e249]: "10"
+                - generic [ref=f91e254] [cursor=pointer]:
+                  - link "Turning 3D Carousel" [ref=f91e255]:
+                    - /url: /community/marketplace/components/turning-3d-carousel/
+                  - button "Open preview" [ref=f91e256]
+                  - generic [ref=f91e259]:
+                    - generic:
+                      - img "Turning 3D Carousel"
+                  - generic [ref=f91e260]:
+                    - link "Turning 3D Carousel" [ref=f91e263]:
+                      - /url: /community/marketplace/components/turning-3d-carousel/
+                    - button "Like component" [ref=f91e266]:
+                      - generic [ref=f91e271]: "11"
+            - generic [ref=f91e276]:
+              - generic [ref=f91e278]:
+                - heading "Related Components" [level=2] [ref=f91e279]
+                - link "See all" [ref=f91e280] [cursor=pointer]:
+                  - /url: /community/marketplace/components/
+              - generic [ref=f91e281]:
+                - generic [ref=f91e282] [cursor=pointer]:
+                  - link "Scroll SVG Reveal" [ref=f91e283]:
+                    - /url: /community/marketplace/components/scroll-svg-reveal/
+                  - button "Open preview" [ref=f91e284]
+                  - generic [ref=f91e287]:
+                    - generic:
+                      - img "Scroll SVG Reveal"
+                  - generic [ref=f91e288]:
+                    - link "Scroll SVG Reveal" [ref=f91e291]:
+                      - /url: /community/marketplace/components/scroll-svg-reveal/
+                    - button "Like component" [ref=f91e294]:
+                      - generic [ref=f91e299]: "7"
+                - generic [ref=f91e304] [cursor=pointer]:
+                  - link "Sampling" [ref=f91e305]:
+                    - /url: /community/marketplace/components/sampling/
+                  - button "Open preview" [ref=f91e306]
+                  - generic [ref=f91e309]:
+                    - generic:
+                      - img "Sampling"
+                  - generic [ref=f91e310]:
+                    - link "Sampling" [ref=f91e313]:
+                      - /url: /community/marketplace/components/sampling/
+                    - button "Like component" [ref=f91e316]:
+                      - generic [ref=f91e321]: "2"
+                - generic [ref=f91e326] [cursor=pointer]:
+                  - link "Free Cookie Consent" [ref=f91e327]:
+                    - /url: /community/marketplace/components/free-cookie-consent/
+                  - button "Open preview" [ref=f91e328]
+                  - generic [ref=f91e331]:
+                    - generic:
+                      - img "Free Cookie Consent"
+                  - generic [ref=f91e332]:
+                    - link "Free Cookie Consent" [ref=f91e335]:
+                      - /url: /community/marketplace/components/free-cookie-consent/
+                    - button "Like component" [ref=f91e338]:
+                      - generic [ref=f91e343]: "14"
+  - region "Notifications (F8)":
+    - list
+  - alert [ref=f91e348]

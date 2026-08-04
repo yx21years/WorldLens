@@ -1,0 +1,626 @@
+- generic [active] [ref=f96e1]:
+  - generic [ref=f96e4]:
+    - navigation "Community" [ref=f96e5]:
+      - generic [ref=f96e6]:
+        - link "Framer Community Framer Community" [ref=f96e7] [cursor=pointer]:
+          - /url: /community/
+          - img "Framer Community" [ref=f96e8]
+          - generic [ref=f96e9]: Framer Community
+        - combobox "Search Community" [ref=f96e15]
+        - generic [ref=f96e16]: Discover
+        - link "Feed" [ref=f96e17] [cursor=pointer]:
+          - /url: /community/feed/
+        - link "Hype" [ref=f96e22] [cursor=pointer]:
+          - /url: /community/hype/
+        - link "Activity" [ref=f96e27] [cursor=pointer]:
+          - /url: /community/activity/
+      - generic [ref=f96e33]:
+        - generic [ref=f96e34]: Marketplace
+        - link "All" [ref=f96e35] [cursor=pointer]:
+          - /url: /community/marketplace/
+        - link "Templates" [ref=f96e40] [cursor=pointer]:
+          - /url: /community/marketplace/templates/
+        - link "Components" [ref=f96e45] [cursor=pointer]:
+          - /url: /community/marketplace/components/
+        - link "Vectors" [ref=f96e50] [cursor=pointer]:
+          - /url: /community/marketplace/vectors/
+        - link "Plugins" [ref=f96e55] [cursor=pointer]:
+          - /url: /community/marketplace/plugins/
+      - generic [ref=f96e61]:
+        - generic [ref=f96e62]: Community
+        - link "Gallery" [ref=f96e63] [cursor=pointer]:
+          - /url: /community/gallery/
+        - link "Members" [ref=f96e68] [cursor=pointer]:
+          - /url: /community/members/
+    - generic [ref=f96e74]:
+      - generic [ref=f96e79]:
+        - button "Go back" [ref=f96e80] [cursor=pointer]:
+          - generic [ref=f96e81]: Back
+        - navigation "Breadcrumb" [ref=f96e85]:
+          - link "Components" [ref=f96e87] [cursor=pointer]:
+            - /url: /community/marketplace/components/
+          - link "Categories" [ref=f96e91] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/
+          - link "Typography" [ref=f96e95] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/typography/
+      - generic [ref=f96e97]:
+        - generic [ref=f96e98]:
+          - heading "Text Reveal · Scroll text reveal animation" [level=1] [ref=f96e100]
+          - generic [ref=f96e102]:
+            - generic [ref=f96e103]:
+              - button "More options" [ref=f96e104] [cursor=pointer]
+              - button "8 comments" [ref=f96e108] [cursor=pointer]
+              - button "Like component" [ref=f96e111] [cursor=pointer]
+            - button "Copy Component" [ref=f96e117] [cursor=pointer]
+        - generic [ref=f96e119]:
+          - img "Text Reveal" [ref=f96e121]
+          - button "Open preview" [ref=f96e122] [cursor=pointer]
+        - generic [ref=f96e126]:
+          - article [ref=f96e127]:
+            - generic [ref=f96e130]:
+              - paragraph [ref=f96e131]:
+                - link "Check Out the New Component →" [ref=f96e132] [cursor=pointer]:
+                  - /url: https://www.framer.com/community/marketplace/components/github-contributions/?via=market
+              - heading "✦ Not Ordinary Scroll Reveal" [level=2] [ref=f96e133]
+              - paragraph [ref=f96e134]: Most scroll text reveal components require you to enter text in the control panel, which breaks your ability to apply global text styles in Framer.
+              - paragraph [ref=f96e135]:
+                - strong [ref=f96e136]: Text Reveal Scroll
+                - text: works differently..
+              - paragraph [ref=f96e137]: Instead of replacing the native text layer, it works directly with your existing text. This preserves all styles applied from the global assets panel, ensuring your font size, weight, color, letter spacing, and line height remain exactly as designed.
+              - paragraph [ref=f96e138]: You keep full control over your typography, while the component adds a smooth, cinematic scroll-driven text animation on top.
+              - heading "Instructions" [level=2] [ref=f96e139]
+              - list [ref=f96e140]:
+                - listitem [ref=f96e141]:
+                  - paragraph [ref=f96e142]:
+                    - text: Add this component to the canvas on the
+                    - strong [ref=f96e143]: desktop breakpoint
+                    - text: .
+                - listitem [ref=f96e144]:
+                  - paragraph [ref=f96e145]:
+                    - text: Place a
+                    - strong [ref=f96e146]: Text layer outside the desktop breakpoint
+                    - text: .
+                - listitem [ref=f96e147]:
+                  - paragraph [ref=f96e148]:
+                    - strong [ref=f96e149]: Wrap the Text layer in a Stack.
+                - listitem [ref=f96e150]:
+                  - paragraph [ref=f96e151]:
+                    - text: Set the Text layer's
+                    - strong [ref=f96e152]: width to "Fill"
+                    - text: so it will be responsive across screens.
+                - listitem [ref=f96e153]:
+                  - paragraph [ref=f96e154]:
+                    - text: In the component's property panel, use the
+                    - strong [ref=f96e155]: "\"Text\" property control"
+                    - text: to connect that Text layer.
+              - heading "Setup" [level=3] [ref=f96e156]
+              - list [ref=f96e157]:
+                - listitem [ref=f96e158]:
+                  - paragraph [ref=f96e159]: You can configure the component settings from the right-side control panel.
+                - listitem [ref=f96e160]:
+                  - paragraph [ref=f96e161]: The animation works in Preview and live site (not inside canvas)
+              - heading "Properties Control" [level=2] [ref=f96e162]
+              - figure "Scroll Text Reveal Framer Component Controls" [ref=f96e163]:
+                - img "Scroll Text Reveal Framer Component Controls" [ref=f96e164]
+              - heading "How It Works" [level=2] [ref=f96e166]
+              - list [ref=f96e167]:
+                - listitem [ref=f96e168]:
+                  - paragraph [ref=f96e169]:
+                    - strong [ref=f96e170]: "Start %:"
+                    - text: Defines where the reveal begins in the viewport.
+                - listitem [ref=f96e171]:
+                  - paragraph [ref=f96e172]:
+                    - strong [ref=f96e173]: "End %:"
+                    - text: Defines where the reveal completes
+                - listitem [ref=f96e174]:
+                  - paragraph [ref=f96e175]:
+                    - strong [ref=f96e176]: "Dim Opacity:"
+                    - text: Controls opacity of unrevealed text (subtle ghost → fully hidden)
+                - listitem [ref=f96e177]:
+                  - paragraph [ref=f96e178]:
+                    - strong [ref=f96e179]: "Reveal By:"
+                    - text: "Choose between:"
+                  - list [ref=f96e180]:
+                    - listitem [ref=f96e181]:
+                      - paragraph [ref=f96e182]:
+                        - strong [ref=f96e183]: Characters
+                        - text: → letter by letter reveal
+                    - listitem [ref=f96e184]:
+                      - paragraph [ref=f96e185]:
+                        - strong [ref=f96e186]: Words
+                        - text: → smoother word-by-word animation
+                - listitem [ref=f96e187]:
+                  - paragraph [ref=f96e188]:
+                    - strong [ref=f96e189]: Font Size
+                    - text: ": Toggle between Global (uses the connected Text layer's style) or Custom (set a fixed px size)."
+              - heading "Key Features" [level=2] [ref=f96e190]
+              - list [ref=f96e191]:
+                - listitem [ref=f96e192]:
+                  - paragraph [ref=f96e193]:
+                    - strong [ref=f96e194]: "Style-safe text splitting:"
+                    - text: Preserves all Framer typography styles.
+                - listitem [ref=f96e195]:
+                  - paragraph [ref=f96e196]:
+                    - strong [ref=f96e197]: "Scroll-driven reveal:"
+                    - text: True scroll-driven text animation.
+                - listitem [ref=f96e198]:
+                  - paragraph [ref=f96e199]:
+                    - strong [ref=f96e200]: "Smooth progressive animation:"
+                    - text: Partial opacity transitions create a cinematic
+                    - strong [ref=f96e201]: text opacity scroll
+                    - text: effect.
+                - listitem [ref=f96e202]:
+                  - paragraph [ref=f96e203]:
+                    - strong [ref=f96e204]: "Performance optimized:"
+                    - text: Uses passive scroll listeners and efficient DOM updates.
+                - listitem [ref=f96e205]:
+                  - paragraph [ref=f96e206]:
+                    - strong [ref=f96e207]: "Support CMS:"
+                    - text: Works with dynamically loaded content.
+              - paragraph [ref=f96e208]:
+                - strong [ref=f96e209]: Made with ❤️ by
+                - link [ref=f96e210] [cursor=pointer]:
+                  - /url: https://framer.link/market
+                  - strong [ref=f96e211]: Soyeb
+              - paragraph [ref=f96e212]:
+                - text: Have questions or need a custom Framer component? Reach out at
+                - link "heysoyebali@gmail.com" [ref=f96e213] [cursor=pointer]:
+                  - /url: mailto:heysoyebali@gmail.com
+            - generic [ref=f96e214]:
+              - button "Like component" [ref=f96e215] [cursor=pointer]:
+                - generic [ref=f96e220]: "387"
+              - button "8 comments" [ref=f96e225] [cursor=pointer]:
+                - generic [ref=f96e228]: "8"
+              - generic [ref=f96e234]:
+                - generic [ref=f96e235]: Updated 1w ago
+                - generic [ref=f96e236]: ·
+                - button "View activity" [ref=f96e237] [cursor=pointer]
+          - complementary [ref=f96e239]:
+            - generic [ref=f96e240]:
+              - heading "Details" [level=2] [ref=f96e242]
+              - generic [ref=f96e244]:
+                - generic [ref=f96e245]:
+                  - term [ref=f96e246]: Creator
+                  - definition [ref=f96e247]:
+                    - button [ref=f96e249] [cursor=pointer]:
+                      - link "Soyeb Soyeb" [ref=f96e250]:
+                        - /url: /community/creator/@soyeb/
+                        - img "Soyeb" [ref=f96e251]
+                        - generic [ref=f96e252]: Soyeb
+                - generic [ref=f96e253]:
+                  - term [ref=f96e254]: Published
+                  - definition [ref=f96e255]: May 6, 2026
+                - generic [ref=f96e256]:
+                  - term [ref=f96e257]: License
+                  - definition [ref=f96e258]:
+                    - link "Limited License" [ref=f96e259] [cursor=pointer]:
+                      - /url: https://www.framer.com/legal/community-terms/
+            - generic [ref=f96e260]:
+              - generic [ref=f96e261]:
+                - heading "Categories" [level=2] [ref=f96e262]
+                - link "See all" [ref=f96e263] [cursor=pointer]:
+                  - /url: /community/marketplace/components/categories/
+              - list "Categories" [ref=f96e265]:
+                - listitem [ref=f96e266]:
+                  - link "Typography" [ref=f96e267] [cursor=pointer]:
+                    - /url: /community/marketplace/components/categories/typography/
+          - generic [ref=f96e268]:
+            - generic [ref=f96e271]:
+              - textbox "Reply…" [ref=f96e273]:
+                - paragraph [ref=f96e274]: Reply…
+              - button [disabled]
+            - generic [ref=f96e275]:
+              - group "Thread by Den Matko" [ref=f96e277]:
+                - generic [ref=f96e278]:
+                  - button [ref=f96e280] [cursor=pointer]:
+                    - link [ref=f96e281]:
+                      - /url: /community/creator/@den-matko/
+                      - img "Den Matko" [ref=f96e282]
+                  - generic [ref=f96e284]:
+                    - generic [ref=f96e285]:
+                      - button [ref=f96e286] [cursor=pointer]:
+                        - link "Den Matko" [ref=f96e287]:
+                          - /url: /community/creator/@den-matko/
+                      - generic [ref=f96e288]: 4d
+                      - button [ref=f96e289] [cursor=pointer]
+                    - paragraph [ref=f96e293]: It's absolutely amazing
+                    - generic [ref=f96e294]:
+                      - button "Like comment" [ref=f96e295] [cursor=pointer]:
+                        - generic [ref=f96e300]: "1"
+                      - button "Reply" [ref=f96e305] [cursor=pointer]:
+                        - generic [ref=f96e308]: "1"
+                - generic [ref=f96e310]:
+                  - button [ref=f96e312] [cursor=pointer]:
+                    - link [ref=f96e313]:
+                      - /url: /community/creator/@soyeb/
+                      - img "Soyeb" [ref=f96e314]
+                  - generic [ref=f96e315]:
+                    - generic [ref=f96e316]:
+                      - button [ref=f96e317] [cursor=pointer]:
+                        - link "Soyeb" [ref=f96e318]:
+                          - /url: /community/creator/@soyeb/
+                      - generic [ref=f96e319]: 4d
+                      - button [ref=f96e320] [cursor=pointer]
+                    - paragraph [ref=f96e324]: Thank you, Den!
+                    - generic [ref=f96e325]:
+                      - button "Like comment" [ref=f96e326] [cursor=pointer]:
+                        - generic [ref=f96e331]: "1"
+                      - button "Reply to Soyeb" [ref=f96e336] [cursor=pointer]
+              - group "Thread by Michał Opałka" [ref=f96e340]:
+                - generic [ref=f96e341]:
+                  - button [ref=f96e343] [cursor=pointer]:
+                    - link [ref=f96e344]:
+                      - /url: /community/creator/@midtone/
+                      - img "Michał Opałka" [ref=f96e345]
+                  - generic [ref=f96e347]:
+                    - generic [ref=f96e348]:
+                      - button [ref=f96e349] [cursor=pointer]:
+                        - link "Michał Opałka" [ref=f96e350]:
+                          - /url: /community/creator/@midtone/
+                      - generic [ref=f96e351]: 2w
+                      - button [ref=f96e352] [cursor=pointer]
+                    - paragraph [ref=f96e356]: One of the best and most useful, thanks for that!
+                    - generic [ref=f96e357]:
+                      - button "Like comment" [ref=f96e358] [cursor=pointer]:
+                        - generic [ref=f96e363]: "1"
+                      - button "Reply" [ref=f96e368] [cursor=pointer]:
+                        - generic [ref=f96e371]: "1"
+                - generic [ref=f96e373]:
+                  - button [ref=f96e375] [cursor=pointer]:
+                    - link [ref=f96e376]:
+                      - /url: /community/creator/@soyeb/
+                      - img "Soyeb" [ref=f96e377]
+                  - generic [ref=f96e378]:
+                    - generic [ref=f96e379]:
+                      - button [ref=f96e380] [cursor=pointer]:
+                        - link "Soyeb" [ref=f96e381]:
+                          - /url: /community/creator/@soyeb/
+                      - generic [ref=f96e382]: 2w
+                      - button [ref=f96e383] [cursor=pointer]
+                    - generic [ref=f96e386]:
+                      - paragraph [ref=f96e387]: Thanks for the kind comment Michal..
+                      - paragraph [ref=f96e388]: I'm glad to know this component has helped so many users. ❤
+                    - generic [ref=f96e389]:
+                      - button "Like comment" [ref=f96e390] [cursor=pointer]:
+                        - generic [ref=f96e395]: "1"
+                      - button "Reply to Soyeb" [ref=f96e400] [cursor=pointer]
+              - group "Thread by Kobra 2000" [ref=f96e404]:
+                - generic [ref=f96e405]:
+                  - button [ref=f96e407] [cursor=pointer]:
+                    - link [ref=f96e408]:
+                      - /url: /community/creator/@kobra-2000/
+                      - img "Kobra 2000" [ref=f96e409]
+                  - generic [ref=f96e411]:
+                    - generic [ref=f96e412]:
+                      - button [ref=f96e413] [cursor=pointer]:
+                        - link "Kobra 2000" [ref=f96e414]:
+                          - /url: /community/creator/@kobra-2000/
+                      - generic [ref=f96e415]: 3w
+                      - button [ref=f96e416] [cursor=pointer]
+                    - generic [ref=f96e419]:
+                      - paragraph [ref=f96e420]: Very nice and useful component, thanks !
+                      - paragraph [ref=f96e421]: But it doesn't seems to work properly with custom inline text color changes or font customization...
+                      - paragraph [ref=f96e422]: For example, my paragraph is in normal gray, then 3 words are orange, and at the end some words are in italic. When previewing, most of the pargraph applies the effect perfectly, but the custom color/font weights parts doesn't show correctly.
+                      - paragraph [ref=f96e423]: They are first invisible instead of low opacity, then they show in low opacity, then once the paragraph is fully scrolled they show completely. It's like if the custom inline styling was delayed with a supplementary step.
+                    - generic [ref=f96e424]:
+                      - button "Like comment" [ref=f96e425] [cursor=pointer]:
+                        - generic [ref=f96e430]: "1"
+                      - button "Reply" [ref=f96e435] [cursor=pointer]:
+                        - generic [ref=f96e438]: "2"
+                - generic [ref=f96e440]:
+                  - button [ref=f96e442] [cursor=pointer]:
+                    - link [ref=f96e443]:
+                      - /url: /community/creator/@soyeb/
+                      - img "Soyeb" [ref=f96e444]
+                  - generic [ref=f96e446]:
+                    - generic [ref=f96e447]:
+                      - button [ref=f96e448] [cursor=pointer]:
+                        - link "Soyeb" [ref=f96e449]:
+                          - /url: /community/creator/@soyeb/
+                      - generic [ref=f96e450]: 3w
+                      - button [ref=f96e451] [cursor=pointer]
+                    - generic [ref=f96e454]:
+                      - paragraph [ref=f96e455]: Thanks for the feedback! 😊
+                      - paragraph [ref=f96e456]: I've updated the component, and it now fully supports inline styling, including custom text colors, font weights, and italic text. Please update to the latest version and let me know if everything works as expected.
+                    - generic [ref=f96e457]:
+                      - button "Like comment" [ref=f96e458] [cursor=pointer]:
+                        - generic [ref=f96e463]: "2"
+                      - button "Reply to Soyeb" [ref=f96e468] [cursor=pointer]
+                - button [ref=f96e471] [cursor=pointer]
+              - group "Thread by Faaga Faisal" [ref=f96e476]:
+                - generic [ref=f96e477]:
+                  - button [ref=f96e479] [cursor=pointer]:
+                    - link [ref=f96e480]:
+                      - /url: /community/creator/@heyfaaga/
+                      - img "Faaga Faisal" [ref=f96e481]
+                  - generic [ref=f96e483]:
+                    - generic [ref=f96e484]:
+                      - button [ref=f96e485] [cursor=pointer]:
+                        - link "Faaga Faisal" [ref=f96e486]:
+                          - /url: /community/creator/@heyfaaga/
+                      - generic [ref=f96e487]: 3w
+                      - button [ref=f96e488] [cursor=pointer]
+                    - paragraph [ref=f96e492]: man thank you for building this, its exactly what i ws looking for. only thing is, i fear it might be updated and change my template, but other than that, i really had to say thank you fr
+                    - generic [ref=f96e493]:
+                      - button "Like comment" [ref=f96e494] [cursor=pointer]:
+                        - generic [ref=f96e499]: "1"
+                      - button "Reply" [ref=f96e504] [cursor=pointer]:
+                        - generic [ref=f96e507]: "3"
+                - generic [ref=f96e509]:
+                  - button [ref=f96e511] [cursor=pointer]:
+                    - link [ref=f96e512]:
+                      - /url: /community/creator/@soyeb/
+                      - img "Soyeb" [ref=f96e513]
+                  - generic [ref=f96e515]:
+                    - generic [ref=f96e516]:
+                      - button [ref=f96e517] [cursor=pointer]:
+                        - link "Soyeb" [ref=f96e518]:
+                          - /url: /community/creator/@soyeb/
+                      - generic [ref=f96e519]: 3w
+                      - button [ref=f96e520] [cursor=pointer]
+                    - generic [ref=f96e523]:
+                      - paragraph [ref=f96e524]: You're very welcome! 😊
+                      - paragraph [ref=f96e525]: Comments like yours genuinely make my day. It means a lot to hear that the component was exactly what you were looking for.
+                      - paragraph
+                      - paragraph [ref=f96e526]: could you explain what you mean by being worried that an update might change your template? I'd love to understand your concern so I can make sure future updates don't cause any issues.
+                    - generic [ref=f96e527]:
+                      - button "Like comment" [ref=f96e528] [cursor=pointer]:
+                        - generic [ref=f96e533]: "2"
+                      - button "Reply to Soyeb" [ref=f96e538] [cursor=pointer]
+                - button [ref=f96e541] [cursor=pointer]
+              - group "Thread by Spalatu Bogdan" [ref=f96e546]:
+                - generic [ref=f96e547]:
+                  - button [ref=f96e549] [cursor=pointer]:
+                    - link [ref=f96e550]:
+                      - /url: /community/creator/@spalatu/
+                      - img "Spalatu Bogdan" [ref=f96e551]
+                  - generic [ref=f96e553]:
+                    - generic [ref=f96e554]:
+                      - button [ref=f96e555] [cursor=pointer]:
+                        - link "Spalatu Bogdan" [ref=f96e556]:
+                          - /url: /community/creator/@spalatu/
+                      - generic [ref=f96e557]: 1mo
+                      - button [ref=f96e558] [cursor=pointer]
+                    - paragraph [ref=f96e562]: Can you please update it to work with scroll sections as well? I would like to use in a sticky section but it just doesn’t work that way. Thanks!
+                    - generic [ref=f96e563]:
+                      - button "Like comment" [ref=f96e564] [cursor=pointer]:
+                        - generic [ref=f96e569]: "1"
+                      - button "Reply" [ref=f96e574] [cursor=pointer]:
+                        - generic [ref=f96e577]: "1"
+                - generic [ref=f96e579]:
+                  - button [ref=f96e581] [cursor=pointer]:
+                    - link [ref=f96e582]:
+                      - /url: /community/creator/@soyeb/
+                      - img "Soyeb" [ref=f96e583]
+                  - generic [ref=f96e584]:
+                    - generic [ref=f96e585]:
+                      - button [ref=f96e586] [cursor=pointer]:
+                        - link "Soyeb" [ref=f96e587]:
+                          - /url: /community/creator/@soyeb/
+                      - generic [ref=f96e588]: 3w
+                      - button [ref=f96e589] [cursor=pointer]
+                    - generic [ref=f96e592]:
+                      - paragraph [ref=f96e593]: Hi,
+                      - paragraph [ref=f96e594]: Thanks for the suggestion!
+                      - paragraph [ref=f96e595]:
+                        - text: This component was intentionally built to work relative to the
+                        - strong [ref=f96e596]: full viewport
+                        - text: ", so it doesn't support sticky scroll sections in its current implementation."
+                      - paragraph [ref=f96e597]: Supporting sticky sections would require a different technical approach, so it would need to be built as a separate component rather than an update to this one.
+                      - paragraph [ref=f96e598]: If you'd like that functionality, feel free to send me an email. I'd be happy to discuss a custom solution for your specific use case.
+                      - paragraph [ref=f96e599]: Thanks!
+                    - generic [ref=f96e600]:
+                      - button "Like comment" [ref=f96e601] [cursor=pointer]:
+                        - generic [ref=f96e606]: "1"
+                      - button "Reply to Soyeb" [ref=f96e611] [cursor=pointer]
+              - group "Thread by Ilker" [ref=f96e615]:
+                - generic [ref=f96e616]:
+                  - button [ref=f96e618] [cursor=pointer]:
+                    - link [ref=f96e619]:
+                      - /url: /community/creator/@studio-ilker/
+                      - img "Ilker" [ref=f96e620]
+                  - generic [ref=f96e622]:
+                    - generic [ref=f96e623]:
+                      - button [ref=f96e624] [cursor=pointer]:
+                        - link "Ilker" [ref=f96e625]:
+                          - /url: /community/creator/@studio-ilker/
+                      - generic "Pro Expert" [ref=f96e626]
+                      - generic [ref=f96e627]: 1mo
+                      - button [ref=f96e628] [cursor=pointer]
+                    - paragraph [ref=f96e632]: thanks, works like a charm!
+                    - generic [ref=f96e633]:
+                      - button "Like comment" [ref=f96e634] [cursor=pointer]:
+                        - generic [ref=f96e639]: "1"
+                      - button "Reply" [ref=f96e644] [cursor=pointer]:
+                        - generic [ref=f96e647]: "1"
+                - generic [ref=f96e649]:
+                  - button [ref=f96e651] [cursor=pointer]:
+                    - link [ref=f96e652]:
+                      - /url: /community/creator/@soyeb/
+                      - img "Soyeb" [ref=f96e653]
+                  - generic [ref=f96e654]:
+                    - generic [ref=f96e655]:
+                      - button [ref=f96e656] [cursor=pointer]:
+                        - link "Soyeb" [ref=f96e657]:
+                          - /url: /community/creator/@soyeb/
+                      - generic [ref=f96e658]: 3w
+                      - button [ref=f96e659] [cursor=pointer]
+                    - paragraph [ref=f96e663]: Awesome! I'm glad it's working for you. Thanks for the feedback!
+                    - generic [ref=f96e664]:
+                      - button "Like comment" [ref=f96e665] [cursor=pointer]:
+                        - generic [ref=f96e670]: "2"
+                      - button "Reply to Soyeb" [ref=f96e675] [cursor=pointer]
+              - group "Thread by Betwn Studios" [ref=f96e679]:
+                - generic [ref=f96e680]:
+                  - button [ref=f96e682] [cursor=pointer]:
+                    - link [ref=f96e683]:
+                      - /url: /community/creator/@betwn-studios/
+                      - img "Betwn Studios" [ref=f96e684]
+                  - generic [ref=f96e686]:
+                    - generic [ref=f96e687]:
+                      - button [ref=f96e688] [cursor=pointer]:
+                        - link "Betwn Studios" [ref=f96e689]:
+                          - /url: /community/creator/@betwn-studios/
+                      - generic "Studio" [ref=f96e690]
+                      - generic [ref=f96e691]: 1mo
+                      - button [ref=f96e692] [cursor=pointer]
+                    - paragraph [ref=f96e696]: How does it work on two paragraphs?
+                    - generic [ref=f96e697]:
+                      - button "Like comment" [ref=f96e698] [cursor=pointer]:
+                        - generic [ref=f96e703]: "1"
+                      - button "Reply" [ref=f96e708] [cursor=pointer]:
+                        - generic [ref=f96e711]: "1"
+                - generic [ref=f96e713]:
+                  - button [ref=f96e715] [cursor=pointer]:
+                    - link [ref=f96e716]:
+                      - /url: /community/creator/@soyeb/
+                      - img "Soyeb" [ref=f96e717]
+                  - generic [ref=f96e718]:
+                    - generic [ref=f96e719]:
+                      - button [ref=f96e720] [cursor=pointer]:
+                        - link "Soyeb" [ref=f96e721]:
+                          - /url: /community/creator/@soyeb/
+                      - generic [ref=f96e722]: 1mo
+                      - button [ref=f96e723] [cursor=pointer]
+                    - generic [ref=f96e726]:
+                      - paragraph [ref=f96e727]: Hi Betwn,
+                      - paragraph
+                      - paragraph [ref=f96e728]: I've updated the component, and it should now work with more than 1 para, exactly as described in the documentation. Thank you for using the component!
+                      - paragraph
+                      - paragraph [ref=f96e729]: If you have a moment, feel free to check out my profile for more useful components. A like or follow would be greatly appreciated and helps support my work. 🙌
+                      - paragraph
+                      - paragraph [ref=f96e730]: Thanks again!
+                    - generic [ref=f96e731]:
+                      - button "Like comment" [ref=f96e732] [cursor=pointer]:
+                        - generic [ref=f96e737]: "1"
+                      - button "Reply to Soyeb" [ref=f96e742] [cursor=pointer]
+              - group "Thread by Victor Enesi" [ref=f96e746]:
+                - generic [ref=f96e747]:
+                  - button [ref=f96e749] [cursor=pointer]:
+                    - link [ref=f96e750]:
+                      - /url: /community/creator/@victor-enesi/
+                      - img "Victor Enesi" [ref=f96e751]
+                  - generic [ref=f96e753]:
+                    - generic [ref=f96e754]:
+                      - button [ref=f96e755] [cursor=pointer]:
+                        - link "Victor Enesi" [ref=f96e756]:
+                          - /url: /community/creator/@victor-enesi/
+                      - generic [ref=f96e757]: 1mo
+                      - button [ref=f96e758] [cursor=pointer]
+                    - paragraph [ref=f96e762]: How is this meant to work?
+                    - generic [ref=f96e763]:
+                      - button "Like comment" [ref=f96e764] [cursor=pointer]:
+                        - generic [ref=f96e769]: "2"
+                      - button "Reply" [ref=f96e774] [cursor=pointer]:
+                        - generic [ref=f96e777]: "4"
+                - generic [ref=f96e779]:
+                  - button [ref=f96e781] [cursor=pointer]:
+                    - link [ref=f96e782]:
+                      - /url: /community/creator/@soyeb/
+                      - img "Soyeb" [ref=f96e783]
+                  - generic [ref=f96e785]:
+                    - generic [ref=f96e786]:
+                      - button [ref=f96e787] [cursor=pointer]:
+                        - link "Soyeb" [ref=f96e788]:
+                          - /url: /community/creator/@soyeb/
+                      - generic [ref=f96e789]: 1mo
+                      - button [ref=f96e790] [cursor=pointer]
+                    - generic [ref=f96e793]:
+                      - paragraph [ref=f96e794]: "- Add this component to the canvas on the desktop breakpoint."
+                      - paragraph [ref=f96e795]: "- Place a Text layer outside the desktop breakpoint."
+                      - paragraph [ref=f96e796]: "- Wrap the Text layer in a Stack."
+                      - paragraph [ref=f96e797]: "- Set the Text layer's width to \"Fill\" so it will be responsive across screens."
+                      - paragraph [ref=f96e798]: "- In the component's property panel, use the \"Text\" property control to connect that Text layer."
+                    - generic [ref=f96e799]:
+                      - button "Like comment" [ref=f96e800] [cursor=pointer]:
+                        - generic [ref=f96e805]: "3"
+                      - button "Reply to Soyeb" [ref=f96e810] [cursor=pointer]
+                - button [ref=f96e813] [cursor=pointer]
+          - generic [ref=f96e817]:
+            - generic [ref=f96e818]:
+              - generic [ref=f96e819]:
+                - heading "More from Soyeb" [level=2] [ref=f96e820]
+                - link "See all" [ref=f96e821] [cursor=pointer]:
+                  - /url: /@soyeb/?tab=marketplace
+              - generic [ref=f96e822]:
+                - generic [ref=f96e823] [cursor=pointer]:
+                  - link "Gradient Text" [ref=f96e824]:
+                    - /url: /community/marketplace/components/gradient-text/
+                  - button "Open preview" [ref=f96e825]
+                  - generic [ref=f96e828]:
+                    - generic:
+                      - img "Gradient Text"
+                  - generic [ref=f96e829]:
+                    - link "Gradient Text" [ref=f96e832]:
+                      - /url: /community/marketplace/components/gradient-text/
+                    - button "Like component" [ref=f96e835]:
+                      - generic [ref=f96e840]: "6"
+                - generic [ref=f96e845] [cursor=pointer]:
+                  - link "World Date" [ref=f96e846]:
+                    - /url: /community/marketplace/components/world-date/
+                  - button "Open preview" [ref=f96e847]
+                  - generic [ref=f96e850]:
+                    - generic:
+                      - img "World Date"
+                  - generic [ref=f96e851]:
+                    - link "World Date" [ref=f96e854]:
+                      - /url: /community/marketplace/components/world-date/
+                    - button "Like component" [ref=f96e857]:
+                      - generic [ref=f96e862]: "14"
+                - generic [ref=f96e867] [cursor=pointer]:
+                  - link "3D Ring Carousel" [ref=f96e868]:
+                    - /url: /community/marketplace/components/3d-ring-carousel/
+                  - button "Open preview" [ref=f96e869]
+                  - generic [ref=f96e872]:
+                    - generic:
+                      - img "3D Ring Carousel"
+                  - generic [ref=f96e873]:
+                    - link "3D Ring Carousel" [ref=f96e876]:
+                      - /url: /community/marketplace/components/3d-ring-carousel/
+                    - button "Like component" [ref=f96e879]:
+                      - generic [ref=f96e884]: "8"
+            - generic [ref=f96e889]:
+              - generic [ref=f96e891]:
+                - heading "Related Components" [level=2] [ref=f96e892]
+                - link "See all" [ref=f96e893] [cursor=pointer]:
+                  - /url: /community/marketplace/components/
+              - generic [ref=f96e894]:
+                - generic [ref=f96e895] [cursor=pointer]:
+                  - link "Target Word Overlay" [ref=f96e896]:
+                    - /url: /community/marketplace/components/target-word-overlay/
+                  - button "Open preview" [ref=f96e897]
+                  - generic [ref=f96e900]:
+                    - generic:
+                      - img "Target Word Overlay"
+                  - generic [ref=f96e901]:
+                    - link "Target Word Overlay" [ref=f96e904]:
+                      - /url: /community/marketplace/components/target-word-overlay/
+                    - button "Like component" [ref=f96e907]:
+                      - generic [ref=f96e912]: "4"
+                - generic [ref=f96e917] [cursor=pointer]:
+                  - link "Color Sweep Word" [ref=f96e918]:
+                    - /url: /community/marketplace/components/color-sweep-word/
+                  - button "Open preview" [ref=f96e919]
+                  - generic [ref=f96e922]:
+                    - generic:
+                      - img "Color Sweep Word"
+                  - generic [ref=f96e923]:
+                    - link "Color Sweep Word" [ref=f96e926]:
+                      - /url: /community/marketplace/components/color-sweep-word/
+                    - button "Like component" [ref=f96e929]:
+                      - generic [ref=f96e934]: "37"
+                - generic [ref=f96e939] [cursor=pointer]:
+                  - link "Text Follow Path" [ref=f96e940]:
+                    - /url: /community/marketplace/components/text-follow-path/
+                  - button "Open preview" [ref=f96e941]
+                  - generic [ref=f96e944]:
+                    - generic:
+                      - img "Text Follow Path"
+                  - generic [ref=f96e945]:
+                    - link "Text Follow Path" [ref=f96e948]:
+                      - /url: /community/marketplace/components/text-follow-path/
+                    - button "Like component" [ref=f96e951]:
+                      - generic [ref=f96e956]: "56"
+  - region "Notifications (F8)":
+    - list
+  - alert [ref=f96e961]

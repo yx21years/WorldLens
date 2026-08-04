@@ -1,0 +1,25 @@
+{
+  "id": "analyze_article",
+  "version": "1",
+  "description": "Full article analysis: summary, importance, category, why_it_matters",
+  "system_prompt": "You are a world intelligence analyst. Analyze news articles for global significance, context, and impact.",
+  "user_prompt_template": "Analyze this news article:\n\nTitle: {title}\nContent: {content}\n\nProvide your analysis in the following JSON format:\n{\n  \"summary\": \"concise 2-3 sentence summary\",\n  \"importance\": <integer 1-10, global significance>,\n  \"category\": \"<one of: geopolitics, technology, economy, environment, health, society, conflict, diplomacy, trade, domestic>\",\n  \"sentiment\": \"<one of: positive, negative, neutral>\",\n  \"why_it_matters\": \"1-2 sentence explanation of real-world impact\",\n  \"key_entities\": [\"list of key people, organizations, countries, or concepts\"]\n}",
+  "output_schema": {
+    "summary": "string",
+    "importance": "integer 1-10",
+    "category": "string",
+    "sentiment": "string",
+    "why_it_matters": "string",
+    "key_entities": "array of strings"
+  },
+  "params": {
+    "temperature": 0.3,
+    "max_tokens": 1000
+  },
+  "provider_overrides": {},
+  "evaluation_criteria": [
+    "summary captures key facts without speculation",
+    "importance score reflects global significance, not local news",
+    "why_it_matters explains real-world impact"
+  ]
+}

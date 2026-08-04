@@ -1,0 +1,691 @@
+- generic [active] [ref=f111e1]:
+  - generic [ref=f111e4]:
+    - navigation "Community" [ref=f111e5]:
+      - generic [ref=f111e6]:
+        - link "Framer Community Framer Community" [ref=f111e7] [cursor=pointer]:
+          - /url: /community/
+          - img "Framer Community" [ref=f111e8]
+          - generic [ref=f111e9]: Framer Community
+        - combobox "Search Community" [ref=f111e15]
+        - generic [ref=f111e16]: Discover
+        - link "Feed" [ref=f111e17] [cursor=pointer]:
+          - /url: /community/feed/
+        - link "Hype" [ref=f111e22] [cursor=pointer]:
+          - /url: /community/hype/
+        - link "Activity" [ref=f111e27] [cursor=pointer]:
+          - /url: /community/activity/
+      - generic [ref=f111e33]:
+        - generic [ref=f111e34]: Marketplace
+        - link "All" [ref=f111e35] [cursor=pointer]:
+          - /url: /community/marketplace/
+        - link "Templates" [ref=f111e40] [cursor=pointer]:
+          - /url: /community/marketplace/templates/
+        - link "Components" [ref=f111e45] [cursor=pointer]:
+          - /url: /community/marketplace/components/
+        - link "Vectors" [ref=f111e50] [cursor=pointer]:
+          - /url: /community/marketplace/vectors/
+        - link "Plugins" [ref=f111e55] [cursor=pointer]:
+          - /url: /community/marketplace/plugins/
+      - generic [ref=f111e61]:
+        - generic [ref=f111e62]: Community
+        - link "Gallery" [ref=f111e63] [cursor=pointer]:
+          - /url: /community/gallery/
+        - link "Members" [ref=f111e68] [cursor=pointer]:
+          - /url: /community/members/
+    - generic [ref=f111e1864]:
+      - generic [ref=f111e1865]:
+        - generic [ref=f111e1866]:
+          - heading "Speed up your Framer workflows with plugins" [level=1] [ref=f111e1867]
+          - paragraph [ref=f111e1868]: Browse hundreds of plugins, install them in one click, and connect your favorite apps with ease.
+        - button "Post" [ref=f111e1870] [cursor=pointer]
+      - separator [ref=f111e1872]
+      - generic [ref=f111e1873]:
+        - generic [ref=f111e1874]:
+          - generic [ref=f111e1875]:
+            - heading "Featured" [level=2] [ref=f111e1876]
+            - generic [ref=f111e1877]:
+              - button "Go to featured slide 1" [pressed] [ref=f111e1878] [cursor=pointer]
+              - button "Go to featured slide 2" [ref=f111e1879] [cursor=pointer]
+              - button "Go to featured slide 3" [ref=f111e1880] [cursor=pointer]
+              - button "Go to featured slide 4" [ref=f111e1881] [cursor=pointer]
+              - button "Go to featured slide 5" [ref=f111e1882] [cursor=pointer]
+              - button "Go to featured slide 6" [ref=f111e1883] [cursor=pointer]
+          - link "See all" [ref=f111e1884] [cursor=pointer]:
+            - /url: /community/marketplace/plugins/featured/
+        - generic [ref=f111e1885]:
+          - generic [ref=f111e1886]:
+            - generic [ref=f111e1888]:
+              - generic [ref=f111e1889] [cursor=pointer]:
+                - link "Asset Locator" [ref=f111e1890]:
+                  - /url: /community/marketplace/plugins/asset-locator/
+                - button "Open preview" [ref=f111e1891]
+                - generic [ref=f111e1894]:
+                  - generic:
+                    - img "Asset Locator"
+                    - generic:
+                      - generic:
+                        - generic: Asset Locator
+                        - generic: Free
+                      - img "Kye"
+              - generic [ref=f111e1895] [cursor=pointer]:
+                - link "Doodles" [ref=f111e1896]:
+                  - /url: /community/marketplace/plugins/doodles/
+                - button "Open preview" [ref=f111e1897]
+                - generic [ref=f111e1900]:
+                  - generic:
+                    - img "Doodles"
+                    - generic:
+                      - generic:
+                        - generic: Doodles
+                        - generic: Free
+                      - img "Framer"
+            - generic [ref=f111e1902]:
+              - generic [ref=f111e1903] [cursor=pointer]:
+                - link "Shaders by Paper" [ref=f111e1904]:
+                  - /url: /community/marketplace/plugins/shaders-by-paper/
+                - button "Open preview" [ref=f111e1905]
+                - generic [ref=f111e1908]:
+                  - generic:
+                    - generic:
+                      - img "Shaders by Paper"
+                    - generic:
+                      - generic:
+                        - generic: Shaders by Paper
+                        - generic: Paid
+                      - img "Fred Moon"
+              - generic [ref=f111e1909] [cursor=pointer]:
+                - link "Framer Commerce" [ref=f111e1910]:
+                  - /url: /community/marketplace/plugins/framer-commerce/
+                - button "Open preview" [ref=f111e1911]
+                - generic [ref=f111e1914]:
+                  - generic:
+                    - img "Framer Commerce"
+                    - generic:
+                      - generic:
+                        - generic: Framer Commerce
+                        - generic: Paid
+                      - img "Framer Commerce"
+            - generic [ref=f111e1916]:
+              - generic [ref=f111e1917] [cursor=pointer]:
+                - link "Kompa" [ref=f111e1918]:
+                  - /url: /community/marketplace/plugins/kompa/
+                - button "Open preview" [ref=f111e1919]
+                - generic [ref=f111e1922]:
+                  - generic:
+                    - generic:
+                      - img "Kompa"
+                    - generic:
+                      - generic:
+                        - generic: Kompa
+                        - generic: Paid
+                      - img "Kompa"
+              - generic [ref=f111e1923] [cursor=pointer]:
+                - link "Offload" [ref=f111e1924]:
+                  - /url: /community/marketplace/plugins/offload/
+                - button "Open preview" [ref=f111e1925]
+                - generic [ref=f111e1928]:
+                  - generic:
+                    - img "Offload"
+                    - generic:
+                      - generic:
+                        - generic: Offload
+                        - generic: Paid
+                      - img "David McBacon"
+            - generic [ref=f111e1930]:
+              - generic [ref=f111e1931] [cursor=pointer]:
+                - link "Likes" [ref=f111e1932]:
+                  - /url: /community/marketplace/plugins/likes/
+                - button "Open preview" [ref=f111e1933]
+                - generic [ref=f111e1936]:
+                  - generic:
+                    - img "Likes"
+                    - generic:
+                      - generic:
+                        - generic: Likes
+                        - generic: Free
+                      - img "Fabian Albert"
+              - generic [ref=f111e1937] [cursor=pointer]:
+                - link "Project Analyzer" [ref=f111e1938]:
+                  - /url: /community/marketplace/plugins/project-analyzer/
+                - button "Open preview" [ref=f111e1939]
+                - generic [ref=f111e1942]:
+                  - generic:
+                    - img "Project Analyzer"
+                    - generic:
+                      - generic:
+                        - generic: Project Analyzer
+                        - generic: Free
+                      - img "Maxime Vandenberge"
+            - generic [ref=f111e1944]:
+              - generic [ref=f111e1945] [cursor=pointer]:
+                - link "TypeSystem" [ref=f111e1946]:
+                  - /url: /community/marketplace/plugins/typesystem/
+                - button "Open preview" [ref=f111e1947]
+                - generic [ref=f111e1950]:
+                  - generic:
+                    - img "TypeSystem"
+                    - generic:
+                      - generic:
+                        - generic: TypeSystem
+                        - generic: Free
+                      - img "Cédric"
+              - generic [ref=f111e1951] [cursor=pointer]:
+                - link "FrameAuth (previously FramerAuth)" [ref=f111e1952]:
+                  - /url: /community/marketplace/plugins/frameauth/
+                - button "Open preview" [ref=f111e1953]
+                - generic [ref=f111e1956]:
+                  - generic:
+                    - img "FrameAuth (previously FramerAuth)"
+                    - generic:
+                      - generic:
+                        - generic: FrameAuth (previously FramerAuth)
+                        - generic: Paid
+                      - img "Danny Sapio"
+            - generic [ref=f111e1958]:
+              - generic [ref=f111e1959] [cursor=pointer]:
+                - link "Rive" [ref=f111e1960]:
+                  - /url: /community/marketplace/plugins/rive/
+                - button "Open preview" [ref=f111e1961]
+                - generic [ref=f111e1964]:
+                  - generic:
+                    - img "Rive"
+                    - generic:
+                      - generic:
+                        - generic: Rive
+                        - generic: Free
+                      - img "Rive"
+              - generic [ref=f111e1965] [cursor=pointer]:
+                - link "JSON Import & Export" [ref=f111e1966]:
+                  - /url: /community/marketplace/plugins/json-sync/
+                - button "Open preview" [ref=f111e1967]
+                - generic [ref=f111e1970]:
+                  - generic:
+                    - img "JSON Import & Export"
+                    - generic:
+                      - generic:
+                        - generic: JSON Import & Export
+                        - generic: Free
+                      - img "Isaac Roberts"
+          - button "Previous featured resources"
+          - button "Next featured resources"
+      - separator [ref=f111e1971]
+      - generic [ref=f111e1972]:
+        - generic [ref=f111e1973]:
+          - heading "Top Categories" [level=2] [ref=f111e1974]
+          - link "See all" [ref=f111e1975] [cursor=pointer]:
+            - /url: /community/marketplace/plugins/categories/
+        - generic [ref=f111e1976]:
+          - link "Utilities Utilities 220" [ref=f111e1977] [cursor=pointer]:
+            - /url: /community/marketplace/plugins/categories/utilities/
+            - img "Utilities" [ref=f111e1979]
+            - generic [ref=f111e1980]:
+              - generic [ref=f111e1981]: Utilities
+              - generic [ref=f111e1982]: "220"
+          - link "SEO SEO 120" [ref=f111e1983] [cursor=pointer]:
+            - /url: /community/marketplace/plugins/categories/seo/
+            - img "SEO" [ref=f111e1985]
+            - generic [ref=f111e1986]:
+              - generic [ref=f111e1987]: SEO
+              - generic [ref=f111e1988]: "120"
+          - link "Assets Assets 126" [ref=f111e1989] [cursor=pointer]:
+            - /url: /community/marketplace/plugins/categories/assets/
+            - img "Assets" [ref=f111e1991]
+            - generic [ref=f111e1992]:
+              - generic [ref=f111e1993]: Assets
+              - generic [ref=f111e1994]: "126"
+          - link "AI AI 102" [ref=f111e1995] [cursor=pointer]:
+            - /url: /community/marketplace/plugins/categories/ai/
+            - img "AI" [ref=f111e1997]
+            - generic [ref=f111e1998]:
+              - generic [ref=f111e1999]: AI
+              - generic [ref=f111e2000]: "102"
+          - link "CMS CMS 106" [ref=f111e2001] [cursor=pointer]:
+            - /url: /community/marketplace/plugins/categories/cms/
+            - img "CMS" [ref=f111e2003]
+            - generic [ref=f111e2004]:
+              - generic [ref=f111e2005]: CMS
+              - generic [ref=f111e2006]: "106"
+      - separator [ref=f111e2007]
+      - generic [ref=f111e2009]:
+        - generic [ref=f111e2015]:
+          - button "Open filters" [ref=f111e2016] [cursor=pointer]
+          - button "Sort" [ref=f111e2020] [cursor=pointer]
+        - generic [ref=f111e2025]:
+          - generic [ref=f111e2027]:
+            - generic [ref=f111e2029] [cursor=pointer]:
+              - link "MCP" [ref=f111e2030]:
+                - /url: /community/marketplace/plugins/mcp/
+              - button "Open preview" [ref=f111e2031]
+              - generic [ref=f111e2034]:
+                - generic:
+                  - img "MCP"
+              - generic [ref=f111e2035]:
+                - generic [ref=f111e2036]:
+                  - link "MCP" [ref=f111e2038]:
+                    - /url: /community/marketplace/plugins/mcp/
+                  - generic [ref=f111e2040]: Free
+                - generic [ref=f111e2041]:
+                  - button "Like plugin" [ref=f111e2042]:
+                    - generic [ref=f111e2047]: "189"
+                  - link "4 comments" [ref=f111e2052]:
+                    - /url: /community/marketplace/plugins/mcp/#comment-input
+                    - generic [ref=f111e2055]: "4"
+            - generic [ref=f111e2061] [cursor=pointer]:
+              - link "Kompa" [ref=f111e2062]:
+                - /url: /community/marketplace/plugins/kompa/
+              - button "Open preview" [ref=f111e2063]
+              - generic [ref=f111e2066]:
+                - generic:
+                  - generic:
+                    - img "Kompa"
+              - generic [ref=f111e2067]:
+                - generic [ref=f111e2068]:
+                  - link "Kompa" [ref=f111e2070]:
+                    - /url: /community/marketplace/plugins/kompa/
+                  - generic [ref=f111e2072]: Paid
+                - generic [ref=f111e2073]:
+                  - button "Like plugin" [ref=f111e2074]:
+                    - generic [ref=f111e2079]: "109"
+                  - link "7 comments" [ref=f111e2084]:
+                    - /url: /community/marketplace/plugins/kompa/#comment-input
+                    - generic [ref=f111e2087]: "7"
+            - generic [ref=f111e2093] [cursor=pointer]:
+              - link "ShaderGradient" [ref=f111e2094]:
+                - /url: /community/marketplace/plugins/shadergradient/
+              - button "Open preview" [ref=f111e2095]
+              - generic [ref=f111e2098]:
+                - generic:
+                  - img "ShaderGradient"
+              - generic [ref=f111e2099]:
+                - generic [ref=f111e2100]:
+                  - link "ShaderGradient" [ref=f111e2102]:
+                    - /url: /community/marketplace/plugins/shadergradient/
+                  - generic [ref=f111e2104]: Free
+                - generic [ref=f111e2105]:
+                  - button "Like plugin" [ref=f111e2106]:
+                    - generic [ref=f111e2111]: "140"
+                  - link "1 comment" [ref=f111e2116]:
+                    - /url: /community/marketplace/plugins/shadergradient/#comment-input
+                    - generic [ref=f111e2119]: "1"
+          - generic [ref=f111e2125]:
+            - generic [ref=f111e2127] [cursor=pointer]:
+              - link "Framer Commerce" [ref=f111e2128]:
+                - /url: /community/marketplace/plugins/framer-commerce/
+              - button "Open preview" [ref=f111e2129]
+              - generic [ref=f111e2132]:
+                - generic:
+                  - img "Framer Commerce"
+              - generic [ref=f111e2133]:
+                - generic [ref=f111e2134]:
+                  - link "Framer Commerce" [ref=f111e2136]:
+                    - /url: /community/marketplace/plugins/framer-commerce/
+                  - generic [ref=f111e2138]: Paid
+                - generic [ref=f111e2139]:
+                  - button "Like plugin" [ref=f111e2140]:
+                    - generic [ref=f111e2145]: "63"
+                  - link "2 comments" [ref=f111e2150]:
+                    - /url: /community/marketplace/plugins/framer-commerce/#comment-input
+                    - generic [ref=f111e2153]: "2"
+            - generic [ref=f111e2159] [cursor=pointer]:
+              - link "Framer Forms Connect" [ref=f111e2160]:
+                - /url: /community/marketplace/plugins/framer-forms-connect/
+              - button "Open preview" [ref=f111e2161]
+              - generic [ref=f111e2164]:
+                - generic:
+                  - img "Framer Forms Connect"
+              - generic [ref=f111e2165]:
+                - generic [ref=f111e2166]:
+                  - link "Framer Forms Connect" [ref=f111e2168]:
+                    - /url: /community/marketplace/plugins/framer-forms-connect/
+                  - generic [ref=f111e2170]: Paid
+                - generic [ref=f111e2171]:
+                  - button "Like plugin" [ref=f111e2172]:
+                    - generic [ref=f111e2177]: "39"
+                  - link "5 comments" [ref=f111e2182]:
+                    - /url: /community/marketplace/plugins/framer-forms-connect/#comment-input
+                    - generic [ref=f111e2185]: "5"
+            - generic [ref=f111e2191] [cursor=pointer]:
+              - link "Edit Image" [ref=f111e2192]:
+                - /url: /community/marketplace/plugins/edit-image/
+              - button "Open preview" [ref=f111e2193]
+              - generic [ref=f111e2196]:
+                - generic:
+                  - generic:
+                    - img "Edit Image"
+              - generic [ref=f111e2197]:
+                - generic [ref=f111e2198]:
+                  - link "Edit Image" [ref=f111e2200]:
+                    - /url: /community/marketplace/plugins/edit-image/
+                  - generic [ref=f111e2202]: Paid
+                - generic [ref=f111e2203]:
+                  - button "Like plugin" [ref=f111e2204]:
+                    - generic [ref=f111e2209]: "64"
+                  - link "7 comments" [ref=f111e2214]:
+                    - /url: /community/marketplace/plugins/edit-image/#comment-input
+                    - generic [ref=f111e2217]: "7"
+          - generic [ref=f111e2223]:
+            - generic [ref=f111e2225] [cursor=pointer]:
+              - link "Context Picker" [ref=f111e2226]:
+                - /url: /community/marketplace/plugins/context-picker/
+              - button "Open preview" [ref=f111e2227]
+              - generic [ref=f111e2230]:
+                - generic:
+                  - img "Context Picker"
+              - generic [ref=f111e2231]:
+                - generic [ref=f111e2232]:
+                  - link "Context Picker" [ref=f111e2234]:
+                    - /url: /community/marketplace/plugins/context-picker/
+                  - generic [ref=f111e2236]: Free
+                - generic [ref=f111e2237]:
+                  - button "Like plugin" [ref=f111e2238]:
+                    - generic [ref=f111e2243]: "64"
+                  - link "6 comments" [ref=f111e2248]:
+                    - /url: /community/marketplace/plugins/context-picker/#comment-input
+                    - generic [ref=f111e2251]: "6"
+            - generic [ref=f111e2257] [cursor=pointer]:
+              - link "Patterns & noise" [ref=f111e2258]:
+                - /url: /community/marketplace/plugins/patterns-noise/
+              - button "Open preview" [ref=f111e2259]
+              - generic [ref=f111e2262]:
+                - generic:
+                  - img "Patterns & noise"
+              - generic [ref=f111e2263]:
+                - generic [ref=f111e2264]:
+                  - link "Patterns & noise" [ref=f111e2266]:
+                    - /url: /community/marketplace/plugins/patterns-noise/
+                  - generic [ref=f111e2268]: Free
+                - generic [ref=f111e2269]:
+                  - button "Like plugin" [ref=f111e2270]:
+                    - generic [ref=f111e2275]: "62"
+                  - link "4 comments" [ref=f111e2280]:
+                    - /url: /community/marketplace/plugins/patterns-noise/#comment-input
+                    - generic [ref=f111e2283]: "4"
+            - generic [ref=f111e2289] [cursor=pointer]:
+              - link "Figma Sync" [ref=f111e2290]:
+                - /url: /community/marketplace/plugins/figma-sync/
+              - button "Open preview" [ref=f111e2291]
+              - generic [ref=f111e2294]:
+                - generic:
+                  - img "Figma Sync"
+              - generic [ref=f111e2295]:
+                - generic [ref=f111e2296]:
+                  - link "Figma Sync" [ref=f111e2298]:
+                    - /url: /community/marketplace/plugins/figma-sync/
+                  - generic [ref=f111e2300]: Paid
+                - generic [ref=f111e2301]:
+                  - button "Like plugin" [ref=f111e2302]:
+                    - generic [ref=f111e2307]: "75"
+                  - link "3 comments" [ref=f111e2312]:
+                    - /url: /community/marketplace/plugins/figma-sync/#comment-input
+                    - generic [ref=f111e2315]: "3"
+          - generic [ref=f111e2321]:
+            - generic [ref=f111e2323] [cursor=pointer]:
+              - link "3D Shapes" [ref=f111e2324]:
+                - /url: /community/marketplace/plugins/3d-shapes/
+              - button "Open preview" [ref=f111e2325]
+              - generic [ref=f111e2328]:
+                - generic:
+                  - img "3D Shapes"
+              - generic [ref=f111e2329]:
+                - generic [ref=f111e2330]:
+                  - link "3D Shapes" [ref=f111e2332]:
+                    - /url: /community/marketplace/plugins/3d-shapes/
+                  - generic [ref=f111e2334]: Free
+                - generic [ref=f111e2335]:
+                  - button "Like plugin" [ref=f111e2336]:
+                    - generic [ref=f111e2341]: "77"
+                  - link "2 comments" [ref=f111e2346]:
+                    - /url: /community/marketplace/plugins/3d-shapes/#comment-input
+                    - generic [ref=f111e2349]: "2"
+            - generic [ref=f111e2355] [cursor=pointer]:
+              - link "3Drop" [ref=f111e2356]:
+                - /url: /community/marketplace/plugins/3drop/
+              - button "Open preview" [ref=f111e2357]
+              - generic [ref=f111e2360]:
+                - generic:
+                  - img "3Drop"
+              - generic [ref=f111e2361]:
+                - generic [ref=f111e2362]:
+                  - link "3Drop" [ref=f111e2364]:
+                    - /url: /community/marketplace/plugins/3drop/
+                  - generic [ref=f111e2366]: Paid
+                - generic [ref=f111e2367]:
+                  - button "Like plugin" [ref=f111e2368]:
+                    - generic [ref=f111e2373]: "40"
+                  - link "2 comments" [ref=f111e2378]:
+                    - /url: /community/marketplace/plugins/3drop/#comment-input
+                    - generic [ref=f111e2381]: "2"
+            - generic [ref=f111e2387] [cursor=pointer]:
+              - link "Dither" [ref=f111e2388]:
+                - /url: /community/marketplace/plugins/dither/
+              - button "Open preview" [ref=f111e2389]
+              - generic [ref=f111e2392]:
+                - generic:
+                  - img "Dither"
+              - generic [ref=f111e2393]:
+                - generic [ref=f111e2394]:
+                  - link "Dither" [ref=f111e2396]:
+                    - /url: /community/marketplace/plugins/dither/
+                  - generic [ref=f111e2398]: Free
+                - generic [ref=f111e2399]:
+                  - button "Like plugin" [ref=f111e2400]:
+                    - generic [ref=f111e2405]: "96"
+                  - link "1 comment" [ref=f111e2410]:
+                    - /url: /community/marketplace/plugins/dither/#comment-input
+                    - generic [ref=f111e2413]: "1"
+          - generic [ref=f111e2419]:
+            - generic [ref=f111e2421] [cursor=pointer]:
+              - link "Shaders by Paper" [ref=f111e2422]:
+                - /url: /community/marketplace/plugins/shaders-by-paper/
+              - button "Open preview" [ref=f111e2423]
+              - generic [ref=f111e2426]:
+                - generic:
+                  - generic:
+                    - img "Shaders by Paper"
+              - generic [ref=f111e2427]:
+                - generic [ref=f111e2428]:
+                  - link "Shaders by Paper" [ref=f111e2430]:
+                    - /url: /community/marketplace/plugins/shaders-by-paper/
+                  - generic [ref=f111e2432]: Paid
+                - generic [ref=f111e2433]:
+                  - button "Like plugin" [ref=f111e2434]:
+                    - generic [ref=f111e2439]: "54"
+                  - link "1 comment" [ref=f111e2444]:
+                    - /url: /community/marketplace/plugins/shaders-by-paper/#comment-input
+                    - generic [ref=f111e2447]: "1"
+            - generic [ref=f111e2453] [cursor=pointer]:
+              - link "Hugeicons" [ref=f111e2454]:
+                - /url: /community/marketplace/plugins/hugeicons/
+              - button "Open preview" [ref=f111e2455]
+              - generic [ref=f111e2458]:
+                - generic:
+                  - img "Hugeicons"
+              - generic [ref=f111e2459]:
+                - generic [ref=f111e2460]:
+                  - link "Hugeicons" [ref=f111e2462]:
+                    - /url: /community/marketplace/plugins/hugeicons/
+                  - generic [ref=f111e2464]: Paid
+                - generic [ref=f111e2465]:
+                  - button "Like plugin" [ref=f111e2466]:
+                    - generic [ref=f111e2471]: "33"
+                  - link "0 comments" [ref=f111e2476]:
+                    - /url: /community/marketplace/plugins/hugeicons/#comment-input
+            - generic [ref=f111e2480] [cursor=pointer]:
+              - link "Logofy" [ref=f111e2481]:
+                - /url: /community/marketplace/plugins/logofy/
+              - button "Open preview" [ref=f111e2482]
+              - generic [ref=f111e2485]:
+                - generic:
+                  - img "Logofy"
+              - generic [ref=f111e2486]:
+                - generic [ref=f111e2487]:
+                  - link "Logofy" [ref=f111e2489]:
+                    - /url: /community/marketplace/plugins/logofy/
+                  - generic [ref=f111e2491]: Free
+                - generic [ref=f111e2492]:
+                  - button "Like plugin" [ref=f111e2493]:
+                    - generic [ref=f111e2498]: "87"
+                  - link "0 comments" [ref=f111e2503]:
+                    - /url: /community/marketplace/plugins/logofy/#comment-input
+          - generic [ref=f111e2507]:
+            - generic [ref=f111e2509] [cursor=pointer]:
+              - link "ASCII" [ref=f111e2510]:
+                - /url: /community/marketplace/plugins/ascii/
+              - button "Open preview" [ref=f111e2511]
+              - generic [ref=f111e2514]:
+                - generic:
+                  - img "ASCII"
+              - generic [ref=f111e2515]:
+                - generic [ref=f111e2516]:
+                  - link "ASCII" [ref=f111e2518]:
+                    - /url: /community/marketplace/plugins/ascii/
+                  - generic [ref=f111e2520]: Free
+                - generic [ref=f111e2521]:
+                  - button "Like plugin" [ref=f111e2522]:
+                    - generic [ref=f111e2527]: "88"
+                  - link "0 comments" [ref=f111e2532]:
+                    - /url: /community/marketplace/plugins/ascii/#comment-input
+            - generic [ref=f111e2536] [cursor=pointer]:
+              - link "Unsplash" [ref=f111e2537]:
+                - /url: /community/marketplace/plugins/unsplash/
+              - button "Open preview" [ref=f111e2538]
+              - generic [ref=f111e2541]:
+                - generic:
+                  - img "Unsplash"
+              - generic [ref=f111e2542]:
+                - generic [ref=f111e2543]:
+                  - link "Unsplash" [ref=f111e2545]:
+                    - /url: /community/marketplace/plugins/unsplash/
+                  - generic [ref=f111e2547]: Free
+                - generic [ref=f111e2548]:
+                  - button "Like plugin" [ref=f111e2549]:
+                    - generic [ref=f111e2554]: "78"
+                  - link "0 comments" [ref=f111e2559]:
+                    - /url: /community/marketplace/plugins/unsplash/#comment-input
+            - generic [ref=f111e2563] [cursor=pointer]:
+              - link "Glass Material" [ref=f111e2564]:
+                - /url: /community/marketplace/plugins/glass-material/
+              - button "Open preview" [ref=f111e2565]
+              - generic [ref=f111e2568]:
+                - generic:
+                  - img "Glass Material"
+              - generic [ref=f111e2569]:
+                - generic [ref=f111e2570]:
+                  - link "Glass Material" [ref=f111e2572]:
+                    - /url: /community/marketplace/plugins/glass-material/
+                  - generic [ref=f111e2574]: Paid
+                - generic [ref=f111e2575]:
+                  - button "Like plugin" [ref=f111e2576]:
+                    - generic [ref=f111e2581]: "45"
+                  - link "0 comments" [ref=f111e2586]:
+                    - /url: /community/marketplace/plugins/glass-material/#comment-input
+          - generic [ref=f111e2590]:
+            - generic [ref=f111e2592] [cursor=pointer]:
+              - link "Recraft" [ref=f111e2593]:
+                - /url: /community/marketplace/plugins/recraft/
+              - button "Open preview" [ref=f111e2594]
+              - generic [ref=f111e2597]:
+                - generic:
+                  - img "Recraft"
+              - generic [ref=f111e2598]:
+                - generic [ref=f111e2599]:
+                  - link "Recraft" [ref=f111e2601]:
+                    - /url: /community/marketplace/plugins/recraft/
+                  - generic [ref=f111e2603]: Free
+                - generic [ref=f111e2604]:
+                  - button "Like plugin" [ref=f111e2605]:
+                    - generic [ref=f111e2610]: "57"
+                  - link "0 comments" [ref=f111e2615]:
+                    - /url: /community/marketplace/plugins/recraft/#comment-input
+            - generic [ref=f111e2619] [cursor=pointer]:
+              - link "FramerKit" [ref=f111e2620]:
+                - /url: /community/marketplace/plugins/framerkit/
+              - button "Open preview" [ref=f111e2621]
+              - generic [ref=f111e2624]:
+                - generic:
+                  - img "FramerKit"
+              - generic [ref=f111e2625]:
+                - generic [ref=f111e2626]:
+                  - link "FramerKit" [ref=f111e2628]:
+                    - /url: /community/marketplace/plugins/framerkit/
+                  - generic [ref=f111e2630]: Paid
+                - generic [ref=f111e2631]:
+                  - button "Like plugin" [ref=f111e2632]:
+                    - generic [ref=f111e2637]: "43"
+                  - link "1 comment" [ref=f111e2642]:
+                    - /url: /community/marketplace/plugins/framerkit/#comment-input
+                    - generic [ref=f111e2645]: "1"
+            - generic [ref=f111e2651] [cursor=pointer]:
+              - link "Notion" [ref=f111e2652]:
+                - /url: /community/marketplace/plugins/notion/
+              - button "Open preview" [ref=f111e2653]
+              - generic [ref=f111e2656]:
+                - generic:
+                  - img "Notion"
+              - generic [ref=f111e2657]:
+                - generic [ref=f111e2658]:
+                  - link "Notion" [ref=f111e2660]:
+                    - /url: /community/marketplace/plugins/notion/
+                  - generic [ref=f111e2662]: Free
+                - generic [ref=f111e2663]:
+                  - button "Like plugin" [ref=f111e2664]:
+                    - generic [ref=f111e2669]: "66"
+                  - link "0 comments" [ref=f111e2674]:
+                    - /url: /community/marketplace/plugins/notion/#comment-input
+          - generic [ref=f111e2678]:
+            - generic [ref=f111e2680] [cursor=pointer]:
+              - link "Frameshop" [ref=f111e2681]:
+                - /url: /community/marketplace/plugins/frameshop/
+              - button "Open preview" [ref=f111e2682]
+              - generic [ref=f111e2685]:
+                - generic:
+                  - img "Frameshop"
+              - generic [ref=f111e2686]:
+                - generic [ref=f111e2687]:
+                  - link "Frameshop" [ref=f111e2689]:
+                    - /url: /community/marketplace/plugins/frameshop/
+                  - generic [ref=f111e2691]: Free
+                - generic [ref=f111e2692]:
+                  - button "Like plugin" [ref=f111e2693]:
+                    - generic [ref=f111e2698]: "35"
+                  - link "1 comment" [ref=f111e2703]:
+                    - /url: /community/marketplace/plugins/frameshop/#comment-input
+                    - generic [ref=f111e2706]: "1"
+            - generic [ref=f111e2712] [cursor=pointer]:
+              - link "Tidy Up" [ref=f111e2713]:
+                - /url: /community/marketplace/plugins/tidy-up/
+              - button "Open preview" [ref=f111e2714]
+              - generic [ref=f111e2717]:
+                - generic:
+                  - img "Tidy Up"
+              - generic [ref=f111e2718]:
+                - generic [ref=f111e2719]:
+                  - link "Tidy Up" [ref=f111e2721]:
+                    - /url: /community/marketplace/plugins/tidy-up/
+                  - generic [ref=f111e2723]: Free
+                - generic [ref=f111e2724]:
+                  - button "Like plugin" [ref=f111e2725]:
+                    - generic [ref=f111e2730]: "97"
+                  - link "0 comments" [ref=f111e2735]:
+                    - /url: /community/marketplace/plugins/tidy-up/#comment-input
+            - generic [ref=f111e2739] [cursor=pointer]:
+              - link "Website Mockups Pro" [ref=f111e2740]:
+                - /url: /community/marketplace/plugins/website-mockups/
+              - button "Open preview" [ref=f111e2741]
+              - generic [ref=f111e2744]:
+                - generic:
+                  - img "Website Mockups Pro"
+              - generic [ref=f111e2745]:
+                - generic [ref=f111e2746]:
+                  - link "Website Mockups Pro" [ref=f111e2748]:
+                    - /url: /community/marketplace/plugins/website-mockups/
+                  - generic [ref=f111e2750]: Paid
+                - generic [ref=f111e2751]:
+                  - button "Like plugin" [ref=f111e2752]:
+                    - generic [ref=f111e2757]: "24"
+                  - link "4 comments" [ref=f111e2762]:
+                    - /url: /community/marketplace/plugins/website-mockups/#comment-input
+                    - generic [ref=f111e2765]: "4"
+  - region "Notifications (F8)":
+    - list
+  - alert [ref=f111e993]: Plugins — Framer Marketplace

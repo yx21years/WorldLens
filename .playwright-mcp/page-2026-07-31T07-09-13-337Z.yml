@@ -1,0 +1,267 @@
+- generic [active] [ref=f27e1]:
+  - generic [ref=f27e4]:
+    - navigation "Community" [ref=f27e5]:
+      - generic [ref=f27e6]:
+        - link "Framer Community Framer Community" [ref=f27e7] [cursor=pointer]:
+          - /url: /community/
+          - img "Framer Community" [ref=f27e8]
+          - generic [ref=f27e9]: Framer Community
+        - combobox "Search Community" [ref=f27e15]
+        - generic [ref=f27e16]: Discover
+        - link "Feed" [ref=f27e17] [cursor=pointer]:
+          - /url: /community/feed/
+        - link "Hype" [ref=f27e22] [cursor=pointer]:
+          - /url: /community/hype/
+        - link "Activity" [ref=f27e27] [cursor=pointer]:
+          - /url: /community/activity/
+      - generic [ref=f27e33]:
+        - generic [ref=f27e34]: Marketplace
+        - link "All" [ref=f27e35] [cursor=pointer]:
+          - /url: /community/marketplace/
+        - link "Templates" [ref=f27e40] [cursor=pointer]:
+          - /url: /community/marketplace/templates/
+        - link "Components" [ref=f27e45] [cursor=pointer]:
+          - /url: /community/marketplace/components/
+        - link "Vectors" [ref=f27e50] [cursor=pointer]:
+          - /url: /community/marketplace/vectors/
+        - link "Plugins" [ref=f27e55] [cursor=pointer]:
+          - /url: /community/marketplace/plugins/
+      - generic [ref=f27e61]:
+        - generic [ref=f27e62]: Community
+        - link "Gallery" [ref=f27e63] [cursor=pointer]:
+          - /url: /community/gallery/
+        - link "Members" [ref=f27e68] [cursor=pointer]:
+          - /url: /community/members/
+    - generic [ref=f27e74]:
+      - generic [ref=f27e79]:
+        - button "Go back" [ref=f27e80] [cursor=pointer]:
+          - generic [ref=f27e81]: Back
+        - navigation "Breadcrumb" [ref=f27e85]:
+          - link "Components" [ref=f27e87] [cursor=pointer]:
+            - /url: /community/marketplace/components/
+          - link "Categories" [ref=f27e91] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/
+          - link "Interactions" [ref=f27e95] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/interactions/
+      - generic [ref=f27e97]:
+        - generic [ref=f27e98]:
+          - heading "Premium Pixel Hero · Editorial hero with pixel reveal" [level=1] [ref=f27e100]
+          - generic [ref=f27e102]:
+            - generic [ref=f27e103]:
+              - button "More options" [ref=f27e104] [cursor=pointer]
+              - button "0 comments" [ref=f27e108] [cursor=pointer]
+              - button "Like component" [ref=f27e111] [cursor=pointer]
+            - button "Buy for $5" [ref=f27e117] [cursor=pointer]
+        - generic [ref=f27e119]:
+          - img "Premium Pixel Hero" [ref=f27e121]
+          - button "Open preview" [ref=f27e122] [cursor=pointer]
+        - generic [ref=f27e126]:
+          - article [ref=f27e127]:
+            - generic [ref=f27e130]:
+              - paragraph [ref=f27e131]: Pixel Hero is a responsive Framer component for creating editorial hero sections with a full background image, jagged pixel overlay, interactive cursor reveal, editable headline, link row, image positioning, and customizable pixel controls.
+              - heading "Use Cases" [level=2] [ref=f27e132]
+              - paragraph [ref=f27e133]: "This component works especially well for:"
+              - list [ref=f27e134]:
+                - listitem [ref=f27e135]:
+                  - paragraph [ref=f27e136]: landing page hero sections
+                - listitem [ref=f27e137]:
+                  - paragraph [ref=f27e138]: portfolio intros
+                - listitem [ref=f27e139]:
+                  - paragraph [ref=f27e140]: creative studio websites
+                - listitem [ref=f27e141]:
+                  - paragraph [ref=f27e142]: fashion campaigns
+                - listitem [ref=f27e143]:
+                  - paragraph [ref=f27e144]: editorial pages
+                - listitem [ref=f27e145]:
+                  - paragraph [ref=f27e146]: brand launches
+                - listitem [ref=f27e147]:
+                  - paragraph [ref=f27e148]: photography showcases
+                - listitem [ref=f27e149]:
+                  - paragraph [ref=f27e150]: art direction pages
+                - listitem [ref=f27e151]:
+                  - paragraph [ref=f27e152]: product storytelling
+                - listitem [ref=f27e153]:
+                  - paragraph [ref=f27e154]: immersive visual headers
+              - paragraph [ref=f27e155]: Perfect when you want a hero section that feels bold, digital, editorial, and more interactive than a standard image background.
+              - paragraph [ref=f27e156]: –––––––––––––––––––––––––––
+              - heading "Customization" [level=2] [ref=f27e157]
+              - figure [ref=f27e158]
+              - paragraph [ref=f27e159]: "Fully customizable via the properties panel:"
+              - list [ref=f27e160]:
+                - listitem [ref=f27e161]:
+                  - paragraph [ref=f27e162]: headline
+                - listitem [ref=f27e163]:
+                  - paragraph [ref=f27e164]: subheadline / link text
+                - listitem [ref=f27e165]:
+                  - paragraph [ref=f27e166]: subheadline link
+                - listitem [ref=f27e167]:
+                  - paragraph [ref=f27e168]: background image
+                - listitem [ref=f27e169]:
+                  - paragraph [ref=f27e170]: image position
+                - listitem [ref=f27e171]:
+                  - paragraph [ref=f27e172]: pixel color
+                - listitem [ref=f27e173]:
+                  - paragraph [ref=f27e174]: pixel size
+                - listitem [ref=f27e175]:
+                  - paragraph [ref=f27e176]: pixel density
+                - listitem [ref=f27e177]:
+                  - paragraph [ref=f27e178]: reveal radius
+                - listitem [ref=f27e179]:
+                  - paragraph [ref=f27e180]: animation speed
+                - listitem [ref=f27e181]:
+                  - paragraph [ref=f27e182]: interaction on / off
+                - listitem [ref=f27e183]:
+                  - paragraph [ref=f27e184]: text color
+                - listitem [ref=f27e185]:
+                  - paragraph [ref=f27e186]: padding
+                - listitem [ref=f27e187]:
+                  - paragraph [ref=f27e188]: headline font
+                - listitem [ref=f27e189]:
+                  - paragraph [ref=f27e190]: subheadline font
+              - paragraph [ref=f27e191]: Built to look strong and distinctive by default, while still giving enough control to adapt the visual system to different brands and image styles.
+              - paragraph [ref=f27e192]: –––––––––––––––––––––––––––
+              - heading "Responsive behavior" [level=2] [ref=f27e193]
+              - figure [ref=f27e194]
+              - list [ref=f27e195]:
+                - listitem [ref=f27e196]:
+                  - paragraph [ref=f27e197]:
+                    - strong [ref=f27e198]: "Desktop:"
+                    - text: Large editorial headline, wide image area, strong pixel opening, and full interactive reveal behavior.
+                - listitem [ref=f27e199]:
+                  - paragraph [ref=f27e200]:
+                    - strong [ref=f27e201]: "Tablet:"
+                    - text: The layout keeps the same visual structure while adapting to the available component width.
+                - listitem [ref=f27e202]:
+                  - paragraph [ref=f27e203]:
+                    - strong [ref=f27e204]: "Mobile:"
+                    - text: Pixel size, padding, opening shape, and reveal behavior are adjusted for smaller screens and touch interaction.
+              - paragraph [ref=f27e205]: The component is designed with a fixed default size of 1200 × 800, while still adapting internally for narrow layouts.
+            - generic [ref=f27e206]:
+              - button "Like component" [ref=f27e207] [cursor=pointer]:
+                - generic [ref=f27e212]: "424"
+              - button "0 comments" [ref=f27e217] [cursor=pointer]
+              - generic [ref=f27e221]:
+                - generic [ref=f27e222]: Updated 2w ago
+                - generic [ref=f27e223]: ·
+                - button "View activity" [ref=f27e224] [cursor=pointer]
+          - complementary [ref=f27e226]:
+            - generic [ref=f27e227]:
+              - heading "Details" [level=2] [ref=f27e229]
+              - generic [ref=f27e231]:
+                - generic [ref=f27e232]:
+                  - term [ref=f27e233]: Creator
+                  - definition [ref=f27e234]:
+                    - button [ref=f27e236] [cursor=pointer]:
+                      - link "felix strobel felix strobel" [ref=f27e237]:
+                        - /url: /community/creator/@fs/
+                        - img "felix strobel" [ref=f27e238]
+                        - generic [ref=f27e239]: felix strobel
+                - generic [ref=f27e240]:
+                  - term [ref=f27e241]: Published
+                  - definition [ref=f27e242]: June 6, 2026
+                - generic [ref=f27e243]:
+                  - term [ref=f27e244]: License
+                  - definition [ref=f27e245]:
+                    - link "Single-Use License" [ref=f27e246] [cursor=pointer]:
+                      - /url: https://www.framer.com/legal/community-terms/
+            - generic [ref=f27e247]:
+              - generic [ref=f27e248]:
+                - heading "Categories" [level=2] [ref=f27e249]
+                - link "See all" [ref=f27e250] [cursor=pointer]:
+                  - /url: /community/marketplace/components/categories/
+              - list "Categories" [ref=f27e252]:
+                - listitem [ref=f27e253]:
+                  - link "Interactions" [ref=f27e254] [cursor=pointer]:
+                    - /url: /community/marketplace/components/categories/interactions/
+          - generic [ref=f27e258]:
+            - textbox "Reply…" [ref=f27e260]:
+              - paragraph [ref=f27e261]: Reply…
+            - button [disabled]
+          - generic [ref=f27e262]:
+            - generic [ref=f27e263]:
+              - generic [ref=f27e264]:
+                - heading "More from felix strobel" [level=2] [ref=f27e265]
+                - link "See all" [ref=f27e266] [cursor=pointer]:
+                  - /url: /@fs/?tab=marketplace
+              - generic [ref=f27e267]:
+                - generic [ref=f27e268] [cursor=pointer]:
+                  - link "Orbitfield Gallery" [ref=f27e269]:
+                    - /url: /community/marketplace/components/orbitfield-gallery/
+                  - button "Open preview" [ref=f27e270]
+                  - generic [ref=f27e273]:
+                    - generic:
+                      - img "Orbitfield Gallery"
+                  - generic [ref=f27e274]:
+                    - link "Orbitfield Gallery" [ref=f27e277]:
+                      - /url: /community/marketplace/components/orbitfield-gallery/
+                    - button "Like component" [ref=f27e280]:
+                      - generic [ref=f27e285]: "29"
+                - generic [ref=f27e290] [cursor=pointer]:
+                  - link "Fan Card Carousel" [ref=f27e291]:
+                    - /url: /community/marketplace/components/fan-card-carousel/
+                  - button "Open preview" [ref=f27e292]
+                  - generic [ref=f27e295]:
+                    - generic:
+                      - img "Fan Card Carousel"
+                  - generic [ref=f27e296]:
+                    - link "Fan Card Carousel" [ref=f27e299]:
+                      - /url: /community/marketplace/components/fan-card-carousel/
+                    - button "Like component" [ref=f27e302]:
+                      - generic [ref=f27e307]: "219"
+                - generic [ref=f27e312] [cursor=pointer]:
+                  - link "Animated Colour Typo" [ref=f27e313]:
+                    - /url: /community/marketplace/components/animated-colour-typo/
+                  - button "Open preview" [ref=f27e314]
+                  - generic [ref=f27e317]:
+                    - generic:
+                      - img "Animated Colour Typo"
+                  - generic [ref=f27e318]:
+                    - link "Animated Colour Typo" [ref=f27e321]:
+                      - /url: /community/marketplace/components/animated-colour-typo/
+                    - button "Like component" [ref=f27e324]:
+                      - generic [ref=f27e329]: "88"
+            - generic [ref=f27e334]:
+              - generic [ref=f27e336]:
+                - heading "Related Components" [level=2] [ref=f27e337]
+                - link "See all" [ref=f27e338] [cursor=pointer]:
+                  - /url: /community/marketplace/components/
+              - generic [ref=f27e339]:
+                - generic [ref=f27e340] [cursor=pointer]:
+                  - link "Neural Workspace" [ref=f27e341]:
+                    - /url: /community/marketplace/components/neural-workspace/
+                  - button "Open preview" [ref=f27e342]
+                  - generic [ref=f27e345]:
+                    - generic:
+                      - img "Neural Workspace"
+                  - generic [ref=f27e346]:
+                    - link "Neural Workspace" [ref=f27e349]:
+                      - /url: /community/marketplace/components/neural-workspace/
+                    - button "Like component" [ref=f27e352]:
+                      - generic [ref=f27e357]: "8"
+                - generic [ref=f27e362] [cursor=pointer]:
+                  - link "CameraShutterReveal" [ref=f27e363]:
+                    - /url: /community/marketplace/components/camerashutterreveal/
+                  - button "Open preview" [ref=f27e364]
+                  - generic [ref=f27e367]:
+                    - generic:
+                      - img "CameraShutterReveal"
+                  - generic [ref=f27e368]:
+                    - link "CameraShutterReveal" [ref=f27e371]:
+                      - /url: /community/marketplace/components/camerashutterreveal/
+                    - button "Like component" [ref=f27e374]:
+                      - generic [ref=f27e379]: "121"
+                - generic [ref=f27e384] [cursor=pointer]:
+                  - link "Chat Messages" [ref=f27e385]:
+                    - /url: /community/marketplace/components/chat-messages/
+                  - button "Open preview" [ref=f27e386]
+                  - generic [ref=f27e389]:
+                    - generic:
+                      - img "Chat Messages"
+                  - generic [ref=f27e390]:
+                    - link "Chat Messages" [ref=f27e393]:
+                      - /url: /community/marketplace/components/chat-messages/
+                    - button "Like component" [ref=f27e396]:
+                      - generic [ref=f27e401]: "242"
+  - region "Notifications (F8)":
+    - list
+  - alert [ref=f27e406]

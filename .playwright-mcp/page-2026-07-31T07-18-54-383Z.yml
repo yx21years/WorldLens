@@ -1,0 +1,280 @@
+- generic [active] [ref=f106e1]:
+  - generic [ref=f106e4]:
+    - navigation "Community" [ref=f106e5]:
+      - generic [ref=f106e6]:
+        - link "Framer Community Framer Community" [ref=f106e7] [cursor=pointer]:
+          - /url: /community/
+          - img "Framer Community" [ref=f106e8]
+          - generic [ref=f106e9]: Framer Community
+        - combobox "Search Community" [ref=f106e15]
+        - generic [ref=f106e16]: Discover
+        - link "Feed" [ref=f106e17] [cursor=pointer]:
+          - /url: /community/feed/
+        - link "Hype" [ref=f106e22] [cursor=pointer]:
+          - /url: /community/hype/
+        - link "Activity" [ref=f106e27] [cursor=pointer]:
+          - /url: /community/activity/
+      - generic [ref=f106e33]:
+        - generic [ref=f106e34]: Marketplace
+        - link "All" [ref=f106e35] [cursor=pointer]:
+          - /url: /community/marketplace/
+        - link "Templates" [ref=f106e40] [cursor=pointer]:
+          - /url: /community/marketplace/templates/
+        - link "Components" [ref=f106e45] [cursor=pointer]:
+          - /url: /community/marketplace/components/
+        - link "Vectors" [ref=f106e50] [cursor=pointer]:
+          - /url: /community/marketplace/vectors/
+        - link "Plugins" [ref=f106e55] [cursor=pointer]:
+          - /url: /community/marketplace/plugins/
+      - generic [ref=f106e61]:
+        - generic [ref=f106e62]: Community
+        - link "Gallery" [ref=f106e63] [cursor=pointer]:
+          - /url: /community/gallery/
+        - link "Members" [ref=f106e68] [cursor=pointer]:
+          - /url: /community/members/
+    - generic [ref=f106e74]:
+      - generic [ref=f106e79]:
+        - button "Go back" [ref=f106e80] [cursor=pointer]:
+          - generic [ref=f106e81]: Back
+        - navigation "Breadcrumb" [ref=f106e85]:
+          - link "Components" [ref=f106e87] [cursor=pointer]:
+            - /url: /community/marketplace/components/
+          - link "Categories" [ref=f106e91] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/
+          - link "Backgrounds" [ref=f106e95] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/backgrounds/
+      - generic [ref=f106e97]:
+        - generic [ref=f106e98]:
+          - heading "Gradient Strips · Premium Backgrounds Component" [level=1] [ref=f106e100]
+          - generic [ref=f106e102]:
+            - generic [ref=f106e103]:
+              - button "More options" [ref=f106e104] [cursor=pointer]
+              - button "2 comments" [ref=f106e108] [cursor=pointer]
+              - button "Like component" [ref=f106e111] [cursor=pointer]
+            - button "Buy for $12" [ref=f106e117] [cursor=pointer]
+        - generic [ref=f106e119]:
+          - img "Gradient Strips" [ref=f106e121]
+          - button "Open preview" [ref=f106e122] [cursor=pointer]
+        - generic [ref=f106e126]:
+          - article [ref=f106e127]:
+            - generic [ref=f106e130]:
+              - paragraph [ref=f106e131]: "Choose how the bars scale across the width:"
+              - list [ref=f106e132]:
+                - listitem [ref=f106e133]:
+                  - paragraph [ref=f106e134]: valley
+                - listitem [ref=f106e135]:
+                  - paragraph [ref=f106e136]: hill
+                - listitem [ref=f106e137]:
+                  - paragraph [ref=f106e138]: rounded-hill
+                - listitem [ref=f106e139]:
+                  - paragraph [ref=f106e140]: wave
+                - listitem [ref=f106e141]:
+                  - paragraph [ref=f106e142]: ramp-left
+                - listitem [ref=f106e143]:
+                  - paragraph [ref=f106e144]: ramp-right
+                - listitem [ref=f106e145]:
+                  - paragraph [ref=f106e146]: flat
+              - paragraph [ref=f106e147]: Each shape influences vertical scale distribution and works together with gradient angle spread for different visual rhythms.
+              - heading "Color control" [level=3] [ref=f106e148]
+              - paragraph [ref=f106e149]: "Use curated presets:"
+              - list [ref=f106e150]:
+                - listitem [ref=f106e151]:
+                  - paragraph [ref=f106e152]: soft
+                - listitem [ref=f106e153]:
+                  - paragraph [ref=f106e154]: neon
+                - listitem [ref=f106e155]:
+                  - paragraph [ref=f106e156]: sunset
+                - listitem [ref=f106e157]:
+                  - paragraph [ref=f106e158]: pink-sunset
+              - paragraph [ref=f106e159]: Switch to custom colors when full control is needed. Define gradient From and To range, add subtle hue or intensity drift, and experiment with blend modes for layered compositions.
+              - heading "Motion behavior" [level=3] [ref=f106e160]
+              - paragraph [ref=f106e161]: "Appear animations:"
+              - list [ref=f106e162]:
+                - listitem [ref=f106e163]:
+                  - paragraph [ref=f106e164]: scale
+                - listitem [ref=f106e165]:
+                  - paragraph [ref=f106e166]: fade
+                - listitem [ref=f106e167]:
+                  - paragraph [ref=f106e168]: fade-slide
+              - paragraph [ref=f106e169]: "Control order and stagger for progressive reveals. Add looping pulse with three modes: pulse, gentle-pulse, or none. The component respects prefers-reduced-motion automatically."
+              - heading "Visual extras" [level=3] [ref=f106e170]
+              - list [ref=f106e171]:
+                - listitem [ref=f106e172]:
+                  - paragraph [ref=f106e173]: Optional edge feather masking
+                - listitem [ref=f106e174]:
+                  - paragraph [ref=f106e175]: Optional noise overlay
+                - listitem [ref=f106e176]:
+                  - paragraph [ref=f106e177]: Extra glow layer for full-height flat ribbed mode
+              - paragraph [ref=f106e178]: All effects can be disabled individually.
+              - heading "Who it’s for" [level=3] [ref=f106e179]
+              - paragraph [ref=f106e180]: Designers building high-impact hero sectionsTemplate creators who need reusable animated backgroundsBrands adding motion without importing video assets
+              - heading "Return policy" [level=3] [ref=f106e181]
+              - paragraph [ref=f106e182]: Due to the digital nature of this product, purchases are non-refundable. If you run into issues, reach out and I will help you get it working as intended.
+              - figure [ref=f106e183]
+            - generic [ref=f106e184]:
+              - button "Like component" [ref=f106e185] [cursor=pointer]:
+                - generic [ref=f106e190]: "48"
+              - button "2 comments" [ref=f106e195] [cursor=pointer]:
+                - generic [ref=f106e198]: "2"
+              - generic [ref=f106e204]:
+                - generic [ref=f106e205]: Updated 2mo ago
+                - generic [ref=f106e206]: ·
+                - button "View activity" [ref=f106e207] [cursor=pointer]
+          - complementary [ref=f106e209]:
+            - generic [ref=f106e210]:
+              - heading "Details" [level=2] [ref=f106e212]
+              - generic [ref=f106e214]:
+                - generic [ref=f106e215]:
+                  - term [ref=f106e216]: Creator
+                  - definition [ref=f106e217]:
+                    - button [ref=f106e219] [cursor=pointer]:
+                      - link "Sanna Granqvist Sanna Granqvist" [ref=f106e220]:
+                        - /url: /community/creator/@sanna-granqvist/
+                        - img "Sanna Granqvist" [ref=f106e221]
+                        - generic [ref=f106e222]: Sanna Granqvist
+                - generic [ref=f106e223]:
+                  - term [ref=f106e224]: Published
+                  - definition [ref=f106e225]: February 19, 2026
+                - generic [ref=f106e226]:
+                  - term [ref=f106e227]: License
+                  - definition [ref=f106e228]:
+                    - link "Single-Use License" [ref=f106e229] [cursor=pointer]:
+                      - /url: https://www.framer.com/legal/community-terms/
+            - generic [ref=f106e230]:
+              - generic [ref=f106e231]:
+                - heading "Categories" [level=2] [ref=f106e232]
+                - link "See all" [ref=f106e233] [cursor=pointer]:
+                  - /url: /community/marketplace/components/categories/
+              - list "Categories" [ref=f106e235]:
+                - listitem [ref=f106e236]:
+                  - link "Featured" [ref=f106e237] [cursor=pointer]:
+                    - /url: /community/marketplace/components/featured/
+                - listitem [ref=f106e238]:
+                  - link "Backgrounds" [ref=f106e239] [cursor=pointer]:
+                    - /url: /community/marketplace/components/categories/backgrounds/
+          - generic [ref=f106e240]:
+            - generic [ref=f106e243]:
+              - textbox "Reply…" [ref=f106e245]:
+                - paragraph [ref=f106e246]: Reply…
+              - button [disabled]
+            - generic [ref=f106e247]:
+              - group "Thread by System.Supply™" [ref=f106e249]:
+                - generic [ref=f106e250]:
+                  - button [ref=f106e252] [cursor=pointer]:
+                    - link [ref=f106e253]:
+                      - /url: /community/creator/@system-supply/
+                      - img "System.Supply™" [ref=f106e254]
+                  - generic [ref=f106e255]:
+                    - generic [ref=f106e256]:
+                      - button [ref=f106e257] [cursor=pointer]:
+                        - link "System.Supply™" [ref=f106e258]:
+                          - /url: /community/creator/@system-supply/
+                      - generic [ref=f106e259]: 1mo
+                      - button [ref=f106e260] [cursor=pointer]
+                    - paragraph [ref=f106e264]: Very slick. 👌
+                    - generic [ref=f106e265]:
+                      - button "Like comment" [ref=f106e266] [cursor=pointer]
+                      - button "Reply" [ref=f106e271] [cursor=pointer]
+              - group "Thread by Cobi" [ref=f106e275]:
+                - generic [ref=f106e276]:
+                  - button [ref=f106e278] [cursor=pointer]:
+                    - link [ref=f106e279]:
+                      - /url: /community/creator/@ohheycobi/
+                      - img "Cobi" [ref=f106e280]
+                  - generic [ref=f106e281]:
+                    - generic [ref=f106e282]:
+                      - button [ref=f106e283] [cursor=pointer]:
+                        - link "Cobi" [ref=f106e284]:
+                          - /url: /community/creator/@ohheycobi/
+                      - generic "Expert" [ref=f106e285]
+                      - generic [ref=f106e286]: 1mo
+                      - button [ref=f106e287] [cursor=pointer]
+                    - paragraph [ref=f106e291]: One of my faves in the marketplace
+                    - generic [ref=f106e292]:
+                      - button "Like comment" [ref=f106e293] [cursor=pointer]
+                      - button "Reply" [ref=f106e298] [cursor=pointer]
+          - generic [ref=f106e301]:
+            - generic [ref=f106e302]:
+              - generic [ref=f106e303]:
+                - heading "More from Sanna Granqvist" [level=2] [ref=f106e304]
+                - link "See all" [ref=f106e305] [cursor=pointer]:
+                  - /url: /@sanna-granqvist/?tab=marketplace
+              - generic [ref=f106e306]:
+                - generic [ref=f106e307] [cursor=pointer]:
+                  - link "Vertical Grid Lines" [ref=f106e308]:
+                    - /url: /community/marketplace/components/vertical-grid-lines/
+                  - button "Open preview" [ref=f106e309]
+                  - generic [ref=f106e312]:
+                    - generic:
+                      - img "Vertical Grid Lines"
+                  - generic [ref=f106e313]:
+                    - link "Vertical Grid Lines" [ref=f106e316]:
+                      - /url: /community/marketplace/components/vertical-grid-lines/
+                    - button "Like component" [ref=f106e319]:
+                      - generic [ref=f106e324]: "34"
+                - generic [ref=f106e329] [cursor=pointer]:
+                  - link "Halftone Ambient" [ref=f106e330]:
+                    - /url: /community/marketplace/components/halftone-ambient/
+                  - button "Open preview" [ref=f106e331]
+                  - generic [ref=f106e334]:
+                    - generic:
+                      - img "Halftone Ambient"
+                  - generic [ref=f106e335]:
+                    - link "Halftone Ambient" [ref=f106e338]:
+                      - /url: /community/marketplace/components/halftone-ambient/
+                    - button "Like component" [ref=f106e341]:
+                      - generic [ref=f106e346]: "12"
+                - generic [ref=f106e351] [cursor=pointer]:
+                  - link "Grid Fade" [ref=f106e352]:
+                    - /url: /community/marketplace/components/grid-fade/
+                  - button "Open preview" [ref=f106e353]
+                  - generic [ref=f106e356]:
+                    - generic:
+                      - img "Grid Fade"
+                  - generic [ref=f106e357]:
+                    - link "Grid Fade" [ref=f106e360]:
+                      - /url: /community/marketplace/components/grid-fade/
+                    - button "Like component" [ref=f106e363]:
+                      - generic [ref=f106e368]: "14"
+            - generic [ref=f106e373]:
+              - generic [ref=f106e375]:
+                - heading "Related Components" [level=2] [ref=f106e376]
+                - link "See all" [ref=f106e377] [cursor=pointer]:
+                  - /url: /community/marketplace/components/
+              - generic [ref=f106e378]:
+                - generic [ref=f106e379] [cursor=pointer]:
+                  - link "ASCII Art" [ref=f106e380]:
+                    - /url: /community/marketplace/components/ascii-art/
+                  - button "Open preview" [ref=f106e381]
+                  - generic [ref=f106e384]:
+                    - generic:
+                      - img "ASCII Art"
+                  - generic [ref=f106e385]:
+                    - link "ASCII Art" [ref=f106e388]:
+                      - /url: /community/marketplace/components/ascii-art/
+                    - button "Like component" [ref=f106e391]:
+                      - generic [ref=f106e396]: "95"
+                - generic [ref=f106e401] [cursor=pointer]:
+                  - link "Spotlight Effect" [ref=f106e402]:
+                    - /url: /community/marketplace/components/spotlight-effect/
+                  - button "Open preview" [ref=f106e403]
+                  - generic [ref=f106e406]:
+                    - generic:
+                      - img "Spotlight Effect"
+                  - generic [ref=f106e407]:
+                    - link "Spotlight Effect" [ref=f106e410]:
+                      - /url: /community/marketplace/components/spotlight-effect/
+                    - button "Like component" [ref=f106e413]:
+                      - generic [ref=f106e418]: "2"
+                - generic [ref=f106e423] [cursor=pointer]:
+                  - link "EtherealGlowCard" [ref=f106e424]:
+                    - /url: /community/marketplace/components/etherealglowcard/
+                  - button "Open preview" [ref=f106e425]
+                  - generic [ref=f106e428]:
+                    - generic:
+                      - img "EtherealGlowCard"
+                  - link "EtherealGlowCard" [ref=f106e432]:
+                    - /url: /community/marketplace/components/etherealglowcard/
+  - region "Notifications (F8)":
+    - list
+  - alert [ref=f106e434]

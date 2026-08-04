@@ -1,0 +1,702 @@
+- generic [ref=f23e3]:
+  - navigation [ref=f23e6]:
+    - generic [ref=f23e8]:
+      - generic [ref=f23e9]:
+        - link [ref=f23e11] [cursor=pointer]:
+          - /url: ./
+          - paragraph [ref=f23e14]: Framer
+        - generic [ref=f23e15]:
+          - paragraph [ref=f23e21]: Solutions
+          - paragraph [ref=f23e28]: Platform
+          - paragraph [ref=f23e35]: Community
+          - paragraph [ref=f23e42]: Resources
+          - link [ref=f23e45] [cursor=pointer]:
+            - /url: ./enterprise/
+            - paragraph [ref=f23e49]: Enterprise
+          - link [ref=f23e52] [cursor=pointer]:
+            - /url: ./pricing
+            - paragraph [ref=f23e56]: Pricing
+        - generic [ref=f23e61]:
+          - paragraph [ref=f23e65] [cursor=pointer]:
+            - link "Log in" [ref=f23e66]:
+              - /url: https://framer.com/r/login
+          - link [ref=f23e69] [cursor=pointer]:
+            - /url: https://www.framer.com/r/signup/
+            - paragraph [ref=f23e71]: Sign up
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Copy logo SVG
+          - generic:
+            - link "Brand guidelines":
+              - /url: ./brand
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Brand guidelines
+  - generic [ref=f23e73]:
+    - main [ref=f23e74]:
+      - generic [ref=f23e77]:
+        - heading "Framer is the AI website builder for standout sites" [level=1] [ref=f23e79]
+        - generic [ref=f23e80]:
+          - generic [ref=f23e81]:
+            - link [ref=f23e84] [cursor=pointer]:
+              - /url: https://framer.com/r/signup/
+              - paragraph [ref=f23e86]: Get started for free
+            - link [ref=f23e90] [cursor=pointer]:
+              - /url: https://updates.framer.com/electron/darwin/arm64/Framer.zip?_ga=2.113395847.1447313862.1646043056-273660571.1642151053
+              - paragraph [ref=f23e92]: Download app
+          - link [ref=f23e95] [cursor=pointer]:
+            - /url: ./events/
+            - generic [ref=f23e97]:
+              - paragraph [ref=f23e99]: Framer 3.0
+              - paragraph [ref=f23e101]: Everything we shipped
+      - link [ref=f23e119] [cursor=pointer]:
+        - /url: ./stories/
+        - paragraph [ref=f23e121]: Meet our customers
+      - generic [ref=f23e139]:
+        - generic [ref=f23e140]:
+          - heading "Agents that work alongside you, not instead of you" [level=2] [ref=f23e142]
+          - link [ref=f23e146] [cursor=pointer]:
+            - /url: ./agents/
+            - paragraph [ref=f23e148]: Start with agents
+        - generic [ref=f23e150]:
+          - generic [ref=f23e152]:
+            - img "Design with agents" [ref=f23e156]
+            - generic [ref=f23e157]:
+              - generic [ref=f23e158]:
+                - heading "Design with an agent" [level=3] [ref=f23e160]
+                - paragraph [ref=f23e162]:
+                  - text: A professional
+                  - mark [ref=f23e163]: design agent
+                  - text: ", native to the canvas. It works directly on your site to generate and refine in place, with every change visible, editable, and under your control."
+              - link [ref=f23e166] [cursor=pointer]:
+                - /url: https://www.framer.com/signup/
+                - paragraph [ref=f23e168]: Start with Agents
+          - generic [ref=f23e172]:
+            - img "CMS with agents" [ref=f23e176]
+            - generic [ref=f23e177]:
+              - generic [ref=f23e178]:
+                - heading "Run your CMS with an agent" [level=3] [ref=f23e180]
+                - paragraph [ref=f23e182]: Manage more. Publish faster. The CMS agent sets up, organizes, and updates your entire CMS, connecting it directly to the canvas so content and design stay in sync.
+              - link [ref=f23e185] [cursor=pointer]:
+                - /url: https://www.framer.com/signup/
+                - paragraph [ref=f23e187]: Start with Agents
+          - generic [ref=f23e191]:
+            - img "Code with agents" [ref=f23e195]
+            - generic [ref=f23e196]:
+              - generic [ref=f23e197]:
+                - heading "Code with an agent" [level=3] [ref=f23e199]
+                - paragraph [ref=f23e201]: Agents turn your wildest ideas into code and put them on your site. From simple custom effects to complex interactions.
+              - link [ref=f23e204] [cursor=pointer]:
+                - /url: https://www.framer.com/signup/
+                - paragraph [ref=f23e206]: Start with Agents
+          - generic [ref=f23e210]:
+            - img "Connect external agents" [ref=f23e214]
+            - generic [ref=f23e215]:
+              - heading "Connect to any agent" [level=6] [ref=f23e217]
+              - paragraph [ref=f23e219]: Take action on your site from anywhere. Update copy from Slack. Trigger CMS changes from the terminal. Ship from a GitHub PR. Drive it all from your Terminal, Codex, Claude Code, Cursor, or any external agent.
+      - generic [ref=f23e220]:
+        - heading "Not just vibes, a full platform" [level=2] [ref=f23e223]
+        - generic [ref=f23e224]:
+          - generic [ref=f23e225]:
+            - img "Performance dashboard preview showing site optimization features" [ref=f23e230]
+            - link [ref=f23e233] [cursor=pointer]:
+              - /url: ./performance/
+              - heading "Performance" [level=3] [ref=f23e235]
+          - generic [ref=f23e238]:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "CMS interface preview showing content management features"
+            - link [ref=f23e241] [cursor=pointer]:
+              - /url: ./cms/
+              - heading "CMS" [level=3] [ref=f23e243]
+          - generic [ref=f23e247]:
+            - img "SEO tools preview showing search optimization features" [ref=f23e252]
+            - link [ref=f23e255] [cursor=pointer]:
+              - /url: ./seo/
+              - heading "SEO" [level=3] [ref=f23e257]
+          - generic [ref=f23e261]:
+            - generic [ref=f23e262]:
+              - img "Branches interface preview showing collaborative versioning features" [ref=f23e267]
+              - link [ref=f23e270] [cursor=pointer]:
+                - /url: ./collaborate/
+                - heading "Collaboration" [level=3] [ref=f23e272]
+            - generic [ref=f23e275]:
+              - generic [ref=f23e277]:
+                - paragraph [ref=f23e280]: Locales
+                - generic [ref=f23e282]:
+                  - generic [ref=f23e283]:
+                    - paragraph [ref=f23e286]: NL
+                    - paragraph [ref=f23e288]: Dutch
+                    - paragraph [ref=f23e290]: 35%
+                  - generic [ref=f23e291]:
+                    - paragraph [ref=f23e294]: IT
+                    - paragraph [ref=f23e296]: Italian
+                    - paragraph [ref=f23e298]: 100%
+                  - generic [ref=f23e299]:
+                    - paragraph [ref=f23e302]: CN
+                    - paragraph [ref=f23e304]: Chinese
+                    - paragraph [ref=f23e306]: 90%
+              - link [ref=f23e309] [cursor=pointer]:
+                - /url: ./academy/lessons/localization
+                - heading "Localization" [level=3] [ref=f23e311]
+          - generic [ref=f23e314]:
+            - generic [ref=f23e315]:
+              - img "Hosting Background" [ref=f23e319]
+              - generic [ref=f23e320]:
+                - heading "99.99%" [level=4] [ref=f23e322]
+                - heading "uptime" [level=4] [ref=f23e324]
+              - link [ref=f23e328] [cursor=pointer]:
+                - /url: ./hosting/
+                - heading "Hosting" [level=3] [ref=f23e330]
+            - generic [ref=f23e333]:
+              - paragraph [ref=f23e357]: https://www.framer.com/
+              - link [ref=f23e360] [cursor=pointer]:
+                - /url: ./hosting/
+                - heading "Security" [level=3] [ref=f23e362]
+          - generic [ref=f23e365]:
+            - img "Analytics interface preview showing site metrics" [ref=f23e370]
+            - link [ref=f23e373] [cursor=pointer]:
+              - /url: ./analytics
+              - heading "Analytics" [level=3] [ref=f23e375]
+          - generic [ref=f23e378]:
+            - generic [ref=f23e381]:
+              - generic [ref=f23e384]:
+                - paragraph [ref=f23e387]: View Home
+                - heading "400" [level=6] [ref=f23e389]
+              - generic [ref=f23e395]:
+                - generic [ref=f23e396]:
+                  - paragraph [ref=f23e398]: Variant
+                  - paragraph [ref=f23e400]: Views
+                  - paragraph [ref=f23e402]: Events
+                  - paragraph [ref=f23e404]: Conversion
+                  - paragraph [ref=f23e406]: Lift
+                  - paragraph [ref=f23e408]: Best
+                - generic [ref=f23e409]:
+                  - generic [ref=f23e410]:
+                    - paragraph [ref=f23e413]: Home Page 2026
+                    - paragraph [ref=f23e416]: WINNER
+                  - paragraph [ref=f23e418]: 4,916
+                  - paragraph [ref=f23e420]: "837"
+                  - paragraph [ref=f23e422]: 17.1%
+                  - paragraph [ref=f23e424]: 14.1%
+                  - paragraph [ref=f23e426]: 91%
+                - generic [ref=f23e427]:
+                  - paragraph [ref=f23e431]: Home Page
+                  - paragraph [ref=f23e433]: 4,799
+                  - paragraph [ref=f23e435]: "719"
+                  - paragraph [ref=f23e437]: 15%
+                  - paragraph [ref=f23e439]: —
+                  - paragraph [ref=f23e441]: 9%
+            - link [ref=f23e444] [cursor=pointer]:
+              - /url: ./analytics
+              - heading "A/B Testing" [level=3] [ref=f23e446]
+      - generic [ref=f23e449]:
+        - generic [ref=f23e450]:
+          - heading "Shipped with Framer" [level=2] [ref=f23e452]
+          - link [ref=f23e456] [cursor=pointer]:
+            - /url: https://www.framer.com/community/gallery/
+            - paragraph [ref=f23e458]: See Framer sites
+        - generic [ref=f23e461]:
+          - list [ref=f23e463]:
+            - listitem [ref=f23e464]:
+              - img "Site image in 2026 Frontpage/Sites." [ref=f23e467]
+            - listitem [ref=f23e468]:
+              - img "Maggie Site" [ref=f23e471]
+            - listitem [ref=f23e472]:
+              - img "Midlife Engineering" [ref=f23e475]
+            - listitem [ref=f23e476]:
+              - img "i-D Elle Fanning Site" [ref=f23e479]
+            - listitem [ref=f23e480]:
+              - img "Website showcase preview made in Framer" [ref=f23e483]
+            - listitem [ref=f23e484]:
+              - img "i-D Elle Fanning Site" [ref=f23e487]
+          - list [ref=f23e489]:
+            - listitem [ref=f23e490]:
+              - img "Maggie Site" [ref=f23e493]
+            - listitem [ref=f23e494]:
+              - img "Website showcase preview made in Framer" [ref=f23e497]
+            - listitem [ref=f23e498]:
+              - img "Maggie Site" [ref=f23e501]
+            - listitem [ref=f23e502]:
+              - img "Website showcase preview made in Framer" [ref=f23e505]
+            - listitem [ref=f23e506]:
+              - img "Mobile website showcase preview made in Framer" [ref=f23e509]
+            - listitem [ref=f23e510]:
+              - img "Website showcase preview made in Framer" [ref=f23e513]
+      - generic [ref=f23e514]:
+        - generic [ref=f23e515]:
+          - heading "Trusted by teams shipping big sites" [level=2] [ref=f23e517]
+          - link [ref=f23e521] [cursor=pointer]:
+            - /url: ./stories/
+            - paragraph [ref=f23e523]: Read stories
+        - list [ref=f23e527]:
+          - listitem [ref=f23e528]:
+            - link [ref=f23e530] [cursor=pointer]:
+              - /url: ./stories/miro/
+              - img "Miro logo" [ref=f23e534]
+              - paragraph [ref=f23e537]: Read story
+              - img "Miro customer story preview image" [ref=f23e542]
+          - listitem [ref=f23e543]:
+            - link [ref=f23e545] [cursor=pointer]:
+              - /url: ./stories/perplexity/
+              - img "Perplexity logo" [ref=f23e549]
+              - paragraph [ref=f23e552]: Read story
+              - img "Perplexity customer story preview image" [ref=f23e557]
+          - listitem [ref=f23e558]:
+            - link [ref=f23e560] [cursor=pointer]:
+              - /url: ./stories/legora/
+              - img "Legora logo" [ref=f23e564]
+              - paragraph [ref=f23e567]: Read story
+              - img "Legora customer story preview image" [ref=f23e572]
+          - listitem [ref=f23e573]:
+            - link [ref=f23e575] [cursor=pointer]:
+              - /url: ./stories/mixpanel/
+              - img "Mixpanel logo" [ref=f23e579]
+              - paragraph [ref=f23e582]: Read story
+              - img "Mixpanel customer story preview image" [ref=f23e587]
+          - listitem [ref=f23e588]:
+            - link [ref=f23e590] [cursor=pointer]:
+              - /url: ./stories/zapier/
+              - img "Zapier logo" [ref=f23e594]
+              - paragraph [ref=f23e597]: Read story
+              - img "Zapier customer story preview image" [ref=f23e602]
+          - listitem [ref=f23e603]:
+            - link [ref=f23e605] [cursor=pointer]:
+              - /url: ./stories/flora/
+              - img "Flora logo" [ref=f23e609]
+              - paragraph [ref=f23e612]: Read story
+              - img "Flora customer story preview image" [ref=f23e617]
+          - listitem [ref=f23e618]:
+            - link [ref=f23e620] [cursor=pointer]:
+              - /url: ./stories/mutiny/
+              - img "Mutiny logo" [ref=f23e624]
+              - paragraph [ref=f23e627]: Read story
+              - img "Mutiny customer story preview image" [ref=f23e632]
+          - listitem [ref=f23e633]:
+            - link [ref=f23e635] [cursor=pointer]:
+              - /url: ./stories/stackai/
+              - img "StackAI logo" [ref=f23e639]
+              - paragraph [ref=f23e642]: Read story
+              - img "StackAI customer story preview image" [ref=f23e647]
+      - generic [ref=f23e648]:
+        - generic [ref=f23e649]:
+          - heading "Built on a community that isn’t going anywhere" [level=2] [ref=f23e651]
+          - generic [ref=f23e652]:
+            - paragraph [ref=f23e654]: 12,447 Resources
+            - link [ref=f23e657] [cursor=pointer]:
+              - /url: https://www.framer.com/community/feed/
+              - paragraph [ref=f23e659]: Browse the community
+        - img "New Framer community" [ref=f23e664]
+    - paragraph [ref=f23e666]: Framer is the AI website builder for creating standout sites
+  - generic [ref=f23e668]:
+    - banner [ref=f23e669]:
+      - heading "Your next idea starts here" [level=2] [ref=f23e671]
+    - generic [ref=f23e673]:
+      - generic [ref=f23e675]:
+        - textbox [ref=f23e678]
+        - generic [ref=f23e680]:
+          - paragraph [ref=f23e683] [cursor=pointer]: GPT 5.6 Terra
+          - button [ref=f23e687] [cursor=pointer]
+      - generic [ref=f23e689]:
+        - paragraph [ref=f23e692] [cursor=pointer]: Create personal portfolio
+        - paragraph [ref=f23e695] [cursor=pointer]: Build startup site
+        - paragraph [ref=f23e698] [cursor=pointer]:
+          - code [ref=f23e699]: Launch landing page
+        - paragraph [ref=f23e702] [cursor=pointer]: Start company blog
+    - link [ref=f23e704] [cursor=pointer]:
+      - /url: https://framer.com/signup
+      - paragraph [ref=f23e706]: Start without AI
+  - contentinfo [ref=f23e712]:
+    - generic [ref=f23e713]:
+      - link [ref=f23e715] [cursor=pointer]:
+        - /url: ./
+        - paragraph [ref=f23e718]: Framer
+      - generic [ref=f23e720]:
+        - list [ref=f23e722]:
+          - listitem [ref=f23e723]:
+            - paragraph [ref=f23e726]: Product
+          - listitem [ref=f23e727]:
+            - link [ref=f23e728] [cursor=pointer]:
+              - /url: ./ai/
+              - paragraph [ref=f23e730]: AI
+              - paragraph [ref=f23e735]: New
+          - listitem [ref=f23e736]:
+            - link [ref=f23e737] [cursor=pointer]:
+              - /url: ./agents/
+              - paragraph [ref=f23e739]: Agents
+              - paragraph [ref=f23e744]: New
+          - listitem [ref=f23e745]:
+            - link [ref=f23e746] [cursor=pointer]:
+              - /url: ./agents/external/
+              - paragraph [ref=f23e748]: External Agents
+              - paragraph [ref=f23e753]: New
+          - listitem [ref=f23e754]:
+            - link [ref=f23e755] [cursor=pointer]:
+              - /url: ./design/
+              - paragraph [ref=f23e757]: Design
+          - listitem [ref=f23e758]:
+            - link [ref=f23e759] [cursor=pointer]:
+              - /url: ./collaborate/
+              - paragraph [ref=f23e761]: Collaborate
+              - paragraph [ref=f23e766]: New
+          - listitem [ref=f23e767]:
+            - link [ref=f23e768] [cursor=pointer]:
+              - /url: ./cms/
+              - paragraph [ref=f23e770]: CMS
+          - listitem [ref=f23e771]:
+            - link [ref=f23e772] [cursor=pointer]:
+              - /url: ./hosting/
+              - paragraph [ref=f23e774]: Hosting
+          - listitem [ref=f23e775]:
+            - link [ref=f23e776] [cursor=pointer]:
+              - /url: ./performance/
+              - paragraph [ref=f23e778]: Performance
+          - listitem [ref=f23e779]:
+            - link [ref=f23e780] [cursor=pointer]:
+              - /url: ./seo/
+              - paragraph [ref=f23e782]: SEO
+          - listitem [ref=f23e783]:
+            - link [ref=f23e784] [cursor=pointer]:
+              - /url: ./convert/
+              - paragraph [ref=f23e786]: Convert
+          - listitem [ref=f23e787]:
+            - link [ref=f23e788] [cursor=pointer]:
+              - /url: ./publish/
+              - paragraph [ref=f23e790]: Publish
+          - listitem [ref=f23e791]:
+            - link [ref=f23e792] [cursor=pointer]:
+              - /url: ./updates
+              - paragraph [ref=f23e794]: Updates
+              - paragraph [ref=f23e799]: New
+        - list [ref=f23e801]:
+          - listitem [ref=f23e802]:
+            - paragraph [ref=f23e805]: Resources
+          - listitem [ref=f23e806]:
+            - link [ref=f23e807] [cursor=pointer]:
+              - /url: ./academy/
+              - paragraph [ref=f23e809]: Academy
+          - listitem [ref=f23e810]:
+            - link [ref=f23e811] [cursor=pointer]:
+              - /url: ./guides
+              - paragraph [ref=f23e813]: Guides
+          - listitem [ref=f23e814]:
+            - link [ref=f23e815] [cursor=pointer]:
+              - /url: ./downloads/
+              - paragraph [ref=f23e817]: Desktop app
+          - listitem [ref=f23e818]:
+            - link [ref=f23e819] [cursor=pointer]:
+              - /url: ./blog/
+              - paragraph [ref=f23e821]: Blog
+          - listitem [ref=f23e822]:
+            - link [ref=f23e823] [cursor=pointer]:
+              - /url: ./newsletter
+              - paragraph [ref=f23e825]: Newsletter
+          - listitem [ref=f23e826]:
+            - link [ref=f23e827] [cursor=pointer]:
+              - /url: ./stories/
+              - paragraph [ref=f23e829]: Stories
+          - listitem [ref=f23e830]:
+            - link [ref=f23e831] [cursor=pointer]:
+              - /url: ./developers/
+              - paragraph [ref=f23e833]: Developers
+          - listitem [ref=f23e834]:
+            - link [ref=f23e835] [cursor=pointer]:
+              - /url: ./creators
+              - paragraph [ref=f23e837]: Creators
+          - listitem [ref=f23e838]:
+            - link [ref=f23e839] [cursor=pointer]:
+              - /url: ./expert/apply/
+              - paragraph [ref=f23e841]: Experts
+          - listitem [ref=f23e842]:
+            - link [ref=f23e843] [cursor=pointer]:
+              - /url: ./education/students/
+              - paragraph [ref=f23e845]: Students
+          - listitem [ref=f23e846]:
+            - link [ref=f23e847] [cursor=pointer]:
+              - /url: ./education/ambassadors/
+              - paragraph [ref=f23e849]: Ambassadors
+          - listitem [ref=f23e850]:
+            - link [ref=f23e851] [cursor=pointer]:
+              - /url: https://www.framer.com/state-of-sites-2026/
+              - paragraph [ref=f23e853]: State of Sites
+          - listitem [ref=f23e854]:
+            - link [ref=f23e855] [cursor=pointer]:
+              - /url: ./help/
+              - paragraph [ref=f23e857]: Support
+          - listitem [ref=f23e858]:
+            - link [ref=f23e859] [cursor=pointer]:
+              - /url: ./contact/
+              - paragraph [ref=f23e861]: Contact
+        - list [ref=f23e864]:
+          - listitem [ref=f23e865]:
+            - paragraph [ref=f23e868]: Solutions
+          - listitem [ref=f23e869]:
+            - link [ref=f23e870] [cursor=pointer]:
+              - /url: ./solutions/designers/
+              - paragraph [ref=f23e872]: Designers
+          - listitem [ref=f23e873]:
+            - link [ref=f23e874] [cursor=pointer]:
+              - /url: ./solutions/builders/
+              - paragraph [ref=f23e876]: Builders
+          - listitem [ref=f23e877]:
+            - link [ref=f23e878] [cursor=pointer]:
+              - /url: ./solutions/marketers/
+              - paragraph [ref=f23e880]: Marketers
+          - listitem [ref=f23e881]:
+            - link [ref=f23e882] [cursor=pointer]:
+              - /url: ./solutions/site-teams/
+              - paragraph [ref=f23e884]: Site teams
+          - listitem [ref=f23e885]:
+            - link [ref=f23e886] [cursor=pointer]:
+              - /url: ./solutions/agencies/
+              - paragraph [ref=f23e888]: Agencies
+          - listitem [ref=f23e889]:
+            - link [ref=f23e890] [cursor=pointer]:
+              - /url: ./solutions/growth/
+              - paragraph [ref=f23e892]: Growth
+          - listitem [ref=f23e893]:
+            - link [ref=f23e894] [cursor=pointer]:
+              - /url: ./solutions/founders/
+              - paragraph [ref=f23e896]: Founders
+          - listitem [ref=f23e897]:
+            - link [ref=f23e898] [cursor=pointer]:
+              - /url: ./solutions/ai-website-builder/
+              - paragraph [ref=f23e900]: AI website builder
+          - listitem [ref=f23e901]:
+            - link [ref=f23e902] [cursor=pointer]:
+              - /url: ./solutions/ai-designer/
+              - paragraph [ref=f23e904]: AI design agent
+          - listitem [ref=f23e905]:
+            - link [ref=f23e906] [cursor=pointer]:
+              - /url: ./solutions/website-builder/
+              - paragraph [ref=f23e908]: Website builder
+          - listitem [ref=f23e909]:
+            - link [ref=f23e910] [cursor=pointer]:
+              - /url: ./solutions/landing-pages/
+              - paragraph [ref=f23e912]: Landing pages
+          - listitem [ref=f23e913]:
+            - link [ref=f23e914] [cursor=pointer]:
+              - /url: ./solutions/portfolio-website/
+              - paragraph [ref=f23e916]: Portfolio maker
+          - listitem [ref=f23e917]:
+            - link [ref=f23e918] [cursor=pointer]:
+              - /url: ./solutions/ui-ux-design/
+              - paragraph [ref=f23e920]: UI/UX design
+          - listitem [ref=f23e921]:
+            - link [ref=f23e922] [cursor=pointer]:
+              - /url: ./solutions/no-code-website-builder/
+              - paragraph [ref=f23e924]: No-code
+        - list [ref=f23e926]:
+          - listitem [ref=f23e927]:
+            - paragraph [ref=f23e930]: Compare
+          - listitem [ref=f23e931]:
+            - link [ref=f23e933] [cursor=pointer]:
+              - /url: ./compare
+              - paragraph [ref=f23e935]: Overview
+            - link [ref=f23e937] [cursor=pointer]:
+              - /url: ./compare/framer-vs-webflow
+              - paragraph [ref=f23e939]: Webflow
+            - link [ref=f23e941] [cursor=pointer]:
+              - /url: ./compare/framer-vs-figma
+              - paragraph [ref=f23e943]: Figma
+            - link [ref=f23e945] [cursor=pointer]:
+              - /url: ./compare/framer-vs-wix
+              - paragraph [ref=f23e947]: Wix
+            - link [ref=f23e949] [cursor=pointer]:
+              - /url: ./compare/framer-vs-squarespace
+              - paragraph [ref=f23e951]: Squarespace
+            - link [ref=f23e953] [cursor=pointer]:
+              - /url: ./compare/framer-vs-wordpress
+              - paragraph [ref=f23e955]: WordPress
+            - link [ref=f23e957] [cursor=pointer]:
+              - /url: ./compare/framer-vs-readymag
+              - paragraph [ref=f23e959]: Readymag
+            - link [ref=f23e961] [cursor=pointer]:
+              - /url: ./compare/framer-vs-ceros
+              - paragraph [ref=f23e963]: Ceros
+            - link [ref=f23e965] [cursor=pointer]:
+              - /url: ./compare/framer-vs-unbounce
+              - paragraph [ref=f23e967]: Unbounce
+            - link [ref=f23e969] [cursor=pointer]:
+              - /url: ./compare/framer-vs-lovable
+              - paragraph [ref=f23e971]: Lovable
+            - link [ref=f23e973] [cursor=pointer]:
+              - /url: ./compare/framer-vs-claude-code
+              - paragraph [ref=f23e975]: Claude Code
+            - link [ref=f23e977] [cursor=pointer]:
+              - /url: ./compare/framer-vs-codex
+              - paragraph [ref=f23e979]: Codex
+            - link [ref=f23e981] [cursor=pointer]:
+              - /url: ./compare/framer-vs-contentful
+              - paragraph [ref=f23e983]: Contentful
+            - link [ref=f23e985] [cursor=pointer]:
+              - /url: ./compare/framer-vs-sanity
+              - paragraph [ref=f23e987]: Sanity
+            - link [ref=f23e989] [cursor=pointer]:
+              - /url: ./compare/framer-vs-adobe-experience-manager
+              - paragraph [ref=f23e991]: AEM
+            - link [ref=f23e993] [cursor=pointer]:
+              - /url: ./compare/framer-vs-replit
+              - paragraph [ref=f23e995]: Replit
+            - link [ref=f23e997] [cursor=pointer]:
+              - /url: ./compare/framer-vs-v0
+              - paragraph [ref=f23e999]: v0
+        - list [ref=f23e1001]:
+          - listitem [ref=f23e1002]:
+            - paragraph [ref=f23e1006]: Business
+            - link [ref=f23e1008] [cursor=pointer]:
+              - /url: ./pricing
+              - paragraph [ref=f23e1010]: Pricing
+            - link [ref=f23e1012] [cursor=pointer]:
+              - /url: ./enterprise/
+              - paragraph [ref=f23e1014]: Enterprise
+            - link [ref=f23e1016] [cursor=pointer]:
+              - /url: ./enterprise/infrastructure/
+              - paragraph [ref=f23e1018]: Infrastructure
+            - link [ref=f23e1020] [cursor=pointer]:
+              - /url: ./startups/
+              - paragraph [ref=f23e1022]: Startups
+            - link [ref=f23e1024] [cursor=pointer]:
+              - /url: ./agencies/
+              - paragraph [ref=f23e1026]: Agencies
+            - link [ref=f23e1028] [cursor=pointer]:
+              - /url: ./switch/
+              - paragraph [ref=f23e1030]: Switch
+          - listitem [ref=f23e1031]:
+            - paragraph [ref=f23e1035]: Company
+            - link [ref=f23e1037] [cursor=pointer]:
+              - /url: ./careers/
+              - paragraph [ref=f23e1039]: Careers
+            - link [ref=f23e1041] [cursor=pointer]:
+              - /url: ./brand
+              - paragraph [ref=f23e1043]: Brand
+            - link [ref=f23e1045] [cursor=pointer]:
+              - /url: ./store
+              - paragraph [ref=f23e1047]: Store
+            - link [ref=f23e1049] [cursor=pointer]:
+              - /url: ./legal/security
+              - paragraph [ref=f23e1051]: Security
+            - link [ref=f23e1053] [cursor=pointer]:
+              - /url: mailto:abuse@framer.com
+              - paragraph [ref=f23e1055]: Abuse
+            - link [ref=f23e1057] [cursor=pointer]:
+              - /url: ./legal/community-terms
+              - paragraph [ref=f23e1059]: Legal
+            - link [ref=f23e1061] [cursor=pointer]:
+              - /url: https://app.eu.vanta.com/framer.com/trust/ow67ujg7iav0t6qtd1o6r2
+              - paragraph [ref=f23e1063]: Trust
+        - generic [ref=f23e1065]:
+          - list [ref=f23e1066]:
+            - listitem [ref=f23e1067]:
+              - paragraph [ref=f23e1070]: Community
+            - listitem [ref=f23e1071]:
+              - link [ref=f23e1072] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/
+                - paragraph [ref=f23e1074]: Marketplace
+            - listitem [ref=f23e1075]:
+              - link [ref=f23e1076] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/templates/
+                - paragraph [ref=f23e1078]: Templates
+            - listitem [ref=f23e1079]:
+              - link [ref=f23e1080] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/components/
+                - paragraph [ref=f23e1082]: Components
+            - listitem [ref=f23e1083]:
+              - link [ref=f23e1084] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/plugins/
+                - paragraph [ref=f23e1086]: Plugins
+            - listitem [ref=f23e1087]:
+              - link [ref=f23e1088] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/vectors/
+                - paragraph [ref=f23e1090]: Vectors
+            - listitem [ref=f23e1091]:
+              - link [ref=f23e1092] [cursor=pointer]:
+                - /url: https://www.framer.com/community/feed/
+                - paragraph [ref=f23e1094]: Feed
+            - listitem [ref=f23e1095]:
+              - link [ref=f23e1096] [cursor=pointer]:
+                - /url: https://www.framer.com/community/hype/
+                - paragraph [ref=f23e1098]: Hype
+            - listitem [ref=f23e1099]:
+              - link [ref=f23e1100] [cursor=pointer]:
+                - /url: https://www.framer.com/community/gallery/
+                - paragraph [ref=f23e1102]: Gallery
+            - listitem [ref=f23e1103]:
+              - link [ref=f23e1104] [cursor=pointer]:
+                - /url: https://www.framer.com/community/contests/
+                - paragraph [ref=f23e1106]: Contests
+            - listitem [ref=f23e1107]:
+              - link [ref=f23e1108] [cursor=pointer]:
+                - /url: https://www.framer.com/community/members/
+                - paragraph [ref=f23e1110]: Members
+            - listitem [ref=f23e1111]:
+              - link [ref=f23e1112] [cursor=pointer]:
+                - /url: ./meetups/
+                - paragraph [ref=f23e1114]: Meetups
+          - list [ref=f23e1115]:
+            - listitem [ref=f23e1116]:
+              - paragraph [ref=f23e1119]: Tools
+            - listitem [ref=f23e1120]:
+              - link [ref=f23e1121] [cursor=pointer]:
+                - /url: ./solutions/figma-to-html/
+                - paragraph [ref=f23e1123]: Figma to HTML
+            - listitem [ref=f23e1124]:
+              - link [ref=f23e1125] [cursor=pointer]:
+                - /url: ./aeo
+                - paragraph [ref=f23e1127]: AEO scanner
+            - listitem [ref=f23e1128]:
+              - link [ref=f23e1129] [cursor=pointer]:
+                - /url: https://www.linkpreview.app/
+                - paragraph [ref=f23e1131]: Link previewer
+            - listitem [ref=f23e1132]:
+              - link [ref=f23e1133] [cursor=pointer]:
+                - /url: ./domains/
+                - paragraph [ref=f23e1135]: Free domains
+            - listitem [ref=f23e1136]:
+              - link [ref=f23e1137] [cursor=pointer]:
+                - /url: ./canvasbench/
+                - paragraph [ref=f23e1139]: CanvasBench
+            - listitem [ref=f23e1140]:
+              - link [ref=f23e1141] [cursor=pointer]:
+                - /url: ./shortcuts
+                - paragraph [ref=f23e1143]: Shortcuts
+    - generic [ref=f23e1144]:
+      - generic [ref=f23e1145]:
+        - paragraph [ref=f23e1147]: Follow us
+        - generic [ref=f23e1148]:
+          - link "Twitter / X" [ref=f23e1149] [cursor=pointer]:
+            - /url: https://x.com/framer
+          - link "YouTube" [ref=f23e1151] [cursor=pointer]:
+            - /url: https://www.youtube.com/@Framer
+          - link "Instagram" [ref=f23e1153] [cursor=pointer]:
+            - /url: https://www.instagram.com/framer/
+          - link "LinkedIn" [ref=f23e1155] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/framer/
+          - link "Threads" [ref=f23e1157] [cursor=pointer]:
+            - /url: https://www.threads.com/@framer
+      - generic [ref=f23e1159]:
+        - paragraph [ref=f23e1161]: AI summary
+        - generic [ref=f23e1162]:
+          - link "OpenAI summary of Framer" [ref=f23e1163] [cursor=pointer]:
+            - /url: https://chat.openai.com/?q=How%20do%20Framer%E2%80%99s%20AI%20agent%20and%20external%20agents%20fit%20into%20a%20website%20workflow%3F%20Explain%20briefly%20how%20the%20built-in%20agent%20and%20external%20tools%20such%20as%20Claude%20Code%20and%20Codex%20connect%20to%20Framer%2C%20what%20each%20can%20do%2C%20how%20work%20moves%20between%20them%2C%20and%20what%20I%20remain%20responsible%20for.%0A%0AThen%20give%20a%20concise%20overview%20of%20Framer%3A%20what%20I%20can%20build%2C%20the%20editor%2C%20CMS%2C%20components%2C%20publishing%2C%20hosting%2C%20and%20analytics%20basics%2C%20and%20what%20updates%20automatically.%20Keep%20the%20answer%20short%2C%20concrete%2C%20and%20focused%20on%20day-to-day%20use.
+          - link "Gemini summary of Framer" [ref=f23e1165] [cursor=pointer]:
+            - /url: https://www.google.com/search?udm=50&q=How%20do%20Framer%E2%80%99s%20AI%20agent%20and%20external%20agents%20fit%20into%20a%20website%20workflow%3F%20Explain%20briefly%20how%20the%20built-in%20agent%20and%20external%20tools%20such%20as%20Claude%20Code%20and%20Codex%20connect%20to%20Framer%2C%20what%20each%20can%20do%2C%20how%20work%20moves%20between%20them%2C%20and%20what%20I%20remain%20responsible%20for.%0A%0AThen%20give%20a%20concise%20overview%20of%20Framer%3A%20what%20I%20can%20build%2C%20the%20editor%2C%20CMS%2C%20components%2C%20publishing%2C%20hosting%2C%20and%20analytics%20basics%2C%20and%20what%20updates%20automatically.%20Keep%20the%20answer%20short%2C%20concrete%2C%20and%20focused%20on%20day-to-day%20use.
+          - link "Perplexity summary of Framer" [ref=f23e1167] [cursor=pointer]:
+            - /url: https://www.perplexity.ai/search?q=How%20do%20Framer%E2%80%99s%20AI%20agent%20and%20external%20agents%20fit%20into%20a%20website%20workflow%3F%20Explain%20briefly%20how%20the%20built-in%20agent%20and%20external%20tools%20such%20as%20Claude%20Code%20and%20Codex%20connect%20to%20Framer%2C%20what%20each%20can%20do%2C%20how%20work%20moves%20between%20them%2C%20and%20what%20I%20remain%20responsible%20for.%0A%0AThen%20give%20a%20concise%20overview%20of%20Framer%3A%20what%20I%20can%20build%2C%20the%20editor%2C%20CMS%2C%20components%2C%20publishing%2C%20hosting%2C%20and%20analytics%20basics%2C%20and%20what%20updates%20automatically.%20Keep%20the%20answer%20short%2C%20concrete%2C%20and%20focused%20on%20day-to-day%20use.
+      - generic [ref=f23e1169]:
+        - paragraph [ref=f23e1171]: Trusted by
+        - link [ref=f23e1172] [cursor=pointer]:
+          - /url: https://app.eu.vanta.com/framer.com/trust/ow67ujg7iav0t6qtd1o6r2
+          - paragraph [ref=f23e1183]: CCPA
+      - link [ref=f23e1187] [cursor=pointer]:
+        - /url: https://www.framerstatus.com/
+        - paragraph [ref=f23e1191]: Checking status
+      - paragraph [ref=f23e1197]: Framer

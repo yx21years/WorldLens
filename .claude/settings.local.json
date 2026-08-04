@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import structlog; print\\([k for k in dir\\(structlog\\) if 'Filter' in k]\\)\")",
+      "Bash(mkdir -p \"D:/claudecode/dailynews/frontend/electron\")",
+      "Bash(npm init *)",
+      "Bash(npm install *)",
+      "mcp__browser__browser_navigate",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_snapshot",
+      "Bash(npx tailwindcss *)"
+    ]
+  }
+}

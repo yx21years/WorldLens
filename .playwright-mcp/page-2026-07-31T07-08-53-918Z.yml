@@ -1,0 +1,191 @@
+- generic [active] [ref=f16e1]:
+  - generic [ref=f16e4]:
+    - navigation "Community" [ref=f16e5]:
+      - generic [ref=f16e6]:
+        - link "Framer Community Framer Community" [ref=f16e7] [cursor=pointer]:
+          - /url: /community/
+          - img "Framer Community" [ref=f16e8]
+          - generic [ref=f16e9]: Framer Community
+        - combobox "Search Community" [ref=f16e15]
+        - generic [ref=f16e16]: Discover
+        - link "Feed" [ref=f16e17] [cursor=pointer]:
+          - /url: /community/feed/
+        - link "Hype" [ref=f16e22] [cursor=pointer]:
+          - /url: /community/hype/
+        - link "Activity" [ref=f16e27] [cursor=pointer]:
+          - /url: /community/activity/
+      - generic [ref=f16e33]:
+        - generic [ref=f16e34]: Marketplace
+        - link "All" [ref=f16e35] [cursor=pointer]:
+          - /url: /community/marketplace/
+        - link "Templates" [ref=f16e40] [cursor=pointer]:
+          - /url: /community/marketplace/templates/
+        - link "Components" [ref=f16e45] [cursor=pointer]:
+          - /url: /community/marketplace/components/
+        - link "Vectors" [ref=f16e50] [cursor=pointer]:
+          - /url: /community/marketplace/vectors/
+        - link "Plugins" [ref=f16e55] [cursor=pointer]:
+          - /url: /community/marketplace/plugins/
+      - generic [ref=f16e61]:
+        - generic [ref=f16e62]: Community
+        - link "Gallery" [ref=f16e63] [cursor=pointer]:
+          - /url: /community/gallery/
+        - link "Members" [ref=f16e68] [cursor=pointer]:
+          - /url: /community/members/
+    - generic [ref=f16e74]:
+      - generic [ref=f16e79]:
+        - button "Go back" [ref=f16e80] [cursor=pointer]:
+          - generic [ref=f16e81]: Back
+        - navigation "Breadcrumb" [ref=f16e85]:
+          - link "Components" [ref=f16e87] [cursor=pointer]:
+            - /url: /community/marketplace/components/
+          - link "Categories" [ref=f16e91] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/
+          - link "Buttons" [ref=f16e95] [cursor=pointer]:
+            - /url: /community/marketplace/components/categories/buttons/
+      - generic [ref=f16e97]:
+        - generic [ref=f16e98]:
+          - heading "Glassy button · Free Buttons Component" [level=1] [ref=f16e100]
+          - generic [ref=f16e102]:
+            - generic [ref=f16e103]:
+              - button "More options" [ref=f16e104] [cursor=pointer]
+              - button "0 comments" [ref=f16e108] [cursor=pointer]
+              - button "Like component" [ref=f16e111] [cursor=pointer]
+            - button "Copy Component" [ref=f16e117] [cursor=pointer]
+        - generic [ref=f16e119]:
+          - img "Glassy button" [ref=f16e121]
+          - button "Open preview" [ref=f16e122] [cursor=pointer]
+        - generic [ref=f16e126]:
+          - article [ref=f16e127]:
+            - generic [ref=f16e129]:
+              - generic [ref=f16e130]:
+                - paragraph [ref=f16e131]:
+                  - strong [ref=f16e132]: Glassy Button Component
+                - paragraph [ref=f16e133]: A modern, glass-style button for Framer with smooth hover and pressed states. Features fully editable icon color and stroke width for quick customization. The subtle frosted background and soft shadows make it great for minimal, high-end interfaces.
+                - paragraph [ref=f16e134]:
+                  - strong [ref=f16e135]: "Key Features:"
+                - list [ref=f16e136]:
+                  - listitem [ref=f16e137]:
+                    - paragraph [ref=f16e138]: Glassy, frosted look with depth and subtle shine
+                  - listitem [ref=f16e139]:
+                    - paragraph [ref=f16e140]: Interactive hover and pressed states
+                  - listitem [ref=f16e141]:
+                    - paragraph [ref=f16e142]: Adjustable icon color and stroke width
+                  - listitem [ref=f16e143]:
+                    - paragraph [ref=f16e144]: Works with any icon from your library
+                  - listitem [ref=f16e145]:
+                    - paragraph [ref=f16e146]: Ideal for dashboards, navigation, and modern UIs
+                - paragraph [ref=f16e147]:
+                  - text: "** The component uses the"
+                  - strong [ref=f16e148]: Iconic
+                  - text: "icon set, you need to add that vector set to your file to be able to swap icons on the component variable. See here:"
+              - figure [ref=f16e149]:
+                - img "YouTube video thumbnail for YouTube video player" [ref=f16e150] [cursor=pointer]
+                - button "Play" [ref=f16e151] [cursor=pointer]
+            - generic [ref=f16e155]:
+              - button "Like component" [ref=f16e156] [cursor=pointer]:
+                - generic [ref=f16e161]: "119"
+              - button "0 comments" [ref=f16e166] [cursor=pointer]
+              - generic [ref=f16e170]:
+                - generic [ref=f16e171]: Updated 4mo ago
+                - generic [ref=f16e172]: ·
+                - button "View activity" [ref=f16e173] [cursor=pointer]
+          - complementary [ref=f16e175]:
+            - generic [ref=f16e176]:
+              - heading "Details" [level=2] [ref=f16e178]
+              - generic [ref=f16e180]:
+                - generic [ref=f16e181]:
+                  - term [ref=f16e182]: Creator
+                  - definition [ref=f16e183]:
+                    - button [ref=f16e185] [cursor=pointer]:
+                      - link "Adriano Reis Adriano Reis" [ref=f16e186]:
+                        - /url: /community/creator/@adrianoreis/
+                        - img "Adriano Reis" [ref=f16e187]
+                        - generic [ref=f16e188]: Adriano Reis
+                - generic [ref=f16e189]:
+                  - term [ref=f16e190]: Published
+                  - definition [ref=f16e191]: August 14, 2025
+                - generic [ref=f16e192]:
+                  - term [ref=f16e193]: License
+                  - definition [ref=f16e194]:
+                    - link "Limited License" [ref=f16e195] [cursor=pointer]:
+                      - /url: https://www.framer.com/legal/community-terms/
+            - generic [ref=f16e196]:
+              - generic [ref=f16e197]:
+                - heading "Categories" [level=2] [ref=f16e198]
+                - link "See all" [ref=f16e199] [cursor=pointer]:
+                  - /url: /community/marketplace/components/categories/
+              - list "Categories" [ref=f16e201]:
+                - listitem [ref=f16e202]:
+                  - link "Featured" [ref=f16e203] [cursor=pointer]:
+                    - /url: /community/marketplace/components/featured/
+                - listitem [ref=f16e204]:
+                  - link "Buttons" [ref=f16e205] [cursor=pointer]:
+                    - /url: /community/marketplace/components/categories/buttons/
+          - generic [ref=f16e209]:
+            - textbox "Reply…" [ref=f16e211]:
+              - paragraph [ref=f16e212]: Reply…
+            - button [disabled]
+          - generic [ref=f16e213]:
+            - generic [ref=f16e214]:
+              - generic [ref=f16e215]:
+                - heading "More from Adriano Reis" [level=2] [ref=f16e216]
+                - link "See all" [ref=f16e217] [cursor=pointer]:
+                  - /url: /@adrianoreis/?tab=marketplace
+              - generic [ref=f16e219] [cursor=pointer]:
+                - link "Cursor Mask Reveal" [ref=f16e220]:
+                  - /url: /community/marketplace/components/cursor-mask-reveal/
+                - button "Open preview" [ref=f16e221]
+                - generic [ref=f16e224]:
+                  - generic:
+                    - img "Cursor Mask Reveal"
+                - generic [ref=f16e225]:
+                  - link "Cursor Mask Reveal" [ref=f16e228]:
+                    - /url: /community/marketplace/components/cursor-mask-reveal/
+                  - button "Like component" [ref=f16e231]:
+                    - generic [ref=f16e236]: "81"
+            - generic [ref=f16e241]:
+              - generic [ref=f16e243]:
+                - heading "Related Components" [level=2] [ref=f16e244]
+                - link "See all" [ref=f16e245] [cursor=pointer]:
+                  - /url: /community/marketplace/components/
+              - generic [ref=f16e246]:
+                - generic [ref=f16e247] [cursor=pointer]:
+                  - link "Modern" [ref=f16e248]:
+                    - /url: /community/marketplace/components/modern/
+                  - button "Open preview" [ref=f16e249]
+                  - generic [ref=f16e252]:
+                    - generic:
+                      - img "Modern"
+                  - generic [ref=f16e253]:
+                    - link "Modern" [ref=f16e256]:
+                      - /url: /community/marketplace/components/modern/
+                    - button "Like component" [ref=f16e259]:
+                      - generic [ref=f16e264]: "79"
+                - generic [ref=f16e269] [cursor=pointer]:
+                  - link "SoftPressKey" [ref=f16e270]:
+                    - /url: /community/marketplace/components/softpresskey/
+                  - button "Open preview" [ref=f16e271]
+                  - generic [ref=f16e274]:
+                    - generic:
+                      - img "SoftPressKey"
+                  - generic [ref=f16e275]:
+                    - link "SoftPressKey" [ref=f16e278]:
+                      - /url: /community/marketplace/components/softpresskey/
+                    - button "Like component" [ref=f16e281]:
+                      - generic [ref=f16e286]: "3"
+                - generic [ref=f16e291] [cursor=pointer]:
+                  - link "Neo Retro button" [ref=f16e292]:
+                    - /url: /community/marketplace/components/neo-retro-button/
+                  - button "Open preview" [ref=f16e293]
+                  - generic [ref=f16e296]:
+                    - generic:
+                      - img "Neo Retro button"
+                  - generic [ref=f16e297]:
+                    - link "Neo Retro button" [ref=f16e300]:
+                      - /url: /community/marketplace/components/neo-retro-button/
+                    - button "Like component" [ref=f16e303]:
+                      - generic [ref=f16e308]: "4"
+  - region "Notifications (F8)":
+    - list
+  - alert [ref=f16e313]

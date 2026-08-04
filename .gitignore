@@ -1,0 +1,35 @@
+# Virtual environments
+venv/
+env/
+.venv/
+ENV# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+Env/
+ve/# Node.js and frontend
+node_modules/
+npm-debug.log
+yarn-error.lock
+.pnpm/
+# Build output
+dist/
+build/
+frontend/dist/
+backend/static/.DS_Store
+.env
+.env.local
+*.log
+data/worldlens.db
+# IDE
+.idea/
+.vscode/
+*.swp
+*swo
+*~
+# Alembic
+migrations/versions/
+

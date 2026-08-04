@@ -1,0 +1,32 @@
+{
+  "id": "analyze_article",
+  "version": "2",
+  "description": "Full article analysis with background context, impact, and trend assessment",
+  "system_prompt": "You are an expert global news analyst. Analyze news articles for historical context, significance, real-world impact, and future trends.",
+  "user_prompt_template": "Analyze this news article:\n\nTitle: {title}\nContent: {content}\n\nProvide your analysis in the following JSON format:\n{{\n  \"summary\": \"concise 2-3 sentence summary\",\n  \"importance\": <integer 1-10, global significance>,\n  \"category\": \"<one of: tech, war, life, leisure>\",\n  \"sentiment\": \"<one of: positive, negative, neutral>\",\n  \"why_it_matters\": \"1-2 sentence explanation of real-world impact\",\n  \"background_context\": \"historical or contextual background that frames this development\",\n  \"potential_impact\": \"possible short-term and long-term consequences\",\n  \"key_entities\": [\"list of key people, organizations, countries, or concepts\"],\n  \"trend_level\": \"LOW|MEDIUM|HIGH|CRITICAL\"\n}}",
+  "output_schema": {
+    "summary": "string",
+    "importance": "integer 1-10",
+    "category": "string (one of: tech, war, life, leisure)",
+    "sentiment": "string (one of: positive, negative, neutral)",
+    "why_it_matters": "string",
+    "background_context": "string",
+    "potential_impact": "string",
+    "key_entities": "array of strings",
+    "trend_level": "string (one of: LOW, MEDIUM, HIGH, CRITICAL)"
+  },
+  "params": {
+    "temperature": 0.3,
+    "max_tokens": 1500
+  },
+  "provider_overrides": {},
+  "evaluation_criteria": [
+    "summary captures key facts without speculation",
+    "importance score reflects global significance, not local news",
+    "why_it_matters explains real-world impact",
+    "background_context provides meaningful historical framing",
+    "potential_impact considers both immediate and longer-term effects",
+    "key_entities accurately identifies relevant actors and topics",
+    "trend_level assesses progression potential"
+  ]
+}

@@ -1,0 +1,1150 @@
+- generic [ref=f47e3]:
+  - navigation [ref=f47e6]:
+    - generic [ref=f47e8]:
+      - generic [ref=f47e9]:
+        - link [ref=f47e11] [cursor=pointer]:
+          - /url: ../
+          - paragraph [ref=f47e14]: Framer
+        - generic [ref=f47e15]:
+          - paragraph [ref=f47e21]: Solutions
+          - paragraph [ref=f47e28]: Platform
+          - paragraph [ref=f47e35]: Community
+          - paragraph [ref=f47e42]: Resources
+          - link [ref=f47e45] [cursor=pointer]:
+            - /url: ../enterprise/
+            - paragraph [ref=f47e49]: Enterprise
+          - link [ref=f47e52] [cursor=pointer]:
+            - /url: ../pricing
+            - paragraph [ref=f47e56]: Pricing
+        - generic [ref=f47e61]:
+          - paragraph [ref=f47e65] [cursor=pointer]:
+            - link "Log in" [ref=f47e66]:
+              - /url: https://framer.com/r/login
+          - link [ref=f47e69] [cursor=pointer]:
+            - /url: https://www.framer.com/r/signup/
+            - paragraph [ref=f47e71]: Sign up
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Copy logo SVG
+          - generic:
+            - link "Brand guidelines":
+              - /url: ../brand
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Brand guidelines
+  - generic [ref=f47e73]:
+    - banner [ref=f47e74]:
+      - generic [ref=f47e75]:
+        - heading "AI agents for designing, updating, and improving sites" [level=1] [ref=f47e78]
+        - generic [ref=f47e79]:
+          - link [ref=f47e81] [cursor=pointer]:
+            - /url: https://framer.com/r/signup/
+            - paragraph [ref=f47e83]: Start with agents for free
+          - link [ref=f47e87] [cursor=pointer]:
+            - /url: https://updates.framer.com/electron/darwin/arm64/Framer.zip?_ga=2.113395847.1447313862.1646043056-273660571.1642151053
+            - paragraph [ref=f47e89]: Download app
+      - generic [ref=f47e94]:
+        - link [ref=f47e96] [cursor=pointer]:
+          - /url: ./#update
+          - paragraph [ref=f47e104]: Update your existing site
+        - link [ref=f47e107] [cursor=pointer]:
+          - /url: ./#design
+          - paragraph [ref=f47e115]: Style your site
+        - link [ref=f47e118] [cursor=pointer]:
+          - /url: ./#new-sites
+          - paragraph [ref=f47e126]: Build sites from scratch
+        - link [ref=f47e129] [cursor=pointer]:
+          - /url: ./#migrate
+          - paragraph [ref=f47e137]: Migrate from another tool
+        - link [ref=f47e140] [cursor=pointer]:
+          - /url: ./#responsive
+          - paragraph [ref=f47e148]: Make sites responsive
+        - link [ref=f47e151] [cursor=pointer]:
+          - /url: ./#components
+          - paragraph [ref=f47e159]: Build custom components
+        - link [ref=f47e162] [cursor=pointer]:
+          - /url: ./#seo
+          - paragraph [ref=f47e170]: SEO and analytics
+        - link [ref=f47e173] [cursor=pointer]:
+          - /url: ./#cms
+          - paragraph [ref=f47e181]: Manage CMS content
+        - link [ref=f47e184] [cursor=pointer]:
+          - /url: ./#audit
+          - paragraph [ref=f47e192]: Fix and audit your site
+        - link [ref=f47e195] [cursor=pointer]:
+          - /url: ./#external
+          - paragraph [ref=f47e203]: External agents
+      - generic [ref=f47e207]:
+        - generic [ref=f47e208]:
+          - generic [ref=f47e210]:
+            - img "Agent workflow preview image" [ref=f47e212]
+            - generic [ref=f47e214]:
+              - heading "Update your existing site" [level=2] [ref=f47e216]
+              - paragraph [ref=f47e218]: The agent updates copy, structure, sections, and layout across your site while keeping everything editable on the canvas.
+          - generic [ref=f47e219]:
+            - generic [ref=f47e221]:
+              - heading "Content updates" [level=3] [ref=f47e223]
+              - generic [ref=f47e224]:
+                - generic [ref=f47e227]:
+                  - paragraph [ref=f47e229]:
+                    - mark [ref=f47e230]: Replace all mentions of “Acme Corp” with “Nebula Labs” across the entire site.
+                  - button "Copy prompt" [ref=f47e235] [cursor=pointer]
+                - generic [ref=f47e241]:
+                  - paragraph [ref=f47e243]:
+                    - mark [ref=f47e244]: Update the pricing page. Change the Pro plan from $29/mo to $39/mo and add a new Enterprise tier with custom pricing.
+                  - button "Copy prompt" [ref=f47e249] [cursor=pointer]
+                - generic [ref=f47e255]:
+                  - paragraph [ref=f47e257]:
+                    - mark [ref=f47e258]: Find all text that says “2025” and update it to “2026” across the entire project.
+                  - button "Copy prompt" [ref=f47e263] [cursor=pointer]
+            - generic [ref=f47e279]:
+              - heading "Layout changes" [level=3] [ref=f47e281]
+              - generic [ref=f47e282]:
+                - generic [ref=f47e285]:
+                  - paragraph [ref=f47e287]:
+                    - mark [ref=f47e288]: Reorganize the features section from a list layout to a 2x3 grid of feature cards.
+                  - button "Copy prompt" [ref=f47e293] [cursor=pointer]
+                - generic [ref=f47e299]:
+                  - paragraph [ref=f47e301]:
+                    - mark [ref=f47e302]: Reorganize the homepage flow based on conversion best practices. Move social proof higher, put pricing before the FAQ, and make sure every section leads naturally into the next with a clear CTA.
+                  - button "Copy prompt" [ref=f47e307] [cursor=pointer]
+                - generic [ref=f47e313]:
+                  - paragraph [ref=f47e315]:
+                    - mark [ref=f47e316]: Redesign the homepage layout so the hero takes full viewport height, features stack in an alternating left-right pattern, and the CTA section spans full width with a background image.
+                  - button "Copy prompt" [ref=f47e321] [cursor=pointer]
+            - generic [ref=f47e324]:
+              - heading "New sections" [level=3] [ref=f47e326]
+              - generic [ref=f47e327]:
+                - generic [ref=f47e330]:
+                  - paragraph [ref=f47e332]:
+                    - mark [ref=f47e333]: Add an FAQ section at the bottom of the homepage with 6 questions and answers about our product.
+                  - button "Copy prompt" [ref=f47e338] [cursor=pointer]
+                - generic [ref=f47e344]:
+                  - paragraph [ref=f47e346]:
+                    - mark [ref=f47e347]: Add a testimonials carousel section between the features and CTA sections using 3 placeholder testimonials with photos, names, and roles.
+                  - button "Copy prompt" [ref=f47e352] [cursor=pointer]
+                - generic [ref=f47e358]:
+                  - paragraph [ref=f47e360]:
+                    - mark [ref=f47e361]: "Insert a banner at the top of every page announcing “Black Friday: 40% off all plans. Ends Monday.”"
+                  - button "Copy prompt" [ref=f47e366] [cursor=pointer]
+        - generic [ref=f47e369]:
+          - generic [ref=f47e371]:
+            - img "Agent workflow preview image" [ref=f47e373]
+            - generic [ref=f47e375]:
+              - heading "Style your site" [level=2] [ref=f47e377]
+              - paragraph [ref=f47e379]: Describe the look you want. The agent takes care of colors, fonts, component styles, motion and effects across your site.
+          - generic [ref=f47e380]:
+            - generic [ref=f47e394]:
+              - heading "Colors & styles" [level=3] [ref=f47e396]
+              - generic [ref=f47e397]:
+                - generic [ref=f47e400]:
+                  - paragraph [ref=f47e402]:
+                    - mark [ref=f47e403]: Replace all instances of the old orange accent (#FF5733) with our new brand color (#E94560) everywhere on the site.
+                  - button "Copy prompt" [ref=f47e408] [cursor=pointer]
+                - generic [ref=f47e414]:
+                  - paragraph [ref=f47e416]:
+                    - mark [ref=f47e417]: "Update the entire site to use our new brand colors: primary #1A1A2E, accent #E94560, and light background #F5F5F5."
+                  - button "Copy prompt" [ref=f47e422] [cursor=pointer]
+                - generic [ref=f47e428]:
+                  - paragraph [ref=f47e430]:
+                    - mark [ref=f47e431]: Switch the site from light mode to dark mode with dark backgrounds, light text, and updated component colors throughout.
+                  - button "Copy prompt" [ref=f47e436] [cursor=pointer]
+            - generic [ref=f47e440]:
+              - heading "Typography" [level=3] [ref=f47e442]
+              - generic [ref=f47e443]:
+                - generic [ref=f47e446]:
+                  - paragraph [ref=f47e448]:
+                    - mark [ref=f47e449]: Update the entire site’s typography. Use Fraunces for headings and Inter for body text.
+                  - button "Copy prompt" [ref=f47e454] [cursor=pointer]
+                - generic [ref=f47e460]:
+                  - paragraph [ref=f47e462]:
+                    - mark [ref=f47e463]: Find a font that feels like a luxury fashion magazine, elegant and editorial with italic support, and apply it to all headings.
+                  - button "Copy prompt" [ref=f47e468] [cursor=pointer]
+                - generic [ref=f47e474]:
+                  - paragraph [ref=f47e476]:
+                    - mark [ref=f47e477]: "Establish a consistent type scale: H1 = 64px, H2 = 48px, H3 = 36px, body = 18px. Apply it across all pages."
+                  - button "Copy prompt" [ref=f47e482] [cursor=pointer]
+            - generic [ref=f47e486]:
+              - heading "Style components" [level=3] [ref=f47e488]
+              - generic [ref=f47e489]:
+                - generic [ref=f47e492]:
+                  - paragraph [ref=f47e494]:
+                    - mark [ref=f47e495]: "Update all buttons on the site to match our new brand style: fully rounded, filled with the new primary color, and white text."
+                  - button "Copy prompt" [ref=f47e500] [cursor=pointer]
+                - generic [ref=f47e506]:
+                  - paragraph [ref=f47e508]:
+                    - mark [ref=f47e509]: Refresh the card components. Update the corner radius, shadow style, and border colors to match the new brand.
+                  - button "Copy prompt" [ref=f47e514] [cursor=pointer]
+                - generic [ref=f47e520]:
+                  - paragraph [ref=f47e522]:
+                    - mark [ref=f47e523]: Update the footer design to match the new brand with new colors, updated font styles, and a refreshed layout.
+                  - button "Copy prompt" [ref=f47e528] [cursor=pointer]
+            - generic [ref=f47e531]:
+              - heading "Animations & effects" [level=3] [ref=f47e533]
+              - generic [ref=f47e534]:
+                - generic [ref=f47e537]:
+                  - paragraph [ref=f47e539]:
+                    - mark [ref=f47e540]: Add a liquid gradient shader to the hero background with slow, ambient motion.
+                  - button "Copy prompt" [ref=f47e545] [cursor=pointer]
+                - generic [ref=f47e551]:
+                  - paragraph [ref=f47e553]:
+                    - mark [ref=f47e554]: Set up staggered animations on the feature cards so each one fades in slightly after the previous.
+                  - button "Copy prompt" [ref=f47e559] [cursor=pointer]
+                - generic [ref=f47e565]:
+                  - paragraph [ref=f47e567]:
+                    - mark [ref=f47e568]: Add scroll-triggered animations to every section so each one fades in and slides up as it enters the viewport.
+                  - button "Copy prompt" [ref=f47e573] [cursor=pointer]
+        - generic [ref=f47e577]:
+          - generic [ref=f47e579]:
+            - img "Agent workflow preview image" [ref=f47e581]
+            - generic [ref=f47e584]:
+              - heading "Build new sites from scratch" [level=2] [ref=f47e586]
+              - paragraph [ref=f47e588]: The agent creates pages, navigation, sections, typography, colors, images, and layout from a description or reference.
+          - generic [ref=f47e589]:
+            - generic [ref=f47e603]:
+              - heading "Simple landing pages" [level=3] [ref=f47e605]
+              - generic [ref=f47e606]:
+                - generic [ref=f47e609]:
+                  - paragraph [ref=f47e611]:
+                    - mark [ref=f47e612]: Build a landing page for a coffee roastery called “Ember Roast” with a hero featuring a large background image, a “What We Roast” section with 3 coffee blends, testimonials, and a contact form.
+                  - button "Copy prompt" [ref=f47e617] [cursor=pointer]
+                - generic [ref=f47e623]:
+                  - paragraph [ref=f47e625]:
+                    - mark [ref=f47e626]: Create a one-page site for a freelance photographer. Minimal black and white design, full-screen photo grid, about section, and inquiry form.
+                  - button "Copy prompt" [ref=f47e631] [cursor=pointer]
+                - generic [ref=f47e637]:
+                  - paragraph [ref=f47e639]:
+                    - mark [ref=f47e640]: Make a pre-launch coming soon page for an app called Flowdeck. Dark theme, waitlist email signup, animated gradient background, and a countdown timer.
+                  - button "Copy prompt" [ref=f47e645] [cursor=pointer]
+            - generic [ref=f47e649]:
+              - heading "Multi-page sites" [level=3] [ref=f47e651]
+              - generic [ref=f47e652]:
+                - generic [ref=f47e655]:
+                  - paragraph [ref=f47e657]:
+                    - mark [ref=f47e658]: "Build a full website for a design agency with these pages: Home, Work, About, Services, Contact. Modern sans-serif font, blue/charcoal color scheme."
+                  - button "Copy prompt" [ref=f47e663] [cursor=pointer]
+                - generic [ref=f47e669]:
+                  - paragraph [ref=f47e671]:
+                    - mark [ref=f47e672]: "Create a 4-page site for a SaaS product: a landing page with feature sections, pricing with 3 tiers, a blog index page connected to CMS, and a changelog."
+                  - button "Copy prompt" [ref=f47e677] [cursor=pointer]
+                - generic [ref=f47e683]:
+                  - paragraph [ref=f47e685]:
+                    - mark [ref=f47e686]: Build a restaurant website with a homepage, menu page pulled from CMS, reservations page with a form, and a gallery.
+                  - button "Copy prompt" [ref=f47e691] [cursor=pointer]
+            - generic [ref=f47e695]:
+              - heading "Specific industries" [level=3] [ref=f47e697]
+              - generic [ref=f47e698]:
+                - generic [ref=f47e701]:
+                  - paragraph [ref=f47e703]:
+                    - mark [ref=f47e704]: Create a law firm website. Professional design. Include a hero with a “Schedule a Consultation” CTA, practice areas, attorney profiles, and a contact form.
+                  - button "Copy prompt" [ref=f47e709] [cursor=pointer]
+                - generic [ref=f47e715]:
+                  - paragraph [ref=f47e717]:
+                    - mark [ref=f47e718]: Build a personal portfolio for a product designer with case studies as large cards, an experience timeline, and a working contact form.
+                  - button "Copy prompt" [ref=f47e723] [cursor=pointer]
+                - generic [ref=f47e729]:
+                  - paragraph [ref=f47e731]:
+                    - mark [ref=f47e732]: Make a site for a real estate agent with property listings from CMS with filters, an agent bio, testimonials, and a contact form.
+                  - button "Copy prompt" [ref=f47e737] [cursor=pointer]
+            - generic [ref=f47e740]:
+              - heading "From references" [level=3] [ref=f47e742]
+              - generic [ref=f47e743]:
+                - generic [ref=f47e746]:
+                  - paragraph [ref=f47e748]:
+                    - mark [ref=f47e749]: Here’s a screenshot of a competitor’s site. Build something similar but with our brand colors and logo.
+                  - button "Copy prompt" [ref=f47e754] [cursor=pointer]
+                - generic [ref=f47e760]:
+                  - paragraph [ref=f47e762]:
+                    - mark [ref=f47e763]: Reference the layout and structure of example.com/contact as a guide for this page. Use our brand language for the copy.
+                  - button "Copy prompt" [ref=f47e768] [cursor=pointer]
+                - generic [ref=f47e774]:
+                  - paragraph [ref=f47e776]:
+                    - mark [ref=f47e777]: Here’s my current WordPress site. Rebuild it in Framer with the same structure and content but a more modern design.
+                  - button "Copy prompt" [ref=f47e782] [cursor=pointer]
+        - generic [ref=f47e785]:
+          - generic [ref=f47e787]:
+            - img "Agent workflow preview image" [ref=f47e789]
+            - generic [ref=f47e791]:
+              - heading "Migrate from another tool" [level=2] [ref=f47e793]
+              - paragraph [ref=f47e795]: The agent recreates pages, structure, and CMS content in Framer from a live site, export, or reference.
+          - generic [ref=f47e799]:
+            - generic [ref=f47e801]:
+              - heading "From live sites" [level=3] [ref=f47e803]
+              - generic [ref=f47e804]:
+                - generic [ref=f47e807]:
+                  - paragraph [ref=f47e809]:
+                    - mark [ref=f47e810]: Here’s a URL of our current site. Rebuild its structure and visual style in Framer, using our existing brand colors.
+                  - button "Copy prompt" [ref=f47e815] [cursor=pointer]
+                - generic [ref=f47e821]:
+                  - paragraph [ref=f47e823]:
+                    - mark [ref=f47e824]: I’m attaching a screenshot of our Webflow site. Rebuild it as closely as possible in Framer.
+                  - button "Copy prompt" [ref=f47e829] [cursor=pointer]
+                - generic [ref=f47e835]:
+                  - paragraph [ref=f47e837]:
+                    - mark [ref=f47e838]: Our WordPress site is at this URL. Rebuild the homepage and services page in Framer.
+                  - button "Copy prompt" [ref=f47e843] [cursor=pointer]
+            - generic [ref=f47e847]:
+              - heading "Pages and structure" [level=3] [ref=f47e849]
+              - generic [ref=f47e850]:
+                - generic [ref=f47e853]:
+                  - paragraph [ref=f47e855]:
+                    - mark [ref=f47e856]: "Recreate these 5 pages from our old site: Home, About, Services, Blog, and Contact. Match the information hierarchy."
+                  - button "Copy prompt" [ref=f47e861] [cursor=pointer]
+                - generic [ref=f47e867]:
+                  - paragraph [ref=f47e869]:
+                    - mark [ref=f47e870]: Rebuild our navigation structure with a top nav with dropdowns and a matching footer with grouped links.
+                  - button "Copy prompt" [ref=f47e875] [cursor=pointer]
+                - generic [ref=f47e881]:
+                  - paragraph [ref=f47e883]:
+                    - mark [ref=f47e884]: "Set up the same page hierarchy we had in Webflow: Home > Services > [Service Name]."
+                  - button "Copy prompt" [ref=f47e889] [cursor=pointer]
+            - generic [ref=f47e892]:
+              - heading "CMS and content" [level=3] [ref=f47e894]
+              - generic [ref=f47e895]:
+                - generic [ref=f47e898]:
+                  - paragraph [ref=f47e900]:
+                    - mark [ref=f47e901]: Migrate our WordPress blog posts into a Framer CMS Blog collection. Map the post title, body, date, and featured image.
+                  - button "Copy prompt" [ref=f47e906] [cursor=pointer]
+                - generic [ref=f47e912]:
+                  - paragraph [ref=f47e914]:
+                    - mark [ref=f47e915]: Move our Contentful content model into Framer CMS. Here are the fields for each collection.
+                  - button "Copy prompt" [ref=f47e920] [cursor=pointer]
+                - generic [ref=f47e926]:
+                  - paragraph [ref=f47e928]:
+                    - mark [ref=f47e929]: Import our old FAQ data from a spreadsheet and populate a new Framer FAQ collection.
+                  - button "Copy prompt" [ref=f47e934] [cursor=pointer]
+        - generic [ref=f47e937]:
+          - generic [ref=f47e939]:
+            - img "Agent workflow preview image" [ref=f47e941]
+            - generic [ref=f47e943]:
+              - heading "Make your site responsive" [level=2] [ref=f47e945]
+              - paragraph [ref=f47e947]: The agent improves layouts, spacing, hierarchy, and breakpoints across your site for tablet and mobile screens.
+          - generic [ref=f47e948]:
+            - generic [ref=f47e962]:
+              - heading "Full responsive pass" [level=3] [ref=f47e964]
+              - generic [ref=f47e965]:
+                - generic [ref=f47e968]:
+                  - paragraph [ref=f47e970]:
+                    - mark [ref=f47e971]: Make the entire site responsive. Set up tablet and mobile breakpoints, stack columns vertically on mobile, and resize text for readability.
+                  - button "Copy prompt" [ref=f47e976] [cursor=pointer]
+                - generic [ref=f47e982]:
+                  - paragraph [ref=f47e984]:
+                    - mark [ref=f47e985]: Do a full responsive pass on all pages and fix any layouts that break at tablet or mobile widths.
+                  - button "Copy prompt" [ref=f47e990] [cursor=pointer]
+                - generic [ref=f47e996]:
+                  - paragraph [ref=f47e998]:
+                    - mark [ref=f47e999]: Reset all responsive breakpoints and rebuild from scratch with a mobile-first approach.
+                  - button "Copy prompt" [ref=f47e1004] [cursor=pointer]
+            - generic [ref=f47e1008]:
+              - heading "Breakpoints and spacing" [level=3] [ref=f47e1010]
+              - generic [ref=f47e1011]:
+                - generic [ref=f47e1014]:
+                  - paragraph [ref=f47e1016]:
+                    - mark [ref=f47e1017]: The features grid should go from 3 columns on desktop to 2 on tablet to 1 on mobile.
+                  - button "Copy prompt" [ref=f47e1022] [cursor=pointer]
+                - generic [ref=f47e1028]:
+                  - paragraph [ref=f47e1030]:
+                    - mark [ref=f47e1031]: The nav should collapse into a hamburger menu on tablet and mobile.
+                  - button "Copy prompt" [ref=f47e1036] [cursor=pointer]
+                - generic [ref=f47e1042]:
+                  - paragraph [ref=f47e1044]:
+                    - mark [ref=f47e1045]: On mobile, hide the sidebar and make the main content full width.
+                  - button "Copy prompt" [ref=f47e1050] [cursor=pointer]
+            - generic [ref=f47e1053]:
+              - heading "Cleanups" [level=3] [ref=f47e1055]
+              - generic [ref=f47e1056]:
+                - generic [ref=f47e1059]:
+                  - paragraph [ref=f47e1061]:
+                    - mark [ref=f47e1062]: Fix the hero section on mobile. The headline is too large, the image overlaps the text, and the CTA button is too small.
+                  - button "Copy prompt" [ref=f47e1067] [cursor=pointer]
+                - generic [ref=f47e1073]:
+                  - paragraph [ref=f47e1075]:
+                    - mark [ref=f47e1076]: The mobile version looks off. Go through each section and fix any overlaps, text truncation, or layout issues.
+                  - button "Copy prompt" [ref=f47e1081] [cursor=pointer]
+                - generic [ref=f47e1087]:
+                  - paragraph [ref=f47e1089]:
+                    - mark [ref=f47e1090]: Clean up spacing inconsistencies across breakpoints. Some sections have too much padding on mobile, others too little.
+                  - button "Copy prompt" [ref=f47e1095] [cursor=pointer]
+        - generic [ref=f47e1098]:
+          - generic [ref=f47e1100]:
+            - img "Agent workflow preview image" [ref=f47e1102]
+            - generic [ref=f47e1104]:
+              - heading "Build custom components" [level=2] [ref=f47e1106]
+              - paragraph [ref=f47e1108]: The agent builds custom components from creative interactions to practical tools, including animations, calculators, forms, and dynamic content.
+          - generic [ref=f47e1109]:
+            - generic [ref=f47e1123]:
+              - heading "No-code components" [level=3] [ref=f47e1125]
+              - generic [ref=f47e1126]:
+                - generic [ref=f47e1129]:
+                  - paragraph [ref=f47e1131]:
+                    - mark [ref=f47e1132]: Make an FAQ accordion where each row expands and collapses when clicked.
+                  - button "Copy prompt" [ref=f47e1137] [cursor=pointer]
+                - generic [ref=f47e1143]:
+                  - paragraph [ref=f47e1145]:
+                    - mark [ref=f47e1146]: Create a tabbed pricing section that switches between Monthly and Yearly plans.
+                  - button "Copy prompt" [ref=f47e1151] [cursor=pointer]
+                - generic [ref=f47e1157]:
+                  - paragraph [ref=f47e1159]:
+                    - mark [ref=f47e1160]: Build a multi-step onboarding card with Back and Next buttons that steps through 3 screens.
+                  - button "Copy prompt" [ref=f47e1165] [cursor=pointer]
+            - generic [ref=f47e1168]:
+              - heading "Advanced code components" [level=3] [ref=f47e1170]
+              - generic [ref=f47e1171]:
+                - generic [ref=f47e1174]:
+                  - paragraph [ref=f47e1176]:
+                    - mark [ref=f47e1177]: Build a cursor trail where images follow the mouse, getting smaller and fading out as they fall behind, with a soft delay so it feels smooth.
+                  - button "Copy prompt" [ref=f47e1182] [cursor=pointer]
+                - generic [ref=f47e1188]:
+                  - paragraph [ref=f47e1190]:
+                    - mark [ref=f47e1191]: Build a 3D carousel that displays images in a draggable, rotating ring that speeds up on scroll and gently decelerates when released.
+                  - button "Copy prompt" [ref=f47e1196] [cursor=pointer]
+                - generic [ref=f47e1202]:
+                  - paragraph [ref=f47e1204]:
+                    - mark [ref=f47e1205]: Add a confetti burst animation that fires when the waitlist form is submitted successfully.
+                  - button "Copy prompt" [ref=f47e1210] [cursor=pointer]
+        - generic [ref=f47e1213]:
+          - generic [ref=f47e1215]:
+            - img "Agent workflow preview image" [ref=f47e1217]
+            - generic [ref=f47e1219]:
+              - heading "Add SEO and gain analytics insights" [level=2] [ref=f47e1221]
+              - paragraph [ref=f47e1223]: The agent handles titles, descriptions, alt text, and Open Graph content, and surfaces analytics insights so every page is discoverable and measurable.
+          - generic [ref=f47e1224]:
+            - generic [ref=f47e1226]:
+              - heading "Site-wide SEO" [level=3] [ref=f47e1228]
+              - generic [ref=f47e1229]:
+                - generic [ref=f47e1232]:
+                  - paragraph [ref=f47e1234]:
+                    - mark [ref=f47e1235]: Set up SEO metadata for every page including the page title, meta description, and Open Graph image.
+                  - button "Copy prompt" [ref=f47e1240] [cursor=pointer]
+                - generic [ref=f47e1246]:
+                  - paragraph [ref=f47e1248]:
+                    - mark [ref=f47e1249]: Audit the site for SEO basics. Check all pages have unique titles, descriptions, and proper heading hierarchy.
+                  - button "Copy prompt" [ref=f47e1254] [cursor=pointer]
+                - generic [ref=f47e1260]:
+                  - paragraph [ref=f47e1262]:
+                    - mark [ref=f47e1263]: Check this page for missing semantic HTML tags. Set proper tags on frames (header, nav, section, article, footer etc.) and headers (h1–h6) for better structure.
+                  - button "Copy prompt" [ref=f47e1268] [cursor=pointer]
+            - generic [ref=f47e1272]:
+              - heading "Metadata & Open Graph" [level=3] [ref=f47e1274]
+              - generic [ref=f47e1275]:
+                - generic [ref=f47e1278]:
+                  - paragraph [ref=f47e1280]:
+                    - mark [ref=f47e1281]: Write compelling meta descriptions for all 5 pages, under 160 characters, with relevant keywords.
+                  - button "Copy prompt" [ref=f47e1286] [cursor=pointer]
+                - generic [ref=f47e1292]:
+                  - paragraph [ref=f47e1294]:
+                    - mark [ref=f47e1295]: Add Open Graph tags to the homepage so it previews correctly when shared on social. Set the OG title, description, and image.
+                  - button "Copy prompt" [ref=f47e1300] [cursor=pointer]
+                - generic [ref=f47e1306]:
+                  - paragraph [ref=f47e1308]:
+                    - mark [ref=f47e1309]: Make a pre-launch coming soon page for an app called Flowdeck. Dark theme, waitlist email signup, animated gradient background, and a countdown timer.
+                  - button "Copy prompt" [ref=f47e1314] [cursor=pointer]
+            - generic [ref=f47e1318]:
+              - heading "Alt text" [level=3] [ref=f47e1320]
+              - generic [ref=f47e1321]:
+                - generic [ref=f47e1324]:
+                  - paragraph [ref=f47e1326]:
+                    - mark [ref=f47e1327]: Add alt text to every image on this site based on its context and surrounding content.
+                  - button "Copy prompt" [ref=f47e1332] [cursor=pointer]
+                - generic [ref=f47e1338]:
+                  - paragraph [ref=f47e1340]:
+                    - mark [ref=f47e1341]: Create a one-page site for a freelance photographer. Minimal black and white design, full-screen photo grid, about section, and inquiry form.
+                  - button "Copy prompt" [ref=f47e1346] [cursor=pointer]
+                - generic [ref=f47e1352]:
+                  - paragraph [ref=f47e1354]:
+                    - mark [ref=f47e1355]: Make a pre-launch coming soon page for an app called Flowdeck. Dark theme, waitlist email signup, animated gradient background, and a countdown timer.
+                  - button "Copy prompt" [ref=f47e1360] [cursor=pointer]
+            - generic [ref=f47e1363]:
+              - heading "Analytics" [level=3] [ref=f47e1365]
+              - generic [ref=f47e1366]:
+                - generic [ref=f47e1369]:
+                  - paragraph [ref=f47e1371]:
+                    - mark [ref=f47e1372]: What are my top traffic sources right now, and roughly how big is each one?
+                  - button "Copy prompt" [ref=f47e1377] [cursor=pointer]
+                - generic [ref=f47e1383]:
+                  - paragraph [ref=f47e1385]:
+                    - mark [ref=f47e1386]: What’s my overall bounce rate on the pricing page this month? Compare it to last month.
+                  - button "Copy prompt" [ref=f47e1391] [cursor=pointer]
+                - generic [ref=f47e1397]:
+                  - paragraph [ref=f47e1399]:
+                    - mark [ref=f47e1400]: Out of all my blog posts, which one is getting the most traffic this quarter?
+                  - button "Copy prompt" [ref=f47e1405] [cursor=pointer]
+        - generic [ref=f47e1408]:
+          - generic [ref=f47e1410]:
+            - img "Agent workflow preview image" [ref=f47e1412]
+            - generic [ref=f47e1414]:
+              - heading "Manage your CMS content" [level=2] [ref=f47e1416]
+              - paragraph [ref=f47e1418]: The agent creates collections, updates fields, imports content, and connects your CMS directly to pages on your site.
+          - generic [ref=f47e1419]:
+            - generic [ref=f47e1433]:
+              - heading "Collections" [level=3] [ref=f47e1435]
+              - generic [ref=f47e1436]:
+                - generic [ref=f47e1439]:
+                  - paragraph [ref=f47e1441]:
+                    - mark [ref=f47e1442]: "Create a Blog CMS collection with fields: Title, Slug, Author, Category (dropdown), Publish Date, Featured Image, Body (rich text), and an “Is Featured” toggle."
+                  - button "Copy prompt" [ref=f47e1447] [cursor=pointer]
+                - generic [ref=f47e1453]:
+                  - paragraph [ref=f47e1455]:
+                    - mark [ref=f47e1456]: "Set up a Team Members collection with: Name, Role, Department, Photo, Bio, LinkedIn URL, and Sort Order."
+                  - button "Copy prompt" [ref=f47e1461] [cursor=pointer]
+                - generic [ref=f47e1467]:
+                  - paragraph [ref=f47e1469]:
+                    - mark [ref=f47e1470]: "Create a Jobs collection with: Title, Department, Location (dropdown), Type (Full-time/Contract), Description (rich text), and Application URL."
+                  - button "Copy prompt" [ref=f47e1475] [cursor=pointer]
+            - generic [ref=f47e1479]:
+              - heading "Field updates" [level=3] [ref=f47e1481]
+              - generic [ref=f47e1482]:
+                - generic [ref=f47e1485]:
+                  - paragraph [ref=f47e1487]:
+                    - mark [ref=f47e1488]: Add a “Read Time” field to the Blog collection and calculate it for all existing posts based on content length.
+                  - button "Copy prompt" [ref=f47e1493] [cursor=pointer]
+                - generic [ref=f47e1499]:
+                  - paragraph [ref=f47e1501]:
+                    - mark [ref=f47e1502]: Reorganize the CMS categories. Merge “UI Design” and “UX Design” into a single “Design” category across all posts.
+                  - button "Copy prompt" [ref=f47e1507] [cursor=pointer]
+                - generic [ref=f47e1513]:
+                  - paragraph [ref=f47e1515]:
+                    - mark [ref=f47e1516]: Add a “Published” toggle field to the Portfolio collection and set it to true for all existing items.
+                  - button "Copy prompt" [ref=f47e1521] [cursor=pointer]
+            - generic [ref=f47e1524]:
+              - heading "Content imports" [level=3] [ref=f47e1526]
+              - generic [ref=f47e1527]:
+                - generic [ref=f47e1530]:
+                  - paragraph [ref=f47e1532]:
+                    - mark [ref=f47e1533]: Move every item from the “News” collection into “Articles”, and convert the Category text field into a dropdown using its existing values.
+                  - button "Copy prompt" [ref=f47e1538] [cursor=pointer]
+                - generic [ref=f47e1544]:
+                  - paragraph [ref=f47e1546]:
+                    - mark [ref=f47e1547]: Import this CSV file into the Blog collection and match columns to the CMS fields Title, Slug, Author, Publish Date, and Body.
+                  - button "Copy prompt" [ref=f47e1552] [cursor=pointer]
+                - generic [ref=f47e1558]:
+                  - paragraph [ref=f47e1560]:
+                    - mark [ref=f47e1561]: Migrate all the blog content from my old site into the CMS using this JSON file.
+                  - button "Copy prompt" [ref=f47e1566] [cursor=pointer]
+        - generic [ref=f47e1569]:
+          - generic [ref=f47e1571]:
+            - img "Agent workflow preview image" [ref=f47e1573]
+            - generic [ref=f47e1575]:
+              - heading "Fix and audit your site" [level=2] [ref=f47e1577]
+              - paragraph [ref=f47e1579]:
+                - strong [ref=f47e1580]: The agent scans your site, catches broken links, accessibility issues, and inconsistencies, then fixes them.
+          - generic [ref=f47e1581]:
+            - generic [ref=f47e1595]:
+              - heading "Broken links & redirects" [level=3] [ref=f47e1597]
+              - generic [ref=f47e1598]:
+                - generic [ref=f47e1601]:
+                  - paragraph [ref=f47e1603]:
+                    - mark [ref=f47e1604]: Scan the entire site for broken external links and list any that return a 404.
+                  - button "Copy prompt" [ref=f47e1609] [cursor=pointer]
+                - generic [ref=f47e1615]:
+                  - paragraph [ref=f47e1617]:
+                    - mark [ref=f47e1618]: Find all internal links that point to pages that no longer exist and suggest replacements.
+                  - button "Copy prompt" [ref=f47e1623] [cursor=pointer]
+                - generic [ref=f47e1629]:
+                  - paragraph [ref=f47e1631]:
+                    - mark [ref=f47e1632]: Find any redirects that are chained together — where one redirect points to another — and make them go directly to the final destination.
+                  - button "Copy prompt" [ref=f47e1637] [cursor=pointer]
+            - generic [ref=f47e1641]:
+              - heading "Accessibility" [level=3] [ref=f47e1643]
+              - generic [ref=f47e1644]:
+                - generic [ref=f47e1647]:
+                  - paragraph [ref=f47e1649]:
+                    - mark [ref=f47e1650]: Add descriptive alt text to every image that’s missing it, using the surrounding content as context.
+                  - button "Copy prompt" [ref=f47e1655] [cursor=pointer]
+                - generic [ref=f47e1661]:
+                  - paragraph [ref=f47e1663]:
+                    - mark [ref=f47e1664]: Check all form fields have proper labels and that error messages are readable by screen readers.
+                  - button "Copy prompt" [ref=f47e1669] [cursor=pointer]
+                - generic [ref=f47e1675]:
+                  - paragraph [ref=f47e1677]:
+                    - mark [ref=f47e1678]: Check every page for text that’s too small or low contrast to read comfortably — fix anything that fails basic readability standards.
+                  - button "Copy prompt" [ref=f47e1683] [cursor=pointer]
+            - generic [ref=f47e1686]:
+              - heading "Consistency & QA" [level=3] [ref=f47e1688]
+              - generic [ref=f47e1689]:
+                - generic [ref=f47e1692]:
+                  - paragraph [ref=f47e1694]:
+                    - mark [ref=f47e1695]: Audit the site for consistency — heading sizes, button styles, and spacing should be uniform across all pages.
+                  - button "Copy prompt" [ref=f47e1700] [cursor=pointer]
+                - generic [ref=f47e1706]:
+                  - paragraph [ref=f47e1708]:
+                    - mark [ref=f47e1709]: Find every page where body text is smaller than 16px and fix it.
+                  - button "Copy prompt" [ref=f47e1714] [cursor=pointer]
+                - generic [ref=f47e1720]:
+                  - paragraph [ref=f47e1722]:
+                    - mark [ref=f47e1723]: Scan for any hardcoded colors that aren’t part of the design system and replace them with the correct tokens.
+                  - button "Copy prompt" [ref=f47e1728] [cursor=pointer]
+        - generic [ref=f47e1731]:
+          - generic [ref=f47e1733]:
+            - img "Agent workflow preview image" [ref=f47e1735]
+            - generic [ref=f47e1737]:
+              - heading "Connect external agents to Framer" [level=2] [ref=f47e1739]
+              - paragraph [ref=f47e1741]: The agent connects Framer to tools like Claude, Cursor, and Codex so they can read, update, and help build your site.
+            - link [ref=f47e1743] [cursor=pointer]:
+              - /url: ./external/
+              - paragraph [ref=f47e1745]: Get started with External Agents
+          - generic [ref=f47e1760]:
+            - generic [ref=f47e1764]:
+              - paragraph [ref=f47e1766]:
+                - mark [ref=f47e1767]: Using Xquik, find 12 recent tweets praising @framer, build a tweet card component in dark mode, and create a fading ticker section with the tweets.
+              - button "Copy prompt" [ref=f47e1772] [cursor=pointer]
+            - generic [ref=f47e1777]:
+              - paragraph [ref=f47e1779]:
+                - mark [ref=f47e1780]: Ensure every URL in this redirects spreadsheet has a redirect set up in Framer pointing to its new destination.
+              - button "Copy prompt" [ref=f47e1785] [cursor=pointer]
+            - generic [ref=f47e1790]:
+              - paragraph [ref=f47e1792]:
+                - mark [ref=f47e1793]: Import the “Changelog” Notion database into the CMS using the Notion API. Sync every hour and update changed rows.
+              - button "Copy prompt" [ref=f47e1798] [cursor=pointer]
+    - generic [ref=f47e1801]:
+      - generic [ref=f47e1802]:
+        - heading "Your toolkit for building with Agents" [level=2] [ref=f47e1804]
+        - link [ref=f47e1808] [cursor=pointer]:
+          - /url: ../ai/
+          - paragraph [ref=f47e1810]: Explore AI tools
+      - generic [ref=f47e1811]:
+        - paragraph [ref=f47e1819]:
+          - text: Skills. Type
+          - code [ref=f47e1820]: /
+          - text: to run AI actions for layouts, CMS, and more.
+        - paragraph [ref=f47e1827]:
+          - strong [ref=f47e1829]: Contexts.
+          - text: Select layers on the canvas and add them as context to your chat.
+        - paragraph [ref=f47e1836]:
+          - generic [ref=f47e1837]:
+            - text: Chats
+            - strong [ref=f47e1838]: .
+          - text: Start a new one for each task to keep the agent focused.
+        - paragraph [ref=f47e1845]: Models. Choose between Sonnet, Opus, and GPT depending on the task.
+        - paragraph [ref=f47e1854]:
+          - text: Mentions. Type
+          - code [ref=f47e1855]: "@"
+          - text: to reference pages, CMS collections, styles, or assets.
+        - generic [ref=f47e1857]:
+          - generic [ref=f47e1862]:
+            - generic [ref=f47e1865]:
+              - generic [ref=f47e1867]:
+                - generic [ref=f47e1868]:
+                  - paragraph [ref=f47e1872]: DESIGN.md
+                  - paragraph [ref=f47e1874]: Update the padding,
+                - paragraph [ref=f47e1876]: buttons, and icons on my site to match this file.
+              - paragraph [ref=f47e1884]: GPT 5.6 Terra
+            - generic [ref=f47e1899]:
+              - generic [ref=f47e1901]:
+                - img "Google Sheets file icon" [ref=f47e1905]
+                - paragraph [ref=f47e1907]: blog.csv
+              - generic [ref=f47e1909]:
+                - img "Google Sheets file icon" [ref=f47e1913]
+                - paragraph [ref=f47e1915]: DESIGN.md
+              - generic [ref=f47e1917]:
+                - img "AI file management preview" [ref=f47e1920]
+                - paragraph [ref=f47e1924]: shader.mp4
+              - generic [ref=f47e1926]:
+                - img "Google Sheets file icon" [ref=f47e1930]
+                - paragraph [ref=f47e1932]: data.json
+              - generic [ref=f47e1934]:
+                - img "Google Sheets file icon" [ref=f47e1938]
+                - paragraph [ref=f47e1940]: component.tsx
+              - generic [ref=f47e1942]:
+                - img "AI file management preview" [ref=f47e1945]
+                - paragraph [ref=f47e1947]: screenshot.png
+              - generic [ref=f47e1949]:
+                - img "Google Sheets file icon" [ref=f47e1953]
+                - paragraph [ref=f47e1955]: blog.csv
+              - generic [ref=f47e1957]:
+                - img "Google Sheets file icon" [ref=f47e1961]
+                - paragraph [ref=f47e1963]: DESIGN.md
+              - generic [ref=f47e1965]:
+                - img "AI file management preview" [ref=f47e1968]
+                - paragraph [ref=f47e1972]: shader.mp4
+              - generic [ref=f47e1974]:
+                - img "Google Sheets file icon" [ref=f47e1978]
+                - paragraph [ref=f47e1980]: data.json
+              - generic [ref=f47e1982]:
+                - img "Google Sheets file icon" [ref=f47e1986]
+                - paragraph [ref=f47e1988]: component.tsx
+              - generic [ref=f47e1990]:
+                - img "AI file management preview" [ref=f47e1993]
+                - paragraph [ref=f47e1995]: screenshot.png
+              - generic [ref=f47e1997]:
+                - img "Google Sheets file icon" [ref=f47e2001]
+                - paragraph [ref=f47e2003]: blog.csv
+          - paragraph [ref=f47e2005]: References. Upload images, files, or URLs to guide AI toward the exact result you want.
+        - paragraph [ref=f47e2012]:
+          - link "Branches" [ref=f47e2013] [cursor=pointer]:
+            - /url: ../collaborate/
+          - strong [ref=f47e2015]: .
+          - text: Iterate safely by moving agent edits to a branch.
+    - generic [ref=f47e2016]:
+      - heading "Everything your site needs, built into Framer" [level=2] [ref=f47e2019]
+      - list [ref=f47e2020]:
+        - listitem [ref=f47e2022]:
+          - link [ref=f47e2023] [cursor=pointer]:
+            - /url: ../design/
+            - generic [ref=f47e2026]:
+              - paragraph [ref=f47e2028]: Design
+              - paragraph [ref=f47e2030]: Design responsive sites on a visual canvas.
+        - listitem [ref=f47e2032]:
+          - link [ref=f47e2033] [cursor=pointer]:
+            - /url: ../ai/
+            - generic [ref=f47e2036]:
+              - paragraph [ref=f47e2038]: AI
+              - paragraph [ref=f47e2040]: Generate, iterate, and improve sites faster.
+        - listitem [ref=f47e2042]:
+          - link [ref=f47e2043] [cursor=pointer]:
+            - /url: ./external/
+            - generic [ref=f47e2046]:
+              - paragraph [ref=f47e2048]: External agents
+              - paragraph [ref=f47e2050]: Connect Claude Code, Cursor, Codex, and more.
+        - listitem [ref=f47e2052]:
+          - link [ref=f47e2053] [cursor=pointer]:
+            - /url: ../cms/
+            - generic [ref=f47e2056]:
+              - paragraph [ref=f47e2058]: CMS
+              - paragraph [ref=f47e2060]: Structure content and publish dynamic pages.
+        - listitem [ref=f47e2062]:
+          - link [ref=f47e2063] [cursor=pointer]:
+            - /url: ../collaborate/
+            - generic [ref=f47e2066]:
+              - paragraph [ref=f47e2068]: Collaborate
+              - paragraph [ref=f47e2070]: Work together with branches and staging.
+        - listitem [ref=f47e2072]:
+          - link [ref=f47e2073] [cursor=pointer]:
+            - /url: ../seo/
+            - generic [ref=f47e2076]:
+              - paragraph [ref=f47e2078]: SEO
+              - paragraph [ref=f47e2080]: Improve visibility with built-in SEO tools.
+        - listitem [ref=f47e2082]:
+          - link [ref=f47e2083] [cursor=pointer]:
+            - /url: ../convert/
+            - generic [ref=f47e2086]:
+              - paragraph [ref=f47e2088]: Convert
+              - paragraph [ref=f47e2090]: Build, test, and grow high-converting sites.
+        - listitem [ref=f47e2092]:
+          - link [ref=f47e2093] [cursor=pointer]:
+            - /url: ../hosting/
+            - generic [ref=f47e2096]:
+              - paragraph [ref=f47e2098]: Hosting
+              - paragraph [ref=f47e2100]: Deploy fast sites on global infrastructure.
+        - listitem [ref=f47e2102]:
+          - link [ref=f47e2103] [cursor=pointer]:
+            - /url: ../performance/
+            - generic [ref=f47e2106]:
+              - paragraph [ref=f47e2108]: Performance
+              - paragraph [ref=f47e2110]: Keep pages fast with built-in optimization.
+        - listitem [ref=f47e2112]:
+          - link [ref=f47e2113] [cursor=pointer]:
+            - /url: ../publish/
+            - generic [ref=f47e2116]:
+              - paragraph [ref=f47e2118]: Publish
+              - paragraph [ref=f47e2120]: Go from design to live site in seconds.
+  - generic [ref=f47e2121]:
+    - banner [ref=f47e2122]:
+      - heading "Your next idea starts here" [level=2] [ref=f47e2124]
+    - generic [ref=f47e2126]:
+      - generic [ref=f47e2128]:
+        - textbox [ref=f47e2131]
+        - generic [ref=f47e2133]:
+          - paragraph [ref=f47e2136] [cursor=pointer]: GPT 5.6 Terra
+          - button [ref=f47e2140] [cursor=pointer]
+      - generic [ref=f47e2142]:
+        - paragraph [ref=f47e2145] [cursor=pointer]: Create personal portfolio
+        - paragraph [ref=f47e2148] [cursor=pointer]: Build startup site
+        - paragraph [ref=f47e2151] [cursor=pointer]:
+          - code [ref=f47e2152]: Launch landing page
+        - paragraph [ref=f47e2155] [cursor=pointer]: Start company blog
+    - link [ref=f47e2157] [cursor=pointer]:
+      - /url: https://framer.com/signup
+      - paragraph [ref=f47e2159]: Start without AI
+  - contentinfo [ref=f47e2165]:
+    - generic [ref=f47e2166]:
+      - link [ref=f47e2168] [cursor=pointer]:
+        - /url: ../
+        - paragraph [ref=f47e2171]: Framer
+      - generic [ref=f47e2173]:
+        - list [ref=f47e2175]:
+          - listitem [ref=f47e2176]:
+            - paragraph [ref=f47e2179]: Product
+          - listitem [ref=f47e2180]:
+            - link [ref=f47e2181] [cursor=pointer]:
+              - /url: ../ai/
+              - paragraph [ref=f47e2183]: AI
+              - paragraph [ref=f47e2188]: New
+          - listitem [ref=f47e2189]:
+            - link [ref=f47e2190] [cursor=pointer]:
+              - /url: ./
+              - paragraph [ref=f47e2192]: Agents
+              - paragraph [ref=f47e2197]: New
+          - listitem [ref=f47e2198]:
+            - link [ref=f47e2199] [cursor=pointer]:
+              - /url: ./external/
+              - paragraph [ref=f47e2201]: External Agents
+              - paragraph [ref=f47e2206]: New
+          - listitem [ref=f47e2207]:
+            - link [ref=f47e2208] [cursor=pointer]:
+              - /url: ../design/
+              - paragraph [ref=f47e2210]: Design
+          - listitem [ref=f47e2211]:
+            - link [ref=f47e2212] [cursor=pointer]:
+              - /url: ../collaborate/
+              - paragraph [ref=f47e2214]: Collaborate
+              - paragraph [ref=f47e2219]: New
+          - listitem [ref=f47e2220]:
+            - link [ref=f47e2221] [cursor=pointer]:
+              - /url: ../cms/
+              - paragraph [ref=f47e2223]: CMS
+          - listitem [ref=f47e2224]:
+            - link [ref=f47e2225] [cursor=pointer]:
+              - /url: ../hosting/
+              - paragraph [ref=f47e2227]: Hosting
+          - listitem [ref=f47e2228]:
+            - link [ref=f47e2229] [cursor=pointer]:
+              - /url: ../performance/
+              - paragraph [ref=f47e2231]: Performance
+          - listitem [ref=f47e2232]:
+            - link [ref=f47e2233] [cursor=pointer]:
+              - /url: ../seo/
+              - paragraph [ref=f47e2235]: SEO
+          - listitem [ref=f47e2236]:
+            - link [ref=f47e2237] [cursor=pointer]:
+              - /url: ../convert/
+              - paragraph [ref=f47e2239]: Convert
+          - listitem [ref=f47e2240]:
+            - link [ref=f47e2241] [cursor=pointer]:
+              - /url: ../publish/
+              - paragraph [ref=f47e2243]: Publish
+          - listitem [ref=f47e2244]:
+            - link [ref=f47e2245] [cursor=pointer]:
+              - /url: ../updates
+              - paragraph [ref=f47e2247]: Updates
+              - paragraph [ref=f47e2252]: New
+        - list [ref=f47e2254]:
+          - listitem [ref=f47e2255]:
+            - paragraph [ref=f47e2258]: Resources
+          - listitem [ref=f47e2259]:
+            - link [ref=f47e2260] [cursor=pointer]:
+              - /url: ../academy/
+              - paragraph [ref=f47e2262]: Academy
+          - listitem [ref=f47e2263]:
+            - link [ref=f47e2264] [cursor=pointer]:
+              - /url: ../guides
+              - paragraph [ref=f47e2266]: Guides
+          - listitem [ref=f47e2267]:
+            - link [ref=f47e2268] [cursor=pointer]:
+              - /url: ../downloads/
+              - paragraph [ref=f47e2270]: Desktop app
+          - listitem [ref=f47e2271]:
+            - link [ref=f47e2272] [cursor=pointer]:
+              - /url: ../blog/
+              - paragraph [ref=f47e2274]: Blog
+          - listitem [ref=f47e2275]:
+            - link [ref=f47e2276] [cursor=pointer]:
+              - /url: ../newsletter
+              - paragraph [ref=f47e2278]: Newsletter
+          - listitem [ref=f47e2279]:
+            - link [ref=f47e2280] [cursor=pointer]:
+              - /url: ../stories/
+              - paragraph [ref=f47e2282]: Stories
+          - listitem [ref=f47e2283]:
+            - link [ref=f47e2284] [cursor=pointer]:
+              - /url: ../developers/
+              - paragraph [ref=f47e2286]: Developers
+          - listitem [ref=f47e2287]:
+            - link [ref=f47e2288] [cursor=pointer]:
+              - /url: ../creators
+              - paragraph [ref=f47e2290]: Creators
+          - listitem [ref=f47e2291]:
+            - link [ref=f47e2292] [cursor=pointer]:
+              - /url: ../expert/apply/
+              - paragraph [ref=f47e2294]: Experts
+          - listitem [ref=f47e2295]:
+            - link [ref=f47e2296] [cursor=pointer]:
+              - /url: ../education/students/
+              - paragraph [ref=f47e2298]: Students
+          - listitem [ref=f47e2299]:
+            - link [ref=f47e2300] [cursor=pointer]:
+              - /url: ../education/ambassadors/
+              - paragraph [ref=f47e2302]: Ambassadors
+          - listitem [ref=f47e2303]:
+            - link [ref=f47e2304] [cursor=pointer]:
+              - /url: https://www.framer.com/state-of-sites-2026/
+              - paragraph [ref=f47e2306]: State of Sites
+          - listitem [ref=f47e2307]:
+            - link [ref=f47e2308] [cursor=pointer]:
+              - /url: ../help/
+              - paragraph [ref=f47e2310]: Support
+          - listitem [ref=f47e2311]:
+            - link [ref=f47e2312] [cursor=pointer]:
+              - /url: ../contact/
+              - paragraph [ref=f47e2314]: Contact
+        - list [ref=f47e2317]:
+          - listitem [ref=f47e2318]:
+            - paragraph [ref=f47e2321]: Solutions
+          - listitem [ref=f47e2322]:
+            - link [ref=f47e2323] [cursor=pointer]:
+              - /url: ../solutions/designers/
+              - paragraph [ref=f47e2325]: Designers
+          - listitem [ref=f47e2326]:
+            - link [ref=f47e2327] [cursor=pointer]:
+              - /url: ../solutions/builders/
+              - paragraph [ref=f47e2329]: Builders
+          - listitem [ref=f47e2330]:
+            - link [ref=f47e2331] [cursor=pointer]:
+              - /url: ../solutions/marketers/
+              - paragraph [ref=f47e2333]: Marketers
+          - listitem [ref=f47e2334]:
+            - link [ref=f47e2335] [cursor=pointer]:
+              - /url: ../solutions/site-teams/
+              - paragraph [ref=f47e2337]: Site teams
+          - listitem [ref=f47e2338]:
+            - link [ref=f47e2339] [cursor=pointer]:
+              - /url: ../solutions/agencies/
+              - paragraph [ref=f47e2341]: Agencies
+          - listitem [ref=f47e2342]:
+            - link [ref=f47e2343] [cursor=pointer]:
+              - /url: ../solutions/growth/
+              - paragraph [ref=f47e2345]: Growth
+          - listitem [ref=f47e2346]:
+            - link [ref=f47e2347] [cursor=pointer]:
+              - /url: ../solutions/founders/
+              - paragraph [ref=f47e2349]: Founders
+          - listitem [ref=f47e2350]:
+            - link [ref=f47e2351] [cursor=pointer]:
+              - /url: ../solutions/ai-website-builder/
+              - paragraph [ref=f47e2353]: AI website builder
+          - listitem [ref=f47e2354]:
+            - link [ref=f47e2355] [cursor=pointer]:
+              - /url: ../solutions/ai-designer/
+              - paragraph [ref=f47e2357]: AI design agent
+          - listitem [ref=f47e2358]:
+            - link [ref=f47e2359] [cursor=pointer]:
+              - /url: ../solutions/website-builder/
+              - paragraph [ref=f47e2361]: Website builder
+          - listitem [ref=f47e2362]:
+            - link [ref=f47e2363] [cursor=pointer]:
+              - /url: ../solutions/landing-pages/
+              - paragraph [ref=f47e2365]: Landing pages
+          - listitem [ref=f47e2366]:
+            - link [ref=f47e2367] [cursor=pointer]:
+              - /url: ../solutions/portfolio-website/
+              - paragraph [ref=f47e2369]: Portfolio maker
+          - listitem [ref=f47e2370]:
+            - link [ref=f47e2371] [cursor=pointer]:
+              - /url: ../solutions/ui-ux-design/
+              - paragraph [ref=f47e2373]: UI/UX design
+          - listitem [ref=f47e2374]:
+            - link [ref=f47e2375] [cursor=pointer]:
+              - /url: ../solutions/no-code-website-builder/
+              - paragraph [ref=f47e2377]: No-code
+        - list [ref=f47e2379]:
+          - listitem [ref=f47e2380]:
+            - paragraph [ref=f47e2383]: Compare
+          - listitem [ref=f47e2384]:
+            - link [ref=f47e2386] [cursor=pointer]:
+              - /url: ../compare
+              - paragraph [ref=f47e2388]: Overview
+            - link [ref=f47e2390] [cursor=pointer]:
+              - /url: ../compare/framer-vs-webflow
+              - paragraph [ref=f47e2392]: Webflow
+            - link [ref=f47e2394] [cursor=pointer]:
+              - /url: ../compare/framer-vs-figma
+              - paragraph [ref=f47e2396]: Figma
+            - link [ref=f47e2398] [cursor=pointer]:
+              - /url: ../compare/framer-vs-wix
+              - paragraph [ref=f47e2400]: Wix
+            - link [ref=f47e2402] [cursor=pointer]:
+              - /url: ../compare/framer-vs-squarespace
+              - paragraph [ref=f47e2404]: Squarespace
+            - link [ref=f47e2406] [cursor=pointer]:
+              - /url: ../compare/framer-vs-wordpress
+              - paragraph [ref=f47e2408]: WordPress
+            - link [ref=f47e2410] [cursor=pointer]:
+              - /url: ../compare/framer-vs-readymag
+              - paragraph [ref=f47e2412]: Readymag
+            - link [ref=f47e2414] [cursor=pointer]:
+              - /url: ../compare/framer-vs-ceros
+              - paragraph [ref=f47e2416]: Ceros
+            - link [ref=f47e2418] [cursor=pointer]:
+              - /url: ../compare/framer-vs-unbounce
+              - paragraph [ref=f47e2420]: Unbounce
+            - link [ref=f47e2422] [cursor=pointer]:
+              - /url: ../compare/framer-vs-lovable
+              - paragraph [ref=f47e2424]: Lovable
+            - link [ref=f47e2426] [cursor=pointer]:
+              - /url: ../compare/framer-vs-claude-code
+              - paragraph [ref=f47e2428]: Claude Code
+            - link [ref=f47e2430] [cursor=pointer]:
+              - /url: ../compare/framer-vs-codex
+              - paragraph [ref=f47e2432]: Codex
+            - link [ref=f47e2434] [cursor=pointer]:
+              - /url: ../compare/framer-vs-contentful
+              - paragraph [ref=f47e2436]: Contentful
+            - link [ref=f47e2438] [cursor=pointer]:
+              - /url: ../compare/framer-vs-sanity
+              - paragraph [ref=f47e2440]: Sanity
+            - link [ref=f47e2442] [cursor=pointer]:
+              - /url: ../compare/framer-vs-adobe-experience-manager
+              - paragraph [ref=f47e2444]: AEM
+            - link [ref=f47e2446] [cursor=pointer]:
+              - /url: ../compare/framer-vs-replit
+              - paragraph [ref=f47e2448]: Replit
+            - link [ref=f47e2450] [cursor=pointer]:
+              - /url: ../compare/framer-vs-v0
+              - paragraph [ref=f47e2452]: v0
+        - list [ref=f47e2454]:
+          - listitem [ref=f47e2455]:
+            - paragraph [ref=f47e2459]: Business
+            - link [ref=f47e2461] [cursor=pointer]:
+              - /url: ../pricing
+              - paragraph [ref=f47e2463]: Pricing
+            - link [ref=f47e2465] [cursor=pointer]:
+              - /url: ../enterprise/
+              - paragraph [ref=f47e2467]: Enterprise
+            - link [ref=f47e2469] [cursor=pointer]:
+              - /url: ../enterprise/infrastructure/
+              - paragraph [ref=f47e2471]: Infrastructure
+            - link [ref=f47e2473] [cursor=pointer]:
+              - /url: ../startups/
+              - paragraph [ref=f47e2475]: Startups
+            - link [ref=f47e2477] [cursor=pointer]:
+              - /url: ../agencies/
+              - paragraph [ref=f47e2479]: Agencies
+            - link [ref=f47e2481] [cursor=pointer]:
+              - /url: ../switch/
+              - paragraph [ref=f47e2483]: Switch
+          - listitem [ref=f47e2484]:
+            - paragraph [ref=f47e2488]: Company
+            - link [ref=f47e2490] [cursor=pointer]:
+              - /url: ../careers/
+              - paragraph [ref=f47e2492]: Careers
+            - link [ref=f47e2494] [cursor=pointer]:
+              - /url: ../brand
+              - paragraph [ref=f47e2496]: Brand
+            - link [ref=f47e2498] [cursor=pointer]:
+              - /url: ../store
+              - paragraph [ref=f47e2500]: Store
+            - link [ref=f47e2502] [cursor=pointer]:
+              - /url: ../legal/security
+              - paragraph [ref=f47e2504]: Security
+            - link [ref=f47e2506] [cursor=pointer]:
+              - /url: mailto:abuse@framer.com
+              - paragraph [ref=f47e2508]: Abuse
+            - link [ref=f47e2510] [cursor=pointer]:
+              - /url: ../legal/community-terms
+              - paragraph [ref=f47e2512]: Legal
+            - link [ref=f47e2514] [cursor=pointer]:
+              - /url: https://app.eu.vanta.com/framer.com/trust/ow67ujg7iav0t6qtd1o6r2
+              - paragraph [ref=f47e2516]: Trust
+        - generic [ref=f47e2518]:
+          - list [ref=f47e2519]:
+            - listitem [ref=f47e2520]:
+              - paragraph [ref=f47e2523]: Community
+            - listitem [ref=f47e2524]:
+              - link [ref=f47e2525] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/
+                - paragraph [ref=f47e2527]: Marketplace
+            - listitem [ref=f47e2528]:
+              - link [ref=f47e2529] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/templates/
+                - paragraph [ref=f47e2531]: Templates
+            - listitem [ref=f47e2532]:
+              - link [ref=f47e2533] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/components/
+                - paragraph [ref=f47e2535]: Components
+            - listitem [ref=f47e2536]:
+              - link [ref=f47e2537] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/plugins/
+                - paragraph [ref=f47e2539]: Plugins
+            - listitem [ref=f47e2540]:
+              - link [ref=f47e2541] [cursor=pointer]:
+                - /url: https://www.framer.com/community/marketplace/vectors/
+                - paragraph [ref=f47e2543]: Vectors
+            - listitem [ref=f47e2544]:
+              - link [ref=f47e2545] [cursor=pointer]:
+                - /url: https://www.framer.com/community/feed/
+                - paragraph [ref=f47e2547]: Feed
+            - listitem [ref=f47e2548]:
+              - link [ref=f47e2549] [cursor=pointer]:
+                - /url: https://www.framer.com/community/hype/
+                - paragraph [ref=f47e2551]: Hype
+            - listitem [ref=f47e2552]:
+              - link [ref=f47e2553] [cursor=pointer]:
+                - /url: https://www.framer.com/community/gallery/
+                - paragraph [ref=f47e2555]: Gallery
+            - listitem [ref=f47e2556]:
+              - link [ref=f47e2557] [cursor=pointer]:
+                - /url: https://www.framer.com/community/contests/
+                - paragraph [ref=f47e2559]: Contests
+            - listitem [ref=f47e2560]:
+              - link [ref=f47e2561] [cursor=pointer]:
+                - /url: https://www.framer.com/community/members/
+                - paragraph [ref=f47e2563]: Members
+            - listitem [ref=f47e2564]:
+              - link [ref=f47e2565] [cursor=pointer]:
+                - /url: ../meetups/
+                - paragraph [ref=f47e2567]: Meetups
+          - list [ref=f47e2568]:
+            - listitem [ref=f47e2569]:
+              - paragraph [ref=f47e2572]: Tools
+            - listitem [ref=f47e2573]:
+              - link [ref=f47e2574] [cursor=pointer]:
+                - /url: ../solutions/figma-to-html/
+                - paragraph [ref=f47e2576]: Figma to HTML
+            - listitem [ref=f47e2577]:
+              - link [ref=f47e2578] [cursor=pointer]:
+                - /url: ../aeo
+                - paragraph [ref=f47e2580]: AEO scanner
+            - listitem [ref=f47e2581]:
+              - link [ref=f47e2582] [cursor=pointer]:
+                - /url: https://www.linkpreview.app/
+                - paragraph [ref=f47e2584]: Link previewer
+            - listitem [ref=f47e2585]:
+              - link [ref=f47e2586] [cursor=pointer]:
+                - /url: ../domains/
+                - paragraph [ref=f47e2588]: Free domains
+            - listitem [ref=f47e2589]:
+              - link [ref=f47e2590] [cursor=pointer]:
+                - /url: ../canvasbench/
+                - paragraph [ref=f47e2592]: CanvasBench
+            - listitem [ref=f47e2593]:
+              - link [ref=f47e2594] [cursor=pointer]:
+                - /url: ../shortcuts
+                - paragraph [ref=f47e2596]: Shortcuts
+    - generic [ref=f47e2597]:
+      - generic [ref=f47e2598]:
+        - paragraph [ref=f47e2600]: Follow us
+        - generic [ref=f47e2601]:
+          - link "Twitter / X" [ref=f47e2602] [cursor=pointer]:
+            - /url: https://x.com/framer
+          - link "YouTube" [ref=f47e2604] [cursor=pointer]:
+            - /url: https://www.youtube.com/@Framer
+          - link "Instagram" [ref=f47e2606] [cursor=pointer]:
+            - /url: https://www.instagram.com/framer/
+          - link "LinkedIn" [ref=f47e2608] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/framer/
+          - link "Threads" [ref=f47e2610] [cursor=pointer]:
+            - /url: https://www.threads.com/@framer
+      - generic [ref=f47e2612]:
+        - paragraph [ref=f47e2614]: AI summary
+        - generic [ref=f47e2615]:
+          - link "OpenAI summary of Framer" [ref=f47e2616] [cursor=pointer]:
+            - /url: https://chat.openai.com/?q=How%20do%20Framer%E2%80%99s%20AI%20agent%20and%20external%20agents%20fit%20into%20a%20website%20workflow%3F%20Explain%20briefly%20how%20the%20built-in%20agent%20and%20external%20tools%20such%20as%20Claude%20Code%20and%20Codex%20connect%20to%20Framer%2C%20what%20each%20can%20do%2C%20how%20work%20moves%20between%20them%2C%20and%20what%20I%20remain%20responsible%20for.%0A%0AThen%20give%20a%20concise%20overview%20of%20Framer%3A%20what%20I%20can%20build%2C%20the%20editor%2C%20CMS%2C%20components%2C%20publishing%2C%20hosting%2C%20and%20analytics%20basics%2C%20and%20what%20updates%20automatically.%20Keep%20the%20answer%20short%2C%20concrete%2C%20and%20focused%20on%20day-to-day%20use.
+          - link "Gemini summary of Framer" [ref=f47e2618] [cursor=pointer]:
+            - /url: https://www.google.com/search?udm=50&q=How%20do%20Framer%E2%80%99s%20AI%20agent%20and%20external%20agents%20fit%20into%20a%20website%20workflow%3F%20Explain%20briefly%20how%20the%20built-in%20agent%20and%20external%20tools%20such%20as%20Claude%20Code%20and%20Codex%20connect%20to%20Framer%2C%20what%20each%20can%20do%2C%20how%20work%20moves%20between%20them%2C%20and%20what%20I%20remain%20responsible%20for.%0A%0AThen%20give%20a%20concise%20overview%20of%20Framer%3A%20what%20I%20can%20build%2C%20the%20editor%2C%20CMS%2C%20components%2C%20publishing%2C%20hosting%2C%20and%20analytics%20basics%2C%20and%20what%20updates%20automatically.%20Keep%20the%20answer%20short%2C%20concrete%2C%20and%20focused%20on%20day-to-day%20use.
+          - link "Perplexity summary of Framer" [ref=f47e2620] [cursor=pointer]:
+            - /url: https://www.perplexity.ai/search?q=How%20do%20Framer%E2%80%99s%20AI%20agent%20and%20external%20agents%20fit%20into%20a%20website%20workflow%3F%20Explain%20briefly%20how%20the%20built-in%20agent%20and%20external%20tools%20such%20as%20Claude%20Code%20and%20Codex%20connect%20to%20Framer%2C%20what%20each%20can%20do%2C%20how%20work%20moves%20between%20them%2C%20and%20what%20I%20remain%20responsible%20for.%0A%0AThen%20give%20a%20concise%20overview%20of%20Framer%3A%20what%20I%20can%20build%2C%20the%20editor%2C%20CMS%2C%20components%2C%20publishing%2C%20hosting%2C%20and%20analytics%20basics%2C%20and%20what%20updates%20automatically.%20Keep%20the%20answer%20short%2C%20concrete%2C%20and%20focused%20on%20day-to-day%20use.
+      - generic [ref=f47e2622]:
+        - paragraph [ref=f47e2624]: Trusted by
+        - link [ref=f47e2625] [cursor=pointer]:
+          - /url: https://app.eu.vanta.com/framer.com/trust/ow67ujg7iav0t6qtd1o6r2
+          - paragraph [ref=f47e2636]: CCPA
+      - link [ref=f47e2640] [cursor=pointer]:
+        - /url: https://www.framerstatus.com/
+        - paragraph [ref=f47e2644]: Checking status
+      - paragraph [ref=f47e2650]: Framer

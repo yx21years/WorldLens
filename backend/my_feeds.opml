@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>时事新闻 RSS 订阅源</title>
+  </head>
+  <body>
+    <!-- ========== 国际时事新闻 ========== -->
+    <outline text="国际时事新闻">
+      <outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.com/news" title="BBC World News"/>
+      <outline type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.com/news" title="BBC Top Stories"/>
+      <outline type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss" htmlUrl="https://www.cnn.com" title="CNN Top Stories"/>
+      <outline type="rss" xmlUrl="http://rss.cnn.com/rss/edition_world.rss" htmlUrl="https://www.cnn.com/world" title="CNN World News"/>
+      <outline type="rss" xmlUrl="https://feeds.reuters.com/Reuters/worldNews" htmlUrl="https://www.reuters.com/world" title="Reuters World News"/>
+      <outline type="rss" xmlUrl="https://feeds.reuters.com/reuters/businessNews" htmlUrl="https://www.reuters.com/business" title="Reuters Business"/>
+      <outline type="rss" xmlUrl="https://feeds.apnews.com/apnews/topnews" htmlUrl="https://apnews.com" title="AP Top News"/>
+      <outline type="rss" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" htmlUrl="https://www.aljazeera.com" title="Al Jazeera Top News"/>
+      <outline type="rss" xmlUrl="https://rsshub.app/nytimes/world" htmlUrl="https://www.nytimes.com/section/world" title="NY Times World (via RSSHub)"/>
+      <outline type="rss" xmlUrl="https://rsshub.app/washingtonpost/world" htmlUrl="https://www.washingtonpost.com/world" title="Washington Post World (via RSSHub)"/>
+    </outline>
+
+    <!-- ========== 中文时事新闻 ========== -->
+    <outline text="中文时事新闻">
+      <outline type="rss" xmlUrl="https://rsshub.app/zaobao/realtime/china" htmlUrl="https://www.zaobao.com/realtime/china" title="联合早报 - 中港台实时"/>
+      <outline type="rss" xmlUrl="https://rsshub.app/zaobao/realtime/world" htmlUrl="https://www.zaobao.com/realtime/world" title="联合早报 - 国际实时"/>
+      <outline type="rss" xmlUrl="https://feedx.net/rss/nytimes.xml" htmlUrl="https://cn.nytimes.com" title="纽约时报中文网"/>
+      <outline type="rss" xmlUrl="https://rsshub.app/ft/chinese" htmlUrl="https://www.ftchinese.com" title="FT中文网 (via RSSHub)"/>
+      <outline type="rss" xmlUrl="https://rsshub.app/bbc/chinese" htmlUrl="https://www.bbc.com/zhongwen" title="BBC中文网 (via RSSHub)"/>
+    </outline>
+
+    <!-- ========== 科技与AI前沿 ========== -->
+    <outline text="科技与AI前沿">
+      <outline type="rss" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news" title="OpenAI Blog"/>
+      <outline type="rss" xmlUrl="https://www.anthropic.com/rss.xml" htmlUrl="https://www.anthropic.com" title="Anthropic Blog"/>
+      <outline type="rss" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/blog" title="Google DeepMind Blog"/>
+      <outline type="rss" xmlUrl="https://research.google/blog/rss/" htmlUrl="https://research.google/blog" title="Google Research Blog"/>
+      <outline type="rss" xmlUrl="https://rss.arxiv.org/rss/cs.AI" htmlUrl="https://arxiv.org/list/cs.AI/recent" title="arXiv AI"/>
+      <outline type="rss" xmlUrl="https://rss.arxiv.org/rss/cs.LG" htmlUrl="https://arxiv.org/list/cs.LG/recent" title="arXiv Machine Learning"/>
+      <outline type="rss" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com" title="TechCrunch"/>
+      <outline type="rss" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com" title="The Verge"/>
+      <outline type="rss" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com" title="Hacker News (Official)"/>
+      <outline type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com" title="Hacker News Frontpage (hnrss)"/>
+    </outline>
+
+    <!-- ========== 财经与深度报道 ========== -->
+    <outline text="财经与深度报道">
+      <outline type="rss" xmlUrl="https://www.ft.com/rss/home/uk" htmlUrl="https://www.ft.com" title="Financial Times Home"/>
+      <outline type="rss" xmlUrl="https://rsshub.app/bloomberg/markets" htmlUrl="https://www.bloomberg.com/markets" title="Bloomberg Markets (via RSSHub)"/>
+      <outline type="rss" xmlUrl="https://www.economist.com/feeds/print-sections/77/world-news.xml" htmlUrl="https://www.economist.com/world-news" title="Economist World News"/>
+    </outline>
+
+    <!-- ========== 学术与科研 ========== -->
+    <outline text="学术与科研">
+      <outline type="rss" xmlUrl="https://www.nature.com/nature.rss" htmlUrl="https://www.nature.com/nature" title="Nature Latest"/>
+      <outline type="rss" xmlUrl="http://feeds.nature.com/nature/rss/current" htmlUrl="https://www.nature.com/nature/current" title="Nature Current Issue"/>
+      <outline type="rss" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl="https://www.sciencedaily.com" title="ScienceDaily All News"/>
+    </outline>
+  </body>
+</opml>

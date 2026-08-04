@@ -1,0 +1,36 @@
+# Default configuration — safe to commit
+# Override with .env for secrets and development.yaml for structure
+
+app:
+  name: "WorldLens AI"
+  version: "0.1.0"
+  api_port: 8000
+  debug: true
+
+database:
+  path: "./data/worldlens.db"
+
+llm:
+  provider: "zhipu"          # claude | openai | qwen | deepseek | zhipu | gemini
+  model: "glm-4.6v"        # for zhipu: glm-4.6v, glm-4; for gemini: gemini-2.5-flash, etc.
+  temperature: 0.3
+  max_tokens: 1000
+
+collection:
+  interval_minutes: 30
+  rss_feeds:
+    - name: "BBC World"
+      url: "http://feeds.bbci.co.uk/news/world/rss.xml"
+      country: "GB"
+    - name: "Reuters"
+      url: "https://feeds.reuters.com/reuters/worldNews"
+      country: "US"
+    - name: "Al Jazeera"
+      url: "https://www.aljazeera.com/xml/rss/all.xml"
+      country: "QA"
+
+briefing:
+  top_n: 10
+
+logging:
+  level: "INFO"

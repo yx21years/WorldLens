@@ -1,0 +1,257 @@
+- generic [active] [ref=f75e1]:
+  - generic [ref=f75e4]:
+    - navigation "Community" [ref=f75e5]:
+      - generic [ref=f75e6]:
+        - link "Framer Community Framer Community" [ref=f75e424] [cursor=pointer]:
+          - /url: /community/
+          - img "Framer Community" [ref=f75e425]
+          - generic [ref=f75e426]: Framer Community
+        - combobox "Search Community" [ref=f75e432]
+        - generic [ref=f75e13]: Discover
+        - link "Feed" [ref=f75e14] [cursor=pointer]:
+          - /url: /community/feed/
+        - link "Hype" [ref=f75e19] [cursor=pointer]:
+          - /url: /community/hype/
+        - link "Activity" [ref=f75e24] [cursor=pointer]:
+          - /url: /community/activity/
+      - generic [ref=f75e30]:
+        - generic [ref=f75e31]: Marketplace
+        - link "All" [ref=f75e32] [cursor=pointer]:
+          - /url: /community/marketplace/
+        - link "Templates" [ref=f75e37] [cursor=pointer]:
+          - /url: /community/marketplace/templates/
+        - link "Components" [ref=f75e42] [cursor=pointer]:
+          - /url: /community/marketplace/components/
+        - link "Vectors" [ref=f75e47] [cursor=pointer]:
+          - /url: /community/marketplace/vectors/
+        - link "Plugins" [ref=f75e52] [cursor=pointer]:
+          - /url: /community/marketplace/plugins/
+      - generic [ref=f75e58]:
+        - generic [ref=f75e59]: Community
+        - link "Gallery" [ref=f75e60] [cursor=pointer]:
+          - /url: /community/gallery/
+        - link "Members" [ref=f75e65] [cursor=pointer]:
+          - /url: /community/members/
+    - generic [ref=f75e71]:
+      - generic [ref=f75e76]:
+        - button "Go back" [ref=f75e77] [cursor=pointer]:
+          - generic [ref=f75e78]: Back
+        - navigation "Breadcrumb" [ref=f75e82]:
+          - link "Plugins" [ref=f75e84] [cursor=pointer]:
+            - /url: /community/marketplace/plugins/
+          - link "Categories" [ref=f75e88] [cursor=pointer]:
+            - /url: /community/marketplace/plugins/categories/
+          - link "Assets" [ref=f75e92] [cursor=pointer]:
+            - /url: /community/marketplace/plugins/categories/assets/
+      - generic [ref=f75e94]:
+        - generic [ref=f75e95]:
+          - heading "Offload · Cut Framer bandwidth by 90%" [level=1] [ref=f75e97]
+          - generic [ref=f75e99]:
+            - generic [ref=f75e100]:
+              - button "More options" [ref=f75e101] [cursor=pointer]
+              - button "0 comments" [ref=f75e105] [cursor=pointer]
+              - button "Like plugin" [ref=f75e108] [cursor=pointer]
+            - button "Open Plugin" [ref=f75e114] [cursor=pointer]
+        - generic [ref=f75e116]:
+          - region [ref=f75e117]:
+            - generic [ref=f75e434]:
+              - img "Offload" [ref=f75e436]
+              - img "Offload" [ref=f75e438]
+              - img "Offload" [ref=f75e440]
+              - img "Offload" [ref=f75e442]
+            - button "Next" [ref=f75e127] [cursor=pointer]
+            - generic "Carousel slides":
+              - button "Go to slide 1" [ref=f75e131] [cursor=pointer]
+              - button "Go to slide 2" [ref=f75e133] [cursor=pointer]
+              - button "Go to slide 3" [ref=f75e135] [cursor=pointer]
+              - button "Go to slide 4" [ref=f75e137] [cursor=pointer]
+          - button "Open preview" [ref=f75e139] [cursor=pointer]
+        - generic [ref=f75e143]:
+          - article [ref=f75e144]:
+            - generic [ref=f75e146]:
+              - generic [ref=f75e147]:
+                - heading "Why Offload?" [level=2] [ref=f75e148]
+                - paragraph [ref=f75e149]: Every new visitor downloads your heavy assets from Framer and it counts against your bandwidth. Offload moves those assets to its own infrastructure so your Framer meter barely moves. Real users see 90% less bandwidth usage after switching.
+                - paragraph [ref=f75e150]:
+                  - strong [ref=f75e151]: Trusted by 300+ Framer builders. 2 TB+ of bandwidth saved every month.
+                - paragraph [ref=f75e152]:
+                  - link "🌐 Learn more" [ref=f75e153] [cursor=pointer]:
+                    - /url: https://offload.framercoder.com
+              - figure "Reduce Framer bandwidth once and for all" [ref=f75e154]:
+                - img "YouTube video thumbnail for YouTube video player" [ref=f75e443] [cursor=pointer]
+                - button "Play" [ref=f75e155] [cursor=pointer]
+              - generic [ref=f75e160]:
+                - heading "How It Works" [level=3] [ref=f75e161]
+                - paragraph [ref=f75e162]: No technical setup. No workflow changes. Upload from your computer, pick assets from the canvas, offload CMS collections, or scan any live URL to find your heaviest files. Everything runs inside Framer. Drag, drop, optimize, insert, done.
+                - heading "Key Features" [level=3] [ref=f75e163]
+                - list [ref=f75e164]:
+                  - listitem [ref=f75e165]:
+                    - paragraph [ref=f75e166]: Auto WebP Conversion — JPEG and PNG files auto-convert to WebP on upload. 50–90% smaller files, zero extra work.
+                  - listitem [ref=f75e167]:
+                    - paragraph [ref=f75e168]: Responsive Image Optimization — Auto-generates tablet (1200px) and mobile (720px) variants with srcSet support. Visitors always download the right-sized file.
+                  - listitem [ref=f75e169]:
+                    - paragraph [ref=f75e170]: In-Framer Video Compression — Compress videos directly in Framer. Pick resolution (480p–2880p), adjust quality, strip audio, generate poster frames. No server upload needed.
+                  - listitem [ref=f75e171]:
+                    - paragraph [ref=f75e172]: CMS Offloading — Offload images and videos from entire Framer CMS collections in bulk. Auto-creates organized folders per collection with full WebP and responsive variant support.
+                  - listitem [ref=f75e173]:
+                    - paragraph [ref=f75e174]: Site URL Scanner — Paste any live Framer site URL to detect and rank heavy assets by size and bandwidth impact. One-click offload per asset with estimated savings.
+                  - listitem [ref=f75e175]:
+                    - paragraph [ref=f75e176]: Folders & Asset Management — Search, sort, drag between folders, batch upload, bulk delete. Your complete media library inside Framer.
+                  - listitem [ref=f75e177]:
+                    - paragraph [ref=f75e178]: Canvas & Batch Upload — Select one or more assets on the Framer canvas and offload in one click, or drop files from your computer onto any folder.
+                  - listitem [ref=f75e179]:
+                    - paragraph [ref=f75e180]: One-Click Insertion — Insert optimized assets (including tablet and mobile variants) straight back into your Framer canvas.
+                  - listitem [ref=f75e181]:
+                    - paragraph [ref=f75e182]: Bandwidth Savings Calculator — See real-time cost savings and track usage across projects.
+                  - listitem [ref=f75e183]:
+                    - paragraph [ref=f75e184]: Global CDN Delivery — Fast worldwide load times via Cloudflare's edge network.
+                - heading "Who Is Offload For?" [level=3] [ref=f75e185]
+                - paragraph [ref=f75e186]: Framer designers hitting bandwidth limits. Agencies managing multiple client sites with heavy video content. Solo creators building image-rich portfolios. Anyone getting bandwidth overage emails from Framer or trying to avoid upgrading to a higher Framer plan.
+                - paragraph [ref=f75e187]: Offload scales from a single freelance site to a full agency workflow.
+                - heading "Pricing" [level=3] [ref=f75e188]
+                - paragraph [ref=f75e189]: All plans include unlimited bandwidth. You only pay for storage.
+                - list [ref=f75e190]:
+                  - listitem [ref=f75e191]:
+                    - paragraph [ref=f75e192]: Starter (Free) — 250MB storage, 25 assets, 1 project
+                  - listitem [ref=f75e193]:
+                    - paragraph [ref=f75e194]: Creator — 5GB storage, unlimited assets, 10 projects
+                  - listitem [ref=f75e195]:
+                    - paragraph [ref=f75e196]: Studio — 50GB storage, unlimited assets, unlimited projects
+                  - listitem [ref=f75e197]:
+                    - paragraph [ref=f75e198]: Agency — 200GB storage, unlimited assets, unlimited projects
+                - paragraph [ref=f75e199]: Start free and upgrade anytime.
+            - generic [ref=f75e200]:
+              - button "Like plugin" [ref=f75e201] [cursor=pointer]:
+                - generic [ref=f75e206]: "30"
+              - button "0 comments" [ref=f75e211] [cursor=pointer]
+              - generic [ref=f75e215]:
+                - generic [ref=f75e216]: Updated 3mo ago
+                - generic [ref=f75e217]: ·
+                - button "View activity" [ref=f75e218] [cursor=pointer]
+          - complementary [ref=f75e220]:
+            - generic [ref=f75e221]:
+              - heading "Details" [level=2] [ref=f75e223]
+              - generic [ref=f75e225]:
+                - generic [ref=f75e226]:
+                  - term [ref=f75e227]: Creator
+                  - definition [ref=f75e228]:
+                    - button [ref=f75e444] [cursor=pointer]:
+                      - link "David McBacon David McBacon" [ref=f75e445]:
+                        - /url: /community/creator/@david-mcbacon/
+                        - img "David McBacon" [ref=f75e446]
+                        - generic [ref=f75e447]: David McBacon
+                - generic [ref=f75e233]:
+                  - term [ref=f75e234]: Published
+                  - definition [ref=f75e235]: February 12, 2026
+                - generic [ref=f75e236]:
+                  - term [ref=f75e237]: License
+                  - definition [ref=f75e238]:
+                    - link "Limited License" [ref=f75e239] [cursor=pointer]:
+                      - /url: https://www.framer.com/legal/community-terms/
+                - generic [ref=f75e240]:
+                  - term [ref=f75e241]: Pricing
+                  - definition [ref=f75e242]: Paid
+            - generic [ref=f75e243]:
+              - generic [ref=f75e244]:
+                - heading "Categories" [level=2] [ref=f75e245]
+                - link "See all" [ref=f75e246] [cursor=pointer]:
+                  - /url: /community/marketplace/plugins/categories/
+              - list "Categories" [ref=f75e248]:
+                - listitem [ref=f75e249]:
+                  - link "Featured" [ref=f75e250] [cursor=pointer]:
+                    - /url: /community/marketplace/plugins/featured/
+                - listitem [ref=f75e251]:
+                  - link "Assets" [ref=f75e252] [cursor=pointer]:
+                    - /url: /community/marketplace/plugins/categories/assets/
+          - generic [ref=f75e256]:
+            - textbox "Reply…" [ref=f75e449]:
+              - paragraph [ref=f75e450]: Reply…
+            - button [disabled]
+          - generic [ref=f75e279]:
+            - generic [ref=f75e280]:
+              - generic [ref=f75e281]:
+                - heading "More from David McBacon" [level=2] [ref=f75e282]
+                - link "See all" [ref=f75e283] [cursor=pointer]:
+                  - /url: /@david-mcbacon/?tab=marketplace
+              - generic [ref=f75e284]:
+                - generic [ref=f75e285] [cursor=pointer]:
+                  - link "Stop Overscrolling" [ref=f75e286]:
+                    - /url: /community/marketplace/plugins/stop-overscrolling/
+                  - button "Open preview" [ref=f75e287]
+                  - generic [ref=f75e290]:
+                    - generic:
+                      - img "Stop Overscrolling"
+                  - generic [ref=f75e291]:
+                    - link "Stop Overscrolling" [ref=f75e294]:
+                      - /url: /community/marketplace/plugins/stop-overscrolling/
+                    - button "Like plugin" [ref=f75e297]:
+                      - generic [ref=f75e302]: "17"
+                - generic [ref=f75e307] [cursor=pointer]:
+                  - link "3Drop" [ref=f75e308]:
+                    - /url: /community/marketplace/plugins/3drop/
+                  - button "Open preview" [ref=f75e309]
+                  - generic [ref=f75e312]:
+                    - generic:
+                      - img "3Drop"
+                  - generic [ref=f75e313]:
+                    - link "3Drop" [ref=f75e316]:
+                      - /url: /community/marketplace/plugins/3drop/
+                    - button "Like plugin" [ref=f75e319]:
+                      - generic [ref=f75e324]: "40"
+                - generic [ref=f75e329] [cursor=pointer]:
+                  - link "Context Picker" [ref=f75e330]:
+                    - /url: /community/marketplace/plugins/context-picker/
+                  - button "Open preview" [ref=f75e331]
+                  - generic [ref=f75e334]:
+                    - generic:
+                      - img "Context Picker"
+                  - generic [ref=f75e335]:
+                    - link "Context Picker" [ref=f75e338]:
+                      - /url: /community/marketplace/plugins/context-picker/
+                    - button "Like plugin" [ref=f75e341]:
+                      - generic [ref=f75e346]: "64"
+            - generic [ref=f75e351]:
+              - generic [ref=f75e353]:
+                - heading "Related Plugins" [level=2] [ref=f75e354]
+                - link "See all" [ref=f75e355] [cursor=pointer]:
+                  - /url: /community/marketplace/plugins/
+              - generic [ref=f75e356]:
+                - generic [ref=f75e357] [cursor=pointer]:
+                  - link "Device Mockups" [ref=f75e358]:
+                    - /url: /community/marketplace/plugins/device-mockups/
+                  - button "Open preview" [ref=f75e359]
+                  - generic [ref=f75e362]:
+                    - generic:
+                      - img "Device Mockups"
+                  - generic [ref=f75e363]:
+                    - link "Device Mockups" [ref=f75e366]:
+                      - /url: /community/marketplace/plugins/device-mockups/
+                    - button "Like plugin" [ref=f75e369]:
+                      - generic [ref=f75e374]: "6"
+                - generic [ref=f75e379] [cursor=pointer]:
+                  - link "Project Analyzer" [ref=f75e380]:
+                    - /url: /community/marketplace/plugins/project-analyzer/
+                  - button "Open preview" [ref=f75e381]
+                  - generic [ref=f75e384]:
+                    - generic:
+                      - img "Project Analyzer"
+                  - generic [ref=f75e385]:
+                    - link "Project Analyzer" [ref=f75e388]:
+                      - /url: /community/marketplace/plugins/project-analyzer/
+                    - button "Like plugin" [ref=f75e391]:
+                      - generic [ref=f75e396]: "13"
+                - generic [ref=f75e401] [cursor=pointer]:
+                  - link "Nebulang - Website Translator" [ref=f75e402]:
+                    - /url: /community/marketplace/plugins/nebula-instant-translate/
+                  - button "Open preview" [ref=f75e403]
+                  - generic [ref=f75e406]:
+                    - generic:
+                      - img "Nebulang - Website Translator"
+                  - generic [ref=f75e407]:
+                    - link "Nebulang - Website Translator" [ref=f75e410]:
+                      - /url: /community/marketplace/plugins/nebula-instant-translate/
+                    - button "Like plugin" [ref=f75e413]:
+                      - generic [ref=f75e418]: "10"
+  - region "Notifications (F8)":
+    - list
+  - alert [ref=f75e423]

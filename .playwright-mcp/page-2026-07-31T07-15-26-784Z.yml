@@ -1,0 +1,824 @@
+- generic [ref=f36e1]:
+  - generic [ref=f36e2]:
+    - generic [ref=f36e3]:
+      - navigation [ref=f36e6]:
+        - generic [ref=f36e8]:
+          - generic [ref=f36e9]:
+            - link [ref=f36e11] [cursor=pointer]:
+              - /url: ../
+              - paragraph [ref=f36e14]: Framer
+            - generic [ref=f36e15]:
+              - paragraph [ref=f36e21]: Solutions
+              - paragraph [ref=f36e28]: Platform
+              - paragraph [ref=f36e35]: Community
+              - paragraph [ref=f36e42]: Resources
+              - link [ref=f36e45] [cursor=pointer]:
+                - /url: ../enterprise/
+                - paragraph [ref=f36e49]: Enterprise
+              - link [ref=f36e52] [cursor=pointer]:
+                - /url: ../pricing
+                - paragraph [ref=f36e56]: Pricing
+            - generic [ref=f36e61]:
+              - paragraph [ref=f36e65] [cursor=pointer]:
+                - link "Log in" [ref=f36e66]:
+                  - /url: https://framer.com/r/login
+              - link [ref=f36e69] [cursor=pointer]:
+                - /url: https://www.framer.com/r/signup/
+                - paragraph [ref=f36e71]: Sign up
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Copy logo SVG
+              - generic:
+                - link "Brand guidelines":
+                  - /url: ../brand
+                  - generic:
+                    - generic:
+                      - generic:
+                        - paragraph: Brand guidelines
+      - generic [ref=f36e1351]:
+        - generic [ref=f36e1353]:
+          - generic [ref=f36e1355]:
+            - heading "AI website builder for designers and teams" [level=1] [ref=f36e1357]
+            - generic [ref=f36e1358]:
+              - generic [ref=f36e1359]:
+                - link [ref=f36e1361] [cursor=pointer]:
+                  - /url: https://framer.com/r/signup/
+                  - paragraph [ref=f36e1363]: Get started for free
+                - link [ref=f36e1367] [cursor=pointer]:
+                  - /url: https://updates.framer.com/electron/win32/x64/Framer.exe?_ga=2.113395847.1447313862.1646043056-273660571.1642151053
+                  - paragraph [ref=f36e1369]: Download app
+              - link [ref=f36e1372] [cursor=pointer]:
+                - /url: ../academy/lessons/framer-agents-generation-layout-style
+                - paragraph [ref=f36e1374]: Watch demo
+          - img "Preview of Framer AI agents working on a website design." [ref=f36e1381]
+        - generic [ref=f36e1382]:
+          - heading "Create with AI. Stay in control from canvas to publish." [level=2] [ref=f36e1386]
+          - generic [ref=f36e1388]:
+            - generic [ref=f36e1389]:
+              - img "Website generation in Framer" [ref=f36e1393]
+              - generic [ref=f36e1394]:
+                - generic [ref=f36e1395]:
+                  - heading "How Framer’s AI website builder works" [level=3] [ref=f36e1397]
+                  - paragraph [ref=f36e1399]: Describe the website, page, or update you need. Framer’s AI agent creates editable pages, sections, copy, and visuals directly in your project. Keep refining in the conversation, or take over on the canvas at any point.
+                - link [ref=f36e1401] [cursor=pointer]:
+                  - /url: https://www.framer.com/signup/
+                  - paragraph [ref=f36e1403]: Start with Agents
+            - generic [ref=f36e1406]:
+              - img "Mobile preview showing an AI-generated website design in Framer." [ref=f36e1410]
+              - generic [ref=f36e1411]:
+                - generic [ref=f36e1412]:
+                  - heading "Design responsive websites with AI and full control" [level=3] [ref=f36e1414]
+                  - paragraph [ref=f36e1416]: Start from a prompt and use the Framer canvas to refine layouts, typography, components, breakpoints, spacing, color, and effects. AI helps you move faster while you make the final design decisions.
+                - link [ref=f36e1418] [cursor=pointer]:
+                  - /url: https://www.framer.com/signup/
+                  - paragraph [ref=f36e1420]: Start with Agents
+            - generic [ref=f36e1423]:
+              - img "Mobile preview showing site management tools in Framer." [ref=f36e1427]
+              - generic [ref=f36e1428]:
+                - generic [ref=f36e1429]:
+                  - heading "Manage website content with AI agents" [level=3] [ref=f36e1431]
+                  - paragraph [ref=f36e1433]: Create collections, populate CMS content, and keep your site organized. Framer’s AI agent works directly with your CMS and canvas, so content, design, and publishing workflows stay connected.
+                - link [ref=f36e1435] [cursor=pointer]:
+                  - /url: https://www.framer.com/signup/
+                  - paragraph [ref=f36e1437]: Start with Agents
+            - generic [ref=f36e1440]:
+              - img "Mobile preview showing code editing with Framer AI." [ref=f36e1444]
+              - generic [ref=f36e1445]:
+                - generic [ref=f36e1446]:
+                  - heading "Build custom code with an AI agent" [level=3] [ref=f36e1448]
+                  - paragraph [ref=f36e1450]: Describe the interaction or live feature you need, and the AI agent can build a code component for your site. Review the result, refine it in Framer, and keep it connected to your design system.
+                - link [ref=f36e1452] [cursor=pointer]:
+                  - /url: https://www.framer.com/signup/
+                  - paragraph [ref=f36e1454]: Start with Agents
+            - generic [ref=f36e1457]:
+              - img "Mobile preview showing AI review feedback in Framer." [ref=f36e1461]
+              - generic [ref=f36e1462]:
+                - generic [ref=f36e1463]:
+                  - heading "Review and improve your website with AI" [level=3] [ref=f36e1465]
+                  - paragraph [ref=f36e1467]: Ask the AI agent to review your site before publishing. It can identify contrast issues, typos, missing alt text, SEO gaps, and inconsistent styles, then help you fix them in the same project.
+                - link [ref=f36e1469] [cursor=pointer]:
+                  - /url: https://www.framer.com/signup/
+                  - paragraph [ref=f36e1471]: Start with Agents
+            - generic [ref=f36e1474]:
+              - img "Mobile preview showing AI improvements to a website in Framer." [ref=f36e1478]
+              - generic [ref=f36e1479]:
+                - generic [ref=f36e1480]:
+                  - heading "Use AI analytics to improve your website" [level=3] [ref=f36e1482]
+                  - paragraph [ref=f36e1484]: Ask the AI agent to analyze traffic and turn it into practical next steps. Review top pages, drop-offs, search intent, and conversion gaps, then refine the site directly in Framer.
+                - link [ref=f36e1486] [cursor=pointer]:
+                  - /url: https://www.framer.com/signup/
+                  - paragraph [ref=f36e1488]: Start with Agents
+        - generic [ref=f36e1491]:
+          - generic [ref=f36e1493]:
+            - heading "Connect Claude Code and Codex to Framer" [level=2] [ref=f36e1496]
+            - generic [ref=f36e1499]:
+              - button "Copy" [ref=f36e1505] [cursor=pointer]
+              - paragraph [ref=f36e1510]:
+                - code [ref=f36e1511]: Copy install prompt
+          - generic [ref=f36e1514]:
+            - generic [ref=f36e1516]:
+              - generic [ref=f36e1518]:
+                - paragraph [ref=f36e1521]: What our users say
+                - generic [ref=f36e1525]:
+                  - generic [ref=f36e1528]:
+                    - generic [ref=f36e1532]:
+                      - paragraph [ref=f36e1534]: Name Sample
+                      - paragraph [ref=f36e1536]: "@NameSample"
+                    - paragraph [ref=f36e1540]: Our team went from spending half our Monday on manual updates to having everything ready before we even sit down. That kind of time back is priceless when you're a small team wearing a lot of hats.
+                  - generic [ref=f36e1545]:
+                    - generic [ref=f36e1546]:
+                      - img "Image interface preview in 2026 AI Page/AI Live Data." [ref=f36e1551]
+                      - generic [ref=f36e1552]:
+                        - paragraph [ref=f36e1554]: Name Sample
+                        - paragraph [ref=f36e1556]: "@NameSample"
+                    - paragraph [ref=f36e1560]: Our team went from spending half our Monday on manual updates to having everything ready before we even sit down. That kind of time back is priceless when you're a small team wearing a lot of hats.
+              - generic [ref=f36e1565]:
+                - generic [ref=f36e1567]:
+                  - paragraph [ref=f36e1574]: framer-agent
+                  - generic [ref=f36e1576]:
+                    - generic [ref=f36e1577]:
+                      - paragraph [ref=f36e1580] [cursor=pointer]: claude
+                      - paragraph [ref=f36e1585] [cursor=pointer]: cursor
+                      - paragraph [ref=f36e1590] [cursor=pointer]: codex
+                    - link [ref=f36e1593] [cursor=pointer]:
+                      - /url: ../agents/external/
+                - generic [ref=f36e1595]:
+                  - paragraph [ref=f36e1603]: Initializing Agent environment...└ Node.js detected.└ twitter-api-v2 loaded.
+                  - generic [ref=f36e1610]:
+                    - paragraph [ref=f36e1611]: Skill(check-auth-status)└ Authenticated with X API.
+                    - paragraph [ref=f36e1612]: └ Authenticated with Framer API.
+                  - paragraph [ref=f36e1620]: Bash(GET /2/tweets/search/recent --query "@keyframe -is:retweet" --max 100)└ 187 returned · 27 passed like_count ≥ 100.
+                  - generic [ref=f36e1627]:
+                    - paragraph [ref=f36e1628]:
+                      - text: Bash
+                      - strong [ref=f36e1629]: (GET /2/users/:id × 6)
+                    - paragraph [ref=f36e1630]: └ name, handle, avatar resolved.
+                  - paragraph [ref=f36e1635]: 27 posts live · refreshes every 5 min.
+            - generic [ref=f36e1636]:
+              - generic [ref=f36e1639] [cursor=pointer]:
+                - heading [level=6] [ref=f36e1642]:
+                  - emphasis [ref=f36e1643]: Pull in live data
+                - paragraph [ref=f36e1645]: Run scripts and workers that refresh site content from live APIs.
+              - generic [ref=f36e1652] [cursor=pointer]:
+                - heading [level=6] [ref=f36e1655]:
+                  - emphasis [ref=f36e1656]: Migrate and import
+                - paragraph [ref=f36e1658]: Import from sources like Notion, WordPress, or other APIs into your CMS.
+              - generic [ref=f36e1662] [cursor=pointer]:
+                - heading [level=6] [ref=f36e1665]:
+                  - emphasis [ref=f36e1666]: Import local files
+                - paragraph [ref=f36e1668]: Pull local files from your machine to fill in CMS content.
+        - generic [ref=f36e1670]:
+          - heading "Explore more ways to boost your productivity with AI agents in Framer" [level=2] [ref=f36e1673]
+          - generic [ref=f36e1675]:
+            - link [ref=f36e1677] [cursor=pointer]:
+              - /url: ../agents/#update
+              - paragraph [ref=f36e1685]: Update your existing site
+            - link [ref=f36e1688] [cursor=pointer]:
+              - /url: ../agents/#design
+              - paragraph [ref=f36e1696]: Style your site
+            - link [ref=f36e1699] [cursor=pointer]:
+              - /url: ../agents/#new-sites
+              - paragraph [ref=f36e1707]: Build sites from scratch
+            - link [ref=f36e1710] [cursor=pointer]:
+              - /url: ../agents/#migrate
+              - paragraph [ref=f36e1718]: Migrate from another tool
+            - link [ref=f36e1721] [cursor=pointer]:
+              - /url: ../agents/#responsive
+              - paragraph [ref=f36e1729]: Make sites responsive
+            - link [ref=f36e1732] [cursor=pointer]:
+              - /url: ../agents/#components
+              - paragraph [ref=f36e1740]: Build custom components
+            - link [ref=f36e1743] [cursor=pointer]:
+              - /url: ../agents/#seo
+              - paragraph [ref=f36e1751]: SEO and analytics
+            - link [ref=f36e1754] [cursor=pointer]:
+              - /url: ../agents/#cms
+              - paragraph [ref=f36e1762]: Manage CMS content
+            - link [ref=f36e1765] [cursor=pointer]:
+              - /url: ../agents/#audit
+              - paragraph [ref=f36e1773]: Fix and audit your site
+            - link [ref=f36e1776] [cursor=pointer]:
+              - /url: ../agents/#external
+              - paragraph [ref=f36e1784]: External agents
+        - generic [ref=f36e1787]:
+          - heading "All the control you need, right where you work" [level=2] [ref=f36e1790]
+          - generic [ref=f36e1791]:
+            - generic [ref=f36e1792]:
+              - img "Skills panel showing AI agent capabilities in Framer." [ref=f36e1796]
+              - paragraph [ref=f36e1798]:
+                - text: Skills. Type
+                - code [ref=f36e1799]: /
+                - text: to run AI actions for layouts, CMS, and more.
+            - generic [ref=f36e1800]:
+              - img "Context panel showing connected project knowledge for AI agents." [ref=f36e1804]
+              - paragraph [ref=f36e1806]:
+                - strong [ref=f36e1808]: Contexts.
+                - text: Select layers on the canvas and add them as context to your chat.
+            - generic [ref=f36e1809]:
+              - img "Chat interface for working with AI agents in Framer." [ref=f36e1813]
+              - paragraph [ref=f36e1815]:
+                - generic [ref=f36e1816]:
+                  - text: Chats
+                  - strong [ref=f36e1817]: .
+                - text: Start a new one for each task to keep the agent focused.
+            - generic [ref=f36e1818]:
+              - img "Model picker interface for choosing an AI model in Framer." [ref=f36e1822]
+              - paragraph [ref=f36e1824]: Models. Choose GPT, Sonnet, Opus, or Fable depending on the task.
+            - generic [ref=f36e1825]:
+              - img "Mentions panel showing referenced files and project context." [ref=f36e1829]
+              - paragraph [ref=f36e1831]:
+                - text: Mentions. Type
+                - code [ref=f36e1832]: "@"
+                - text: to reference pages, CMS collections, styles, or assets.
+            - generic [ref=f36e1833]:
+              - generic [ref=f36e1837]:
+                - generic [ref=f36e1840]:
+                  - generic [ref=f36e1842]:
+                    - generic [ref=f36e1843]:
+                      - paragraph [ref=f36e1847]: DESIGN.md
+                      - paragraph [ref=f36e1849]: Update the padding,
+                    - paragraph [ref=f36e1851]: buttons, and icons on my site to match this file.
+                  - paragraph [ref=f36e1859]: GPT 5.6 Terra
+                - generic [ref=f36e1874]:
+                  - generic [ref=f36e1876]:
+                    - img "Google Sheets file icon" [ref=f36e1880]
+                    - paragraph [ref=f36e1882]: blog.csv
+                  - generic [ref=f36e1884]:
+                    - img "Google Sheets file icon" [ref=f36e1888]
+                    - paragraph [ref=f36e1890]: DESIGN.md
+                  - generic [ref=f36e1892]:
+                    - img "AI file management preview" [ref=f36e1895]
+                    - paragraph [ref=f36e1899]: shader.mp4
+                  - generic [ref=f36e1901]:
+                    - img "Google Sheets file icon" [ref=f36e1905]
+                    - paragraph [ref=f36e1907]: data.json
+                  - generic [ref=f36e1909]:
+                    - img "Google Sheets file icon" [ref=f36e1913]
+                    - paragraph [ref=f36e1915]: component.tsx
+                  - generic [ref=f36e1917]:
+                    - img "AI file management preview" [ref=f36e1920]
+                    - paragraph [ref=f36e1922]: screenshot.png
+                  - generic [ref=f36e1924]:
+                    - img "Google Sheets file icon" [ref=f36e1928]
+                    - paragraph [ref=f36e1930]: blog.csv
+                  - generic [ref=f36e1932]:
+                    - img "Google Sheets file icon" [ref=f36e1936]
+                    - paragraph [ref=f36e1938]: DESIGN.md
+                  - generic [ref=f36e1940]:
+                    - img "AI file management preview" [ref=f36e1943]
+                    - paragraph [ref=f36e1947]: shader.mp4
+                  - generic [ref=f36e1949]:
+                    - img "Google Sheets file icon" [ref=f36e1953]
+                    - paragraph [ref=f36e1955]: data.json
+                  - generic [ref=f36e1957]:
+                    - img "Google Sheets file icon" [ref=f36e1961]
+                    - paragraph [ref=f36e1963]: component.tsx
+                  - generic [ref=f36e1965]:
+                    - img "AI file management preview" [ref=f36e1968]
+                    - paragraph [ref=f36e1970]: screenshot.png
+                  - generic [ref=f36e1972]:
+                    - img "Google Sheets file icon" [ref=f36e1976]
+                    - paragraph [ref=f36e1978]: blog.csv
+              - paragraph [ref=f36e1980]: References. Upload images, files, or URLs to guide AI toward the exact result you want.
+            - generic [ref=f36e1981]:
+              - img "Branches panel showing agent changes ready for review." [ref=f36e1985]
+              - paragraph [ref=f36e1988]:
+                - link "Branches" [ref=f36e1989] [cursor=pointer]:
+                  - /url: ../collaborate/
+                - strong [ref=f36e1991]: .
+                - text: Iterate safely by moving AI agent edits to a branch.
+        - generic [ref=f36e1992]:
+          - heading "Create, manage, and publish your website in Framer" [level=2] [ref=f36e1995]
+          - list [ref=f36e1996]:
+            - listitem [ref=f36e1997]:
+              - link [ref=f36e1998] [cursor=pointer]:
+                - /url: ../design/
+                - generic [ref=f36e2001]:
+                  - paragraph [ref=f36e2003]: Design
+                  - paragraph [ref=f36e2005]: Design responsive sites on a visual canvas.
+            - listitem [ref=f36e2006]:
+              - link [ref=f36e2007] [cursor=pointer]:
+                - /url: ../agents/
+                - generic [ref=f36e2010]:
+                  - paragraph [ref=f36e2012]: Agents
+                  - paragraph [ref=f36e2014]: Use AI to edit and maintain pages.
+            - listitem [ref=f36e2015]:
+              - link [ref=f36e2016] [cursor=pointer]:
+                - /url: ../agents/external/
+                - generic [ref=f36e2019]:
+                  - paragraph [ref=f36e2021]: External agents
+                  - paragraph [ref=f36e2023]: Connect Claude Code, Cursor, Codex, and more.
+            - listitem [ref=f36e2024]:
+              - link [ref=f36e2025] [cursor=pointer]:
+                - /url: ../cms/
+                - generic [ref=f36e2028]:
+                  - paragraph [ref=f36e2030]: CMS
+                  - paragraph [ref=f36e2032]: Structure content and publish dynamic pages.
+            - listitem [ref=f36e2033]:
+              - link [ref=f36e2034] [cursor=pointer]:
+                - /url: ../collaborate/
+                - generic [ref=f36e2037]:
+                  - paragraph [ref=f36e2039]: Collaborate
+                  - paragraph [ref=f36e2041]: Work together with branches and staging.
+            - listitem [ref=f36e2042]:
+              - link [ref=f36e2043] [cursor=pointer]:
+                - /url: ../seo/
+                - generic [ref=f36e2046]:
+                  - paragraph [ref=f36e2048]: SEO
+                  - paragraph [ref=f36e2050]: Improve visibility with built-in SEO tools.
+            - listitem [ref=f36e2051]:
+              - link [ref=f36e2052] [cursor=pointer]:
+                - /url: ../convert/
+                - generic [ref=f36e2055]:
+                  - paragraph [ref=f36e2057]: Convert
+                  - paragraph [ref=f36e2059]: Build, test, and grow high-converting sites.
+            - listitem [ref=f36e2060]:
+              - link [ref=f36e2061] [cursor=pointer]:
+                - /url: ../hosting/
+                - generic [ref=f36e2064]:
+                  - paragraph [ref=f36e2066]: Hosting
+                  - paragraph [ref=f36e2068]: Deploy fast sites on global infrastructure.
+            - listitem [ref=f36e2069]:
+              - link [ref=f36e2070] [cursor=pointer]:
+                - /url: ../performance/
+                - generic [ref=f36e2073]:
+                  - paragraph [ref=f36e2075]: Performance
+                  - paragraph [ref=f36e2077]: Keep pages fast with built-in optimization.
+            - listitem [ref=f36e2078]:
+              - link [ref=f36e2079] [cursor=pointer]:
+                - /url: ../publish/
+                - generic [ref=f36e2082]:
+                  - paragraph [ref=f36e2084]: Publish
+                  - paragraph [ref=f36e2086]: Go from design to live site in seconds.
+        - generic [ref=f36e2088]:
+          - heading "Frequently asked questions" [level=2] [ref=f36e2090]
+          - generic [ref=f36e2091]:
+            - generic [ref=f36e2092]:
+              - heading "What is an AI website builder?" [level=3] [ref=f36e2094]
+              - paragraph [ref=f36e2096]: An AI website builder uses AI to help create website structure, copy, visuals, and design direction from a prompt or an existing project. In Framer, AI works with editable website layers, so you can refine the result on the canvas, adjust responsive layouts, manage content, and publish a finished site.
+            - generic [ref=f36e2097]:
+              - heading "Can I edit a website created with AI in Framer?" [level=3] [ref=f36e2099]
+              - paragraph [ref=f36e2101]: Yes. Framer creates editable website layers rather than a fixed generated image or locked template. You can update layout, typography, components, styles, breakpoints, effects, copy, images, and CMS content directly in Framer while AI helps with the work.
+            - generic [ref=f36e2102]:
+              - heading "Can I publish and manage an AI-built website with Framer?" [level=3] [ref=f36e2104]
+              - paragraph [ref=f36e2106]: Yes. Framer combines AI-assisted creation with CMS content management, branching and review workflows, hosting, SEO settings, redirects, analytics, and publishing. Teams can create or update a site with AI, review the work, and publish approved changes from the same platform.
+      - generic [ref=f36e668]:
+        - banner [ref=f36e669]:
+          - heading "Your next idea starts here" [level=2] [ref=f36e671]
+        - generic [ref=f36e673]:
+          - generic [ref=f36e675]:
+            - textbox "Create a complete" [ref=f36e2199]:
+              - /placeholder: "Create a complete "
+            - generic [ref=f36e680]:
+              - paragraph [ref=f36e683] [cursor=pointer]: GPT 5.6 Terra
+              - button [ref=f36e687] [cursor=pointer]
+          - generic [ref=f36e689]:
+            - paragraph [ref=f36e692] [cursor=pointer]: Create personal portfolio
+            - paragraph [ref=f36e695] [cursor=pointer]: Build startup site
+            - paragraph [ref=f36e698] [cursor=pointer]:
+              - code [ref=f36e699]: Launch landing page
+            - paragraph [ref=f36e702] [cursor=pointer]: Start company blog
+        - link [ref=f36e704] [cursor=pointer]:
+          - /url: https://framer.com/signup
+          - paragraph [ref=f36e706]: Start without AI
+      - contentinfo [ref=f36e712]:
+        - generic [ref=f36e713]:
+          - link [ref=f36e715] [cursor=pointer]:
+            - /url: ../
+            - paragraph [ref=f36e718]: Framer
+          - generic [ref=f36e720]:
+            - list [ref=f36e722]:
+              - listitem [ref=f36e723]:
+                - paragraph [ref=f36e726]: Product
+              - listitem [ref=f36e727]:
+                - link [ref=f36e728] [cursor=pointer]:
+                  - /url: ./
+                  - paragraph [ref=f36e730]: AI
+                  - paragraph [ref=f36e735]: New
+              - listitem [ref=f36e736]:
+                - link [ref=f36e737] [cursor=pointer]:
+                  - /url: ../agents/
+                  - paragraph [ref=f36e739]: Agents
+                  - paragraph [ref=f36e744]: New
+              - listitem [ref=f36e745]:
+                - link [ref=f36e746] [cursor=pointer]:
+                  - /url: ../agents/external/
+                  - paragraph [ref=f36e748]: External Agents
+                  - paragraph [ref=f36e753]: New
+              - listitem [ref=f36e754]:
+                - link [ref=f36e755] [cursor=pointer]:
+                  - /url: ../design/
+                  - paragraph [ref=f36e757]: Design
+              - listitem [ref=f36e758]:
+                - link [ref=f36e759] [cursor=pointer]:
+                  - /url: ../collaborate/
+                  - paragraph [ref=f36e761]: Collaborate
+                  - paragraph [ref=f36e766]: New
+              - listitem [ref=f36e767]:
+                - link [ref=f36e768] [cursor=pointer]:
+                  - /url: ../cms/
+                  - paragraph [ref=f36e770]: CMS
+              - listitem [ref=f36e771]:
+                - link [ref=f36e772] [cursor=pointer]:
+                  - /url: ../hosting/
+                  - paragraph [ref=f36e774]: Hosting
+              - listitem [ref=f36e775]:
+                - link [ref=f36e776] [cursor=pointer]:
+                  - /url: ../performance/
+                  - paragraph [ref=f36e778]: Performance
+              - listitem [ref=f36e779]:
+                - link [ref=f36e780] [cursor=pointer]:
+                  - /url: ../seo/
+                  - paragraph [ref=f36e782]: SEO
+              - listitem [ref=f36e783]:
+                - link [ref=f36e784] [cursor=pointer]:
+                  - /url: ../convert/
+                  - paragraph [ref=f36e786]: Convert
+              - listitem [ref=f36e787]:
+                - link [ref=f36e788] [cursor=pointer]:
+                  - /url: ../publish/
+                  - paragraph [ref=f36e790]: Publish
+              - listitem [ref=f36e791]:
+                - link [ref=f36e792] [cursor=pointer]:
+                  - /url: ../updates
+                  - paragraph [ref=f36e794]: Updates
+                  - paragraph [ref=f36e799]: New
+            - list [ref=f36e801]:
+              - listitem [ref=f36e802]:
+                - paragraph [ref=f36e805]: Resources
+              - listitem [ref=f36e806]:
+                - link [ref=f36e807] [cursor=pointer]:
+                  - /url: ../academy/
+                  - paragraph [ref=f36e809]: Academy
+              - listitem [ref=f36e810]:
+                - link [ref=f36e811] [cursor=pointer]:
+                  - /url: ../guides
+                  - paragraph [ref=f36e813]: Guides
+              - listitem [ref=f36e814]:
+                - link [ref=f36e815] [cursor=pointer]:
+                  - /url: ../downloads/
+                  - paragraph [ref=f36e817]: Desktop app
+              - listitem [ref=f36e818]:
+                - link [ref=f36e819] [cursor=pointer]:
+                  - /url: ../blog/
+                  - paragraph [ref=f36e821]: Blog
+              - listitem [ref=f36e822]:
+                - link [ref=f36e823] [cursor=pointer]:
+                  - /url: ../newsletter
+                  - paragraph [ref=f36e825]: Newsletter
+              - listitem [ref=f36e826]:
+                - link [ref=f36e827] [cursor=pointer]:
+                  - /url: ../stories/
+                  - paragraph [ref=f36e829]: Stories
+              - listitem [ref=f36e830]:
+                - link [ref=f36e831] [cursor=pointer]:
+                  - /url: ../developers/
+                  - paragraph [ref=f36e833]: Developers
+              - listitem [ref=f36e834]:
+                - link [ref=f36e835] [cursor=pointer]:
+                  - /url: ../creators
+                  - paragraph [ref=f36e837]: Creators
+              - listitem [ref=f36e838]:
+                - link [ref=f36e839] [cursor=pointer]:
+                  - /url: ../expert/apply/
+                  - paragraph [ref=f36e841]: Experts
+              - listitem [ref=f36e842]:
+                - link [ref=f36e843] [cursor=pointer]:
+                  - /url: ../education/students/
+                  - paragraph [ref=f36e845]: Students
+              - listitem [ref=f36e846]:
+                - link [ref=f36e847] [cursor=pointer]:
+                  - /url: ../education/ambassadors/
+                  - paragraph [ref=f36e849]: Ambassadors
+              - listitem [ref=f36e850]:
+                - link [ref=f36e851] [cursor=pointer]:
+                  - /url: https://www.framer.com/state-of-sites-2026/
+                  - paragraph [ref=f36e853]: State of Sites
+              - listitem [ref=f36e854]:
+                - link [ref=f36e855] [cursor=pointer]:
+                  - /url: ../help/
+                  - paragraph [ref=f36e857]: Support
+              - listitem [ref=f36e858]:
+                - link [ref=f36e859] [cursor=pointer]:
+                  - /url: ../contact/
+                  - paragraph [ref=f36e861]: Contact
+            - list [ref=f36e864]:
+              - listitem [ref=f36e865]:
+                - paragraph [ref=f36e868]: Solutions
+              - listitem [ref=f36e869]:
+                - link [ref=f36e870] [cursor=pointer]:
+                  - /url: ../solutions/designers/
+                  - paragraph [ref=f36e872]: Designers
+              - listitem [ref=f36e873]:
+                - link [ref=f36e874] [cursor=pointer]:
+                  - /url: ../solutions/builders/
+                  - paragraph [ref=f36e876]: Builders
+              - listitem [ref=f36e877]:
+                - link [ref=f36e878] [cursor=pointer]:
+                  - /url: ../solutions/marketers/
+                  - paragraph [ref=f36e880]: Marketers
+              - listitem [ref=f36e881]:
+                - link [ref=f36e882] [cursor=pointer]:
+                  - /url: ../solutions/site-teams/
+                  - paragraph [ref=f36e884]: Site teams
+              - listitem [ref=f36e885]:
+                - link [ref=f36e886] [cursor=pointer]:
+                  - /url: ../solutions/agencies/
+                  - paragraph [ref=f36e888]: Agencies
+              - listitem [ref=f36e889]:
+                - link [ref=f36e890] [cursor=pointer]:
+                  - /url: ../solutions/growth/
+                  - paragraph [ref=f36e892]: Growth
+              - listitem [ref=f36e893]:
+                - link [ref=f36e894] [cursor=pointer]:
+                  - /url: ../solutions/founders/
+                  - paragraph [ref=f36e896]: Founders
+              - listitem [ref=f36e897]:
+                - link [ref=f36e898] [cursor=pointer]:
+                  - /url: ../solutions/ai-website-builder/
+                  - paragraph [ref=f36e900]: AI website builder
+              - listitem [ref=f36e901]:
+                - link [ref=f36e902] [cursor=pointer]:
+                  - /url: ../solutions/ai-designer/
+                  - paragraph [ref=f36e904]: AI design agent
+              - listitem [ref=f36e905]:
+                - link [ref=f36e906] [cursor=pointer]:
+                  - /url: ../solutions/website-builder/
+                  - paragraph [ref=f36e908]: Website builder
+              - listitem [ref=f36e909]:
+                - link [ref=f36e910] [cursor=pointer]:
+                  - /url: ../solutions/landing-pages/
+                  - paragraph [ref=f36e912]: Landing pages
+              - listitem [ref=f36e913]:
+                - link [ref=f36e914] [cursor=pointer]:
+                  - /url: ../solutions/portfolio-website/
+                  - paragraph [ref=f36e916]: Portfolio maker
+              - listitem [ref=f36e917]:
+                - link [ref=f36e918] [cursor=pointer]:
+                  - /url: ../solutions/ui-ux-design/
+                  - paragraph [ref=f36e920]: UI/UX design
+              - listitem [ref=f36e921]:
+                - link [ref=f36e922] [cursor=pointer]:
+                  - /url: ../solutions/no-code-website-builder/
+                  - paragraph [ref=f36e924]: No-code
+            - list [ref=f36e926]:
+              - listitem [ref=f36e927]:
+                - paragraph [ref=f36e930]: Compare
+              - listitem [ref=f36e931]:
+                - link [ref=f36e933] [cursor=pointer]:
+                  - /url: ../compare
+                  - paragraph [ref=f36e935]: Overview
+                - link [ref=f36e937] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-webflow
+                  - paragraph [ref=f36e939]: Webflow
+                - link [ref=f36e941] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-figma
+                  - paragraph [ref=f36e943]: Figma
+                - link [ref=f36e945] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-wix
+                  - paragraph [ref=f36e947]: Wix
+                - link [ref=f36e949] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-squarespace
+                  - paragraph [ref=f36e951]: Squarespace
+                - link [ref=f36e953] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-wordpress
+                  - paragraph [ref=f36e955]: WordPress
+                - link [ref=f36e957] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-readymag
+                  - paragraph [ref=f36e959]: Readymag
+                - link [ref=f36e961] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-ceros
+                  - paragraph [ref=f36e963]: Ceros
+                - link [ref=f36e965] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-unbounce
+                  - paragraph [ref=f36e967]: Unbounce
+                - link [ref=f36e969] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-lovable
+                  - paragraph [ref=f36e971]: Lovable
+                - link [ref=f36e973] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-claude-code
+                  - paragraph [ref=f36e975]: Claude Code
+                - link [ref=f36e977] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-codex
+                  - paragraph [ref=f36e979]: Codex
+                - link [ref=f36e981] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-contentful
+                  - paragraph [ref=f36e983]: Contentful
+                - link [ref=f36e985] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-sanity
+                  - paragraph [ref=f36e987]: Sanity
+                - link [ref=f36e989] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-adobe-experience-manager
+                  - paragraph [ref=f36e991]: AEM
+                - link [ref=f36e993] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-replit
+                  - paragraph [ref=f36e995]: Replit
+                - link [ref=f36e997] [cursor=pointer]:
+                  - /url: ../compare/framer-vs-v0
+                  - paragraph [ref=f36e999]: v0
+            - list [ref=f36e1001]:
+              - listitem [ref=f36e1002]:
+                - paragraph [ref=f36e1006]: Business
+                - link [ref=f36e1008] [cursor=pointer]:
+                  - /url: ../pricing
+                  - paragraph [ref=f36e1010]: Pricing
+                - link [ref=f36e1012] [cursor=pointer]:
+                  - /url: ../enterprise/
+                  - paragraph [ref=f36e1014]: Enterprise
+                - link [ref=f36e1016] [cursor=pointer]:
+                  - /url: ../enterprise/infrastructure/
+                  - paragraph [ref=f36e1018]: Infrastructure
+                - link [ref=f36e1020] [cursor=pointer]:
+                  - /url: ../startups/
+                  - paragraph [ref=f36e1022]: Startups
+                - link [ref=f36e1024] [cursor=pointer]:
+                  - /url: ../agencies/
+                  - paragraph [ref=f36e1026]: Agencies
+                - link [ref=f36e1028] [cursor=pointer]:
+                  - /url: ../switch/
+                  - paragraph [ref=f36e1030]: Switch
+              - listitem [ref=f36e1031]:
+                - paragraph [ref=f36e1035]: Company
+                - link [ref=f36e1037] [cursor=pointer]:
+                  - /url: ../careers/
+                  - paragraph [ref=f36e1039]: Careers
+                - link [ref=f36e1041] [cursor=pointer]:
+                  - /url: ../brand
+                  - paragraph [ref=f36e1043]: Brand
+                - link [ref=f36e1045] [cursor=pointer]:
+                  - /url: ../store
+                  - paragraph [ref=f36e1047]: Store
+                - link [ref=f36e1049] [cursor=pointer]:
+                  - /url: ../legal/security
+                  - paragraph [ref=f36e1051]: Security
+                - link [ref=f36e1053] [cursor=pointer]:
+                  - /url: mailto:abuse@framer.com
+                  - paragraph [ref=f36e1055]: Abuse
+                - link [ref=f36e1057] [cursor=pointer]:
+                  - /url: ../legal/community-terms
+                  - paragraph [ref=f36e1059]: Legal
+                - link [ref=f36e1061] [cursor=pointer]:
+                  - /url: https://app.eu.vanta.com/framer.com/trust/ow67ujg7iav0t6qtd1o6r2
+                  - paragraph [ref=f36e1063]: Trust
+            - generic [ref=f36e1065]:
+              - list [ref=f36e1066]:
+                - listitem [ref=f36e1067]:
+                  - paragraph [ref=f36e1070]: Community
+                - listitem [ref=f36e1071]:
+                  - link [ref=f36e1072] [cursor=pointer]:
+                    - /url: https://www.framer.com/community/marketplace/
+                    - paragraph [ref=f36e1074]: Marketplace
+                - listitem [ref=f36e1075]:
+                  - link [ref=f36e1076] [cursor=pointer]:
+                    - /url: https://www.framer.com/community/marketplace/templates/
+                    - paragraph [ref=f36e1078]: Templates
+                - listitem [ref=f36e1079]:
+                  - link [ref=f36e1080] [cursor=pointer]:
+                    - /url: https://www.framer.com/community/marketplace/components/
+                    - paragraph [ref=f36e1082]: Components
+                - listitem [ref=f36e1083]:
+                  - link [ref=f36e1084] [cursor=pointer]:
+                    - /url: https://www.framer.com/community/marketplace/plugins/
+                    - paragraph [ref=f36e1086]: Plugins
+                - listitem [ref=f36e1087]:
+                  - link [ref=f36e1088] [cursor=pointer]:
+                    - /url: https://www.framer.com/community/marketplace/vectors/
+                    - paragraph [ref=f36e1090]: Vectors
+                - listitem [ref=f36e1091]:
+                  - link [ref=f36e1092] [cursor=pointer]:
+                    - /url: https://www.framer.com/community/feed/
+                    - paragraph [ref=f36e1094]: Feed
+                - listitem [ref=f36e1095]:
+                  - link [ref=f36e1096] [cursor=pointer]:
+                    - /url: https://www.framer.com/community/hype/
+                    - paragraph [ref=f36e1098]: Hype
+                - listitem [ref=f36e1099]:
+                  - link [ref=f36e1100] [cursor=pointer]:
+                    - /url: https://www.framer.com/community/gallery/
+                    - paragraph [ref=f36e1102]: Gallery
+                - listitem [ref=f36e1103]:
+                  - link [ref=f36e1104] [cursor=pointer]:
+                    - /url: https://www.framer.com/community/contests/
+                    - paragraph [ref=f36e1106]: Contests
+                - listitem [ref=f36e1107]:
+                  - link [ref=f36e1108] [cursor=pointer]:
+                    - /url: https://www.framer.com/community/members/
+                    - paragraph [ref=f36e1110]: Members
+                - listitem [ref=f36e1111]:
+                  - link [ref=f36e1112] [cursor=pointer]:
+                    - /url: ../meetups/
+                    - paragraph [ref=f36e1114]: Meetups
+              - list [ref=f36e1115]:
+                - listitem [ref=f36e1116]:
+                  - paragraph [ref=f36e1119]: Tools
+                - listitem [ref=f36e1120]:
+                  - link [ref=f36e1121] [cursor=pointer]:
+                    - /url: ../solutions/figma-to-html/
+                    - paragraph [ref=f36e1123]: Figma to HTML
+                - listitem [ref=f36e1124]:
+                  - link [ref=f36e1125] [cursor=pointer]:
+                    - /url: ../aeo
+                    - paragraph [ref=f36e1127]: AEO scanner
+                - listitem [ref=f36e1128]:
+                  - link [ref=f36e1129] [cursor=pointer]:
+                    - /url: https://www.linkpreview.app/
+                    - paragraph [ref=f36e1131]: Link previewer
+                - listitem [ref=f36e1132]:
+                  - link [ref=f36e1133] [cursor=pointer]:
+                    - /url: ../domains/
+                    - paragraph [ref=f36e1135]: Free domains
+                - listitem [ref=f36e1136]:
+                  - link [ref=f36e1137] [cursor=pointer]:
+                    - /url: ../canvasbench/
+                    - paragraph [ref=f36e1139]: CanvasBench
+                - listitem [ref=f36e1140]:
+                  - link [ref=f36e1141] [cursor=pointer]:
+                    - /url: ../shortcuts
+                    - paragraph [ref=f36e1143]: Shortcuts
+        - generic [ref=f36e1144]:
+          - generic [ref=f36e1145]:
+            - paragraph [ref=f36e1147]: Follow us
+            - generic [ref=f36e1148]:
+              - link "Twitter / X" [ref=f36e1149] [cursor=pointer]:
+                - /url: https://x.com/framer
+              - link "YouTube" [ref=f36e1151] [cursor=pointer]:
+                - /url: https://www.youtube.com/@Framer
+              - link "Instagram" [ref=f36e1153] [cursor=pointer]:
+                - /url: https://www.instagram.com/framer/
+              - link "LinkedIn" [ref=f36e1155] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/framer/
+              - link "Threads" [ref=f36e1157] [cursor=pointer]:
+                - /url: https://www.threads.com/@framer
+          - generic [ref=f36e1159]:
+            - paragraph [ref=f36e1161]: AI summary
+            - generic [ref=f36e1162]:
+              - link "OpenAI summary of Framer" [ref=f36e1163] [cursor=pointer]:
+                - /url: https://chat.openai.com/?q=How%20do%20Framer%E2%80%99s%20AI%20agent%20and%20external%20agents%20fit%20into%20a%20website%20workflow%3F%20Explain%20briefly%20how%20the%20built-in%20agent%20and%20external%20tools%20such%20as%20Claude%20Code%20and%20Codex%20connect%20to%20Framer%2C%20what%20each%20can%20do%2C%20how%20work%20moves%20between%20them%2C%20and%20what%20I%20remain%20responsible%20for.%0A%0AThen%20give%20a%20concise%20overview%20of%20Framer%3A%20what%20I%20can%20build%2C%20the%20editor%2C%20CMS%2C%20components%2C%20publishing%2C%20hosting%2C%20and%20analytics%20basics%2C%20and%20what%20updates%20automatically.%20Keep%20the%20answer%20short%2C%20concrete%2C%20and%20focused%20on%20day-to-day%20use.
+              - link "Gemini summary of Framer" [ref=f36e1165] [cursor=pointer]:
+                - /url: https://www.google.com/search?udm=50&q=How%20do%20Framer%E2%80%99s%20AI%20agent%20and%20external%20agents%20fit%20into%20a%20website%20workflow%3F%20Explain%20briefly%20how%20the%20built-in%20agent%20and%20external%20tools%20such%20as%20Claude%20Code%20and%20Codex%20connect%20to%20Framer%2C%20what%20each%20can%20do%2C%20how%20work%20moves%20between%20them%2C%20and%20what%20I%20remain%20responsible%20for.%0A%0AThen%20give%20a%20concise%20overview%20of%20Framer%3A%20what%20I%20can%20build%2C%20the%20editor%2C%20CMS%2C%20components%2C%20publishing%2C%20hosting%2C%20and%20analytics%20basics%2C%20and%20what%20updates%20automatically.%20Keep%20the%20answer%20short%2C%20concrete%2C%20and%20focused%20on%20day-to-day%20use.
+              - link "Perplexity summary of Framer" [ref=f36e1167] [cursor=pointer]:
+                - /url: https://www.perplexity.ai/search?q=How%20do%20Framer%E2%80%99s%20AI%20agent%20and%20external%20agents%20fit%20into%20a%20website%20workflow%3F%20Explain%20briefly%20how%20the%20built-in%20agent%20and%20external%20tools%20such%20as%20Claude%20Code%20and%20Codex%20connect%20to%20Framer%2C%20what%20each%20can%20do%2C%20how%20work%20moves%20between%20them%2C%20and%20what%20I%20remain%20responsible%20for.%0A%0AThen%20give%20a%20concise%20overview%20of%20Framer%3A%20what%20I%20can%20build%2C%20the%20editor%2C%20CMS%2C%20components%2C%20publishing%2C%20hosting%2C%20and%20analytics%20basics%2C%20and%20what%20updates%20automatically.%20Keep%20the%20answer%20short%2C%20concrete%2C%20and%20focused%20on%20day-to-day%20use.
+          - generic [ref=f36e1169]:
+            - paragraph [ref=f36e1171]: Trusted by
+            - link [ref=f36e1172] [cursor=pointer]:
+              - /url: https://app.eu.vanta.com/framer.com/trust/ow67ujg7iav0t6qtd1o6r2
+              - paragraph [ref=f36e1183]: CCPA
+          - link [ref=f36e1187] [cursor=pointer]:
+            - /url: https://www.framerstatus.com/
+            - paragraph [ref=f36e1191]: All services online
+          - generic [ref=f36e1193]:
+            - paragraph [ref=f36e1196]: "2026"
+            - paragraph [ref=f36e1198]: Framer
+    - dialog [ref=f36e2119]:
+      - list [ref=f36e2121]:
+        - listitem [ref=f36e2122]:
+          - link [ref=f36e2123] [cursor=pointer]:
+            - /url: https://www.framer.com/community/marketplace
+            - generic [ref=f36e2124]:
+              - paragraph [ref=f36e2127]: Marketplace
+              - paragraph [ref=f36e2129]: Browse all
+        - listitem [ref=f36e2132]:
+          - link [ref=f36e2133] [cursor=pointer]:
+            - /url: https://www.framer.com/community/marketplace/templates/
+            - generic [ref=f36e2134]:
+              - paragraph [ref=f36e2137]: Templates
+              - paragraph [ref=f36e2139]: Get inspired
+        - listitem [ref=f36e2142]:
+          - link [ref=f36e2143] [cursor=pointer]:
+            - /url: https://www.framer.com/community/marketplace/components/
+            - generic [ref=f36e2144]:
+              - paragraph [ref=f36e2147]: Components
+              - paragraph [ref=f36e2149]: Build faster
+        - listitem [ref=f36e2152]:
+          - link [ref=f36e2153] [cursor=pointer]:
+            - /url: https://framer.com/community/feed/
+            - generic [ref=f36e2154]:
+              - paragraph [ref=f36e2157]: Feed
+              - paragraph [ref=f36e2159]: What’s happening
+        - listitem [ref=f36e2162]:
+          - link [ref=f36e2163] [cursor=pointer]:
+            - /url: https://www.framer.com/community/gallery
+            - generic [ref=f36e2164]:
+              - paragraph [ref=f36e2167]: Gallery
+              - paragraph [ref=f36e2169]: Best sites
+        - listitem [ref=f36e2172]:
+          - link [ref=f36e2173] [cursor=pointer]:
+            - /url: https://www.framer.com/community/members
+            - generic [ref=f36e2174]:
+              - paragraph [ref=f36e2177]: Members
+              - paragraph [ref=f36e2179]: Find experts
+        - listitem [ref=f36e2182]:
+          - link [ref=f36e2187] [cursor=pointer]:
+            - /url: ../updates/community/reposts
+            - generic [ref=f36e2188]:
+              - generic [ref=f36e2189]:
+                - paragraph [ref=f36e2191]: "New:"
+                - paragraph [ref=f36e2193]: Reposts
+              - paragraph [ref=f36e2196]:
+                - time [ref=f36e2197]: Last wk.
+  - generic: "Framer AI: Design websites faster with intelligent tools"

@@ -1,0 +1,680 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e4]:
+    - navigation "Community" [ref=f3e5]:
+      - generic [ref=f3e6]:
+        - link "Framer Community Framer Community" [ref=f3e7] [cursor=pointer]:
+          - /url: /community/
+          - img "Framer Community" [ref=f3e8]
+          - generic [ref=f3e9]: Framer Community
+        - combobox "Search Community" [ref=f3e15]
+        - generic [ref=f3e16]: Discover
+        - link "Feed" [ref=f3e17] [cursor=pointer]:
+          - /url: /community/feed/
+        - link "Hype" [ref=f3e22] [cursor=pointer]:
+          - /url: /community/hype/
+        - link "Activity" [ref=f3e27] [cursor=pointer]:
+          - /url: /community/activity/
+      - generic [ref=f3e33]:
+        - generic [ref=f3e34]: Marketplace
+        - link "All" [ref=f3e35] [cursor=pointer]:
+          - /url: /community/marketplace/
+        - link "Templates" [ref=f3e40] [cursor=pointer]:
+          - /url: /community/marketplace/templates/
+        - link "Components" [ref=f3e45] [cursor=pointer]:
+          - /url: /community/marketplace/components/
+        - link "Vectors" [ref=f3e50] [cursor=pointer]:
+          - /url: /community/marketplace/vectors/
+        - link "Plugins" [ref=f3e55] [cursor=pointer]:
+          - /url: /community/marketplace/plugins/
+      - generic [ref=f3e61]:
+        - generic [ref=f3e62]: Community
+        - link "Gallery" [ref=f3e63] [cursor=pointer]:
+          - /url: /community/gallery/
+        - link "Members" [ref=f3e68] [cursor=pointer]:
+          - /url: /community/members/
+    - generic [ref=f3e78]:
+      - generic [ref=f3e79]:
+        - generic [ref=f3e80]:
+          - heading "Bring your site to life with illustrations and Icon sets" [level=1] [ref=f3e81]
+          - paragraph [ref=f3e82]: Browse thousands of Vector sets, drop them into your project, and restyle them in seconds.
+        - button "Post" [ref=f3e84] [cursor=pointer]
+      - separator [ref=f3e86]
+      - generic [ref=f3e87]:
+        - generic [ref=f3e88]:
+          - generic [ref=f3e89]:
+            - heading "Featured" [level=2] [ref=f3e90]
+            - generic [ref=f3e91]:
+              - button "Go to featured slide 1" [pressed] [ref=f3e92] [cursor=pointer]
+              - button "Go to featured slide 2" [ref=f3e93] [cursor=pointer]
+              - button "Go to featured slide 3" [ref=f3e94] [cursor=pointer]
+              - button "Go to featured slide 4" [ref=f3e95] [cursor=pointer]
+              - button "Go to featured slide 5" [ref=f3e96] [cursor=pointer]
+              - button "Go to featured slide 6" [ref=f3e97] [cursor=pointer]
+          - link "See all" [ref=f3e98] [cursor=pointer]:
+            - /url: /community/marketplace/vectors/featured/
+        - generic [ref=f3e99]:
+          - generic [ref=f3e100]:
+            - generic [ref=f3e102]:
+              - generic [ref=f3e103] [cursor=pointer]:
+                - link "Hue Icons" [ref=f3e104]:
+                  - /url: /community/marketplace/vectors/hue-icons/
+                - button "Open preview" [ref=f3e105]
+                - generic [ref=f3e108]:
+                  - generic:
+                    - img "Hue Icons"
+                    - generic:
+                      - generic:
+                        - generic: Hue Icons
+                        - generic: $9
+                      - img "Hue Supply"
+              - generic [ref=f3e109] [cursor=pointer]:
+                - link "Doodles & Scribbles" [ref=f3e110]:
+                  - /url: /community/marketplace/vectors/doodles-scribbles/
+                - button "Open preview" [ref=f3e111]
+                - generic [ref=f3e114]:
+                  - generic:
+                    - img "Doodles & Scribbles"
+                    - generic:
+                      - generic:
+                        - generic: Doodles & Scribbles
+                        - generic: Free
+                      - img "Monika"
+            - generic [ref=f3e116]:
+              - generic [ref=f3e117] [cursor=pointer]:
+                - link "Halloween Set" [ref=f3e118]:
+                  - /url: /community/marketplace/vectors/halloween-set/
+                - button "Open preview" [ref=f3e119]
+                - generic [ref=f3e122]:
+                  - generic:
+                    - img "Halloween Set"
+                    - generic:
+                      - generic:
+                        - generic: Halloween Set
+                        - generic: Free
+                      - img "Thanh Tran"
+              - generic [ref=f3e123] [cursor=pointer]:
+                - link "Aarrows" [ref=f3e124]:
+                  - /url: /community/marketplace/vectors/aarrows/
+                - button "Open preview" [ref=f3e125]
+                - generic [ref=f3e128]:
+                  - generic:
+                    - img "Aarrows"
+                    - generic:
+                      - generic:
+                        - generic: Aarrows
+                        - generic: Free
+                      - img "Aaron Rolston"
+            - generic [ref=f3e130]:
+              - generic [ref=f3e131] [cursor=pointer]:
+                - link "Social + AI Icons" [ref=f3e132]:
+                  - /url: /community/marketplace/vectors/social-ai-brand-icons/
+                - button "Open preview" [ref=f3e133]
+                - generic [ref=f3e136]:
+                  - generic:
+                    - img "Social + AI Icons"
+                    - generic:
+                      - generic:
+                        - generic: Social + AI Icons
+                        - generic: Free
+                      - img "mehul"
+              - generic [ref=f3e137] [cursor=pointer]:
+                - link "Folders" [ref=f3e138]:
+                  - /url: /community/marketplace/vectors/folders/
+                - button "Open preview" [ref=f3e139]
+                - generic [ref=f3e142]:
+                  - generic:
+                    - img "Folders"
+                    - generic:
+                      - generic:
+                        - generic: Folders
+                        - generic: $5
+                      - img "Harrison Adam Cole"
+            - generic [ref=f3e144]:
+              - generic [ref=f3e145] [cursor=pointer]:
+                - link "Green tree icons" [ref=f3e146]:
+                  - /url: /community/marketplace/vectors/green-tree-icons/
+                - button "Open preview" [ref=f3e147]
+                - generic [ref=f3e150]:
+                  - generic:
+                    - img "Green tree icons"
+                    - generic:
+                      - generic:
+                        - generic: Green tree icons
+                        - generic: $8
+                      - img "FOREX Suree"
+              - generic [ref=f3e151] [cursor=pointer]:
+                - link "LogoMark" [ref=f3e152]:
+                  - /url: /community/marketplace/vectors/logomark/
+                - button "Open preview" [ref=f3e153]
+                - generic [ref=f3e156]:
+                  - generic:
+                    - img "LogoMark"
+                    - generic:
+                      - generic:
+                        - generic: LogoMark
+                        - generic: Free
+                      - img "HD Design"
+            - generic [ref=f3e158]:
+              - generic [ref=f3e159] [cursor=pointer]:
+                - link "Dotted Icons" [ref=f3e160]:
+                  - /url: /community/marketplace/vectors/dotted-icons/
+                - button "Open preview" [ref=f3e161]
+                - generic [ref=f3e164]:
+                  - generic:
+                    - img "Dotted Icons"
+                    - generic:
+                      - generic:
+                        - generic: Dotted Icons
+                        - generic: Free
+                      - img "Sanna Granqvist"
+              - generic [ref=f3e165] [cursor=pointer]:
+                - link "Ionicons" [ref=f3e166]:
+                  - /url: /community/marketplace/vectors/ionicons/
+                - button "Open preview" [ref=f3e167]
+                - generic [ref=f3e170]:
+                  - generic:
+                    - img "Ionicons"
+                    - generic:
+                      - generic:
+                        - generic: Ionicons
+                        - generic: Free
+                      - img "Andreu"
+            - generic [ref=f3e172]:
+              - generic [ref=f3e173] [cursor=pointer]:
+                - link "Brand Icons-Color" [ref=f3e174]:
+                  - /url: /community/marketplace/vectors/brand-icons-color/
+                - button "Open preview" [ref=f3e175]
+                - generic [ref=f3e178]:
+                  - generic:
+                    - img "Brand Icons-Color"
+                    - generic:
+                      - generic:
+                        - generic: Brand Icons-Color
+                        - generic: Free
+                      - img "Aravind Solaiappan"
+              - generic [ref=f3e179] [cursor=pointer]:
+                - link "Casino Vectors" [ref=f3e180]:
+                  - /url: /community/marketplace/vectors/casino/
+                - button "Open preview" [ref=f3e181]
+                - generic [ref=f3e184]:
+                  - generic:
+                    - img "Casino Vectors"
+                    - generic:
+                      - generic:
+                        - generic: Casino Vectors
+                        - generic: $12
+                      - img "Rod Blackney"
+          - button "Previous featured resources"
+          - button "Next featured resources"
+      - separator [ref=f3e185]
+      - generic [ref=f3e186]:
+        - generic [ref=f3e187]:
+          - heading "Top Categories" [level=2] [ref=f3e188]
+          - link "See all" [ref=f3e189] [cursor=pointer]:
+            - /url: /community/marketplace/vectors/categories/
+        - generic [ref=f3e190]:
+          - link "Icons Icons 179" [ref=f3e191] [cursor=pointer]:
+            - /url: /community/marketplace/vectors/categories/icons/
+            - img "Icons" [ref=f3e193]
+            - generic [ref=f3e194]:
+              - generic [ref=f3e195]: Icons
+              - generic [ref=f3e196]: "179"
+          - link "Lifestyle Lifestyle 54" [ref=f3e197] [cursor=pointer]:
+            - /url: /community/marketplace/vectors/categories/lifestyle/
+            - img "Lifestyle" [ref=f3e199]
+            - generic [ref=f3e200]:
+              - generic [ref=f3e201]: Lifestyle
+              - generic [ref=f3e202]: "54"
+          - link "Illustrations Illustrations 75" [ref=f3e203] [cursor=pointer]:
+            - /url: /community/marketplace/vectors/categories/illustrations/
+            - img "Illustrations" [ref=f3e205]
+            - generic [ref=f3e206]:
+              - generic [ref=f3e207]: Illustrations
+              - generic [ref=f3e208]: "75"
+          - link "Business Business 29" [ref=f3e209] [cursor=pointer]:
+            - /url: /community/marketplace/vectors/categories/business/
+            - img "Business" [ref=f3e211]
+            - generic [ref=f3e212]:
+              - generic [ref=f3e213]: Business
+              - generic [ref=f3e214]: "29"
+          - link "Shapes Shapes 26" [ref=f3e215] [cursor=pointer]:
+            - /url: /community/marketplace/vectors/categories/shapes/
+            - img "Shapes" [ref=f3e217]
+            - generic [ref=f3e218]:
+              - generic [ref=f3e219]: Shapes
+              - generic [ref=f3e220]: "26"
+      - separator [ref=f3e221]
+      - generic [ref=f3e223]:
+        - generic [ref=f3e229]:
+          - button "Open filters" [ref=f3e230] [cursor=pointer]
+          - button "Sort" [ref=f3e234] [cursor=pointer]
+        - generic [ref=f3e239]:
+          - generic [ref=f3e241]:
+            - generic [ref=f3e243] [cursor=pointer]:
+              - link "Social + AI Icons" [ref=f3e244]:
+                - /url: /community/marketplace/vectors/social-ai-brand-icons/
+              - button "Open preview" [ref=f3e245]
+              - generic [ref=f3e248]:
+                - generic:
+                  - img "Social + AI Icons"
+              - generic [ref=f3e249]:
+                - generic [ref=f3e250]:
+                  - link "Social + AI Icons" [ref=f3e252]:
+                    - /url: /community/marketplace/vectors/social-ai-brand-icons/
+                  - generic [ref=f3e254]: Free
+                - generic [ref=f3e255]:
+                  - button "Like vector" [ref=f3e256]:
+                    - generic [ref=f3e261]: "98"
+                  - link "0 comments" [ref=f3e266]:
+                    - /url: /community/marketplace/vectors/social-ai-brand-icons/#comment-input
+            - generic [ref=f3e270] [cursor=pointer]:
+              - link "Essentials UI" [ref=f3e271]:
+                - /url: /community/marketplace/vectors/essentials-ui/
+              - button "Open preview" [ref=f3e272]
+              - generic [ref=f3e275]:
+                - generic:
+                  - img "Essentials UI"
+              - generic [ref=f3e276]:
+                - generic [ref=f3e277]:
+                  - link "Essentials UI" [ref=f3e279]:
+                    - /url: /community/marketplace/vectors/essentials-ui/
+                  - generic [ref=f3e281]: $10
+                - generic [ref=f3e282]:
+                  - button "Like vector" [ref=f3e283]:
+                    - generic [ref=f3e288]: "27"
+                  - link "0 comments" [ref=f3e293]:
+                    - /url: /community/marketplace/vectors/essentials-ui/#comment-input
+            - generic [ref=f3e297] [cursor=pointer]:
+              - link "Doodles & Scribbles" [ref=f3e298]:
+                - /url: /community/marketplace/vectors/doodles-scribbles/
+              - button "Open preview" [ref=f3e299]
+              - generic [ref=f3e302]:
+                - generic:
+                  - img "Doodles & Scribbles"
+              - generic [ref=f3e303]:
+                - generic [ref=f3e304]:
+                  - link "Doodles & Scribbles" [ref=f3e306]:
+                    - /url: /community/marketplace/vectors/doodles-scribbles/
+                  - generic [ref=f3e308]: Free
+                - generic [ref=f3e309]:
+                  - button "Like vector" [ref=f3e310]:
+                    - generic [ref=f3e315]: "77"
+                  - link "2 comments" [ref=f3e320]:
+                    - /url: /community/marketplace/vectors/doodles-scribbles/#comment-input
+                    - generic [ref=f3e323]: "2"
+          - generic [ref=f3e329]:
+            - generic [ref=f3e331] [cursor=pointer]:
+              - link "Editable Arrows" [ref=f3e332]:
+                - /url: /community/marketplace/vectors/editable-arrows/
+              - button "Open preview" [ref=f3e333]
+              - generic [ref=f3e336]:
+                - generic:
+                  - img "Editable Arrows"
+              - generic [ref=f3e337]:
+                - generic [ref=f3e338]:
+                  - link "Editable Arrows" [ref=f3e340]:
+                    - /url: /community/marketplace/vectors/editable-arrows/
+                  - generic [ref=f3e342]: $5
+                - generic [ref=f3e343]:
+                  - button "Like vector" [ref=f3e344]:
+                    - generic [ref=f3e349]: "21"
+                  - link "1 comment" [ref=f3e354]:
+                    - /url: /community/marketplace/vectors/editable-arrows/#comment-input
+                    - generic [ref=f3e357]: "1"
+            - generic [ref=f3e363] [cursor=pointer]:
+              - link "Notion Avatar" [ref=f3e364]:
+                - /url: /community/marketplace/vectors/notion-avatar/
+              - button "Open preview" [ref=f3e365]
+              - generic [ref=f3e368]:
+                - generic:
+                  - img "Notion Avatar"
+              - generic [ref=f3e369]:
+                - generic [ref=f3e370]:
+                  - link "Notion Avatar" [ref=f3e372]:
+                    - /url: /community/marketplace/vectors/notion-avatar/
+                  - generic [ref=f3e374]: $15
+                - generic [ref=f3e375]:
+                  - button "Like vector" [ref=f3e376]:
+                    - generic [ref=f3e381]: "27"
+                  - link "1 comment" [ref=f3e386]:
+                    - /url: /community/marketplace/vectors/notion-avatar/#comment-input
+                    - generic [ref=f3e389]: "1"
+            - generic [ref=f3e395] [cursor=pointer]:
+              - link "Folders" [ref=f3e396]:
+                - /url: /community/marketplace/vectors/folders/
+              - button "Open preview" [ref=f3e397]
+              - generic [ref=f3e400]:
+                - generic:
+                  - img "Folders"
+              - generic [ref=f3e401]:
+                - generic [ref=f3e402]:
+                  - link "Folders" [ref=f3e404]:
+                    - /url: /community/marketplace/vectors/folders/
+                  - generic [ref=f3e406]: $5
+                - generic [ref=f3e407]:
+                  - button "Like vector" [ref=f3e408]:
+                    - generic [ref=f3e413]: "13"
+                  - link "0 comments" [ref=f3e418]:
+                    - /url: /community/marketplace/vectors/folders/#comment-input
+          - generic [ref=f3e422]:
+            - generic [ref=f3e424] [cursor=pointer]:
+              - link "coolicons" [ref=f3e425]:
+                - /url: /community/marketplace/vectors/coolicons/
+              - button "Open preview" [ref=f3e426]
+              - generic [ref=f3e429]:
+                - generic:
+                  - img "coolicons"
+              - generic [ref=f3e430]:
+                - generic [ref=f3e431]:
+                  - link "coolicons" [ref=f3e433]:
+                    - /url: /community/marketplace/vectors/coolicons/
+                  - generic [ref=f3e435]: Free
+                - generic [ref=f3e436]:
+                  - button "Like vector" [ref=f3e437]:
+                    - generic [ref=f3e442]: "63"
+                  - link "1 comment" [ref=f3e447]:
+                    - /url: /community/marketplace/vectors/coolicons/#comment-input
+                    - generic [ref=f3e450]: "1"
+            - generic [ref=f3e456] [cursor=pointer]:
+              - link "Doodles UI" [ref=f3e457]:
+                - /url: /community/marketplace/vectors/doodles-ui/
+              - button "Open preview" [ref=f3e458]
+              - generic [ref=f3e461]:
+                - generic:
+                  - img "Doodles UI"
+              - generic [ref=f3e462]:
+                - generic [ref=f3e463]:
+                  - link "Doodles UI" [ref=f3e465]:
+                    - /url: /community/marketplace/vectors/doodles-ui/
+                  - generic [ref=f3e467]: Free
+                - generic [ref=f3e468]:
+                  - button "Like vector" [ref=f3e469]:
+                    - generic [ref=f3e474]: "59"
+                  - link "1 comment" [ref=f3e479]:
+                    - /url: /community/marketplace/vectors/doodles-ui/#comment-input
+                    - generic [ref=f3e482]: "1"
+            - generic [ref=f3e488] [cursor=pointer]:
+              - link "Pixel Icon Set" [ref=f3e489]:
+                - /url: /community/marketplace/vectors/pixelish/
+              - button "Open preview" [ref=f3e490]
+              - generic [ref=f3e493]:
+                - generic:
+                  - img "Pixel Icon Set"
+              - generic [ref=f3e494]:
+                - generic [ref=f3e495]:
+                  - link "Pixel Icon Set" [ref=f3e497]:
+                    - /url: /community/marketplace/vectors/pixelish/
+                  - generic [ref=f3e499]: $10
+                - generic [ref=f3e500]:
+                  - button "Like vector" [ref=f3e501]:
+                    - generic [ref=f3e506]: "17"
+                  - link "0 comments" [ref=f3e511]:
+                    - /url: /community/marketplace/vectors/pixelish/#comment-input
+          - generic [ref=f3e515]:
+            - generic [ref=f3e517] [cursor=pointer]:
+              - link "Shapes" [ref=f3e518]:
+                - /url: /community/marketplace/vectors/shapes/
+              - button "Open preview" [ref=f3e519]
+              - generic [ref=f3e522]:
+                - generic:
+                  - img "Shapes"
+              - generic [ref=f3e523]:
+                - generic [ref=f3e524]:
+                  - link "Shapes" [ref=f3e526]:
+                    - /url: /community/marketplace/vectors/shapes/
+                  - generic [ref=f3e528]: Free
+                - generic [ref=f3e529]:
+                  - button "Like vector" [ref=f3e530]:
+                    - generic [ref=f3e535]: "50"
+                  - link "1 comment" [ref=f3e540]:
+                    - /url: /community/marketplace/vectors/shapes/#comment-input
+                    - generic [ref=f3e543]: "1"
+            - generic [ref=f3e549] [cursor=pointer]:
+              - link "Hand-Drawn Wireframe" [ref=f3e550]:
+                - /url: /community/marketplace/vectors/hand-drawn-wireframe/
+              - button "Open preview" [ref=f3e551]
+              - generic [ref=f3e554]:
+                - generic:
+                  - img "Hand-Drawn Wireframe"
+              - generic [ref=f3e555]:
+                - generic [ref=f3e556]:
+                  - link "Hand-Drawn Wireframe" [ref=f3e558]:
+                    - /url: /community/marketplace/vectors/hand-drawn-wireframe/
+                  - generic [ref=f3e560]: $5
+                - generic [ref=f3e561]:
+                  - button "Like vector" [ref=f3e562]:
+                    - generic [ref=f3e567]: "8"
+                  - link "1 comment" [ref=f3e572]:
+                    - /url: /community/marketplace/vectors/hand-drawn-wireframe/#comment-input
+                    - generic [ref=f3e575]: "1"
+            - generic [ref=f3e581] [cursor=pointer]:
+              - link "Payment Icons" [ref=f3e582]:
+                - /url: /community/marketplace/vectors/credit-cards-and-payment-methods-icons/
+              - button "Open preview" [ref=f3e583]
+              - generic [ref=f3e586]:
+                - generic:
+                  - img "Payment Icons"
+              - generic [ref=f3e587]:
+                - generic [ref=f3e588]:
+                  - link "Payment Icons" [ref=f3e590]:
+                    - /url: /community/marketplace/vectors/credit-cards-and-payment-methods-icons/
+                  - generic [ref=f3e592]: Free
+                - generic [ref=f3e593]:
+                  - button "Like vector" [ref=f3e594]:
+                    - generic [ref=f3e599]: "43"
+                  - link "0 comments" [ref=f3e604]:
+                    - /url: /community/marketplace/vectors/credit-cards-and-payment-methods-icons/#comment-input
+          - generic [ref=f3e608]:
+            - generic [ref=f3e610] [cursor=pointer]:
+              - link "Futuristic/Y2K" [ref=f3e611]:
+                - /url: /community/marketplace/vectors/futuristic-y2k/
+              - button "Open preview" [ref=f3e612]
+              - generic [ref=f3e615]:
+                - generic:
+                  - img "Futuristic/Y2K"
+              - generic [ref=f3e616]:
+                - generic [ref=f3e617]:
+                  - link "Futuristic/Y2K" [ref=f3e619]:
+                    - /url: /community/marketplace/vectors/futuristic-y2k/
+                  - generic [ref=f3e621]: $5
+                - generic [ref=f3e622]:
+                  - button "Like vector" [ref=f3e623]:
+                    - generic [ref=f3e628]: "18"
+                  - link "0 comments" [ref=f3e633]:
+                    - /url: /community/marketplace/vectors/futuristic-y2k/#comment-input
+            - generic [ref=f3e637] [cursor=pointer]:
+              - link "Art Deco" [ref=f3e638]:
+                - /url: /community/marketplace/vectors/art-deco/
+              - button "Open preview" [ref=f3e639]
+              - generic [ref=f3e642]:
+                - generic:
+                  - generic:
+                    - img "Art Deco"
+              - generic [ref=f3e643]:
+                - generic [ref=f3e644]:
+                  - link "Art Deco" [ref=f3e646]:
+                    - /url: /community/marketplace/vectors/art-deco/
+                  - generic [ref=f3e648]: $5
+                - generic [ref=f3e649]:
+                  - button "Like vector" [ref=f3e650]:
+                    - generic [ref=f3e655]: "12"
+                  - link "0 comments" [ref=f3e660]:
+                    - /url: /community/marketplace/vectors/art-deco/#comment-input
+            - generic [ref=f3e664] [cursor=pointer]:
+              - link "Social Media logos" [ref=f3e665]:
+                - /url: /community/marketplace/vectors/social-media-logos/
+              - button "Open preview" [ref=f3e666]
+              - generic [ref=f3e669]:
+                - generic:
+                  - img "Social Media logos"
+              - generic [ref=f3e670]:
+                - generic [ref=f3e671]:
+                  - link "Social Media logos" [ref=f3e673]:
+                    - /url: /community/marketplace/vectors/social-media-logos/
+                  - generic [ref=f3e675]: Free
+                - generic [ref=f3e676]:
+                  - button "Like vector" [ref=f3e677]:
+                    - generic [ref=f3e682]: "21"
+                  - link "0 comments" [ref=f3e687]:
+                    - /url: /community/marketplace/vectors/social-media-logos/#comment-input
+          - generic [ref=f3e691]:
+            - generic [ref=f3e693] [cursor=pointer]:
+              - link "Hand Drawn Arrows" [ref=f3e694]:
+                - /url: /community/marketplace/vectors/hand-drawn-arrows/
+              - button "Open preview" [ref=f3e695]
+              - generic [ref=f3e698]:
+                - generic:
+                  - img "Hand Drawn Arrows"
+              - generic [ref=f3e699]:
+                - generic [ref=f3e700]:
+                  - link "Hand Drawn Arrows" [ref=f3e702]:
+                    - /url: /community/marketplace/vectors/hand-drawn-arrows/
+                  - generic [ref=f3e704]: Free
+                - generic [ref=f3e705]:
+                  - button "Like vector" [ref=f3e706]:
+                    - generic [ref=f3e711]: "37"
+                  - link "1 comment" [ref=f3e716]:
+                    - /url: /community/marketplace/vectors/hand-drawn-arrows/#comment-input
+                    - generic [ref=f3e719]: "1"
+            - generic [ref=f3e725] [cursor=pointer]:
+              - link "Flowers" [ref=f3e726]:
+                - /url: /community/marketplace/vectors/flowers/
+              - button "Open preview" [ref=f3e727]
+              - generic [ref=f3e730]:
+                - generic:
+                  - img "Flowers"
+              - generic [ref=f3e731]:
+                - generic [ref=f3e732]:
+                  - link "Flowers" [ref=f3e734]:
+                    - /url: /community/marketplace/vectors/flowers/
+                  - generic [ref=f3e736]: Free
+                - generic [ref=f3e737]:
+                  - button "Like vector" [ref=f3e738]:
+                    - generic [ref=f3e743]: "27"
+                  - link "0 comments" [ref=f3e748]:
+                    - /url: /community/marketplace/vectors/flowers/#comment-input
+            - generic [ref=f3e752] [cursor=pointer]:
+              - link "Hamburger Set" [ref=f3e753]:
+                - /url: /community/marketplace/vectors/hamburger-sets/
+              - button "Open preview" [ref=f3e754]
+              - generic [ref=f3e757]:
+                - generic:
+                  - img "Hamburger Set"
+              - generic [ref=f3e758]:
+                - generic [ref=f3e759]:
+                  - link "Hamburger Set" [ref=f3e761]:
+                    - /url: /community/marketplace/vectors/hamburger-sets/
+                  - generic [ref=f3e763]: $5
+                - generic [ref=f3e764]:
+                  - button "Like vector" [ref=f3e765]:
+                    - generic [ref=f3e770]: "9"
+                  - link "0 comments" [ref=f3e775]:
+                    - /url: /community/marketplace/vectors/hamburger-sets/#comment-input
+          - generic [ref=f3e779]:
+            - generic [ref=f3e781] [cursor=pointer]:
+              - link "Cool Shapes" [ref=f3e782]:
+                - /url: /community/marketplace/vectors/cool-shapes/
+              - button "Open preview" [ref=f3e783]
+              - generic [ref=f3e786]:
+                - generic:
+                  - img "Cool Shapes"
+              - generic [ref=f3e787]:
+                - generic [ref=f3e788]:
+                  - link "Cool Shapes" [ref=f3e790]:
+                    - /url: /community/marketplace/vectors/cool-shapes/
+                  - generic [ref=f3e792]: Free
+                - generic [ref=f3e793]:
+                  - button "Like vector" [ref=f3e794]:
+                    - generic [ref=f3e799]: "39"
+                  - link "0 comments" [ref=f3e804]:
+                    - /url: /community/marketplace/vectors/cool-shapes/#comment-input
+            - generic [ref=f3e808] [cursor=pointer]:
+              - link "Organic Shapes" [ref=f3e809]:
+                - /url: /community/marketplace/vectors/organic-shapes/
+              - button "Open preview" [ref=f3e810]
+              - generic [ref=f3e813]:
+                - generic:
+                  - img "Organic Shapes"
+              - generic [ref=f3e814]:
+                - generic [ref=f3e815]:
+                  - link "Organic Shapes" [ref=f3e817]:
+                    - /url: /community/marketplace/vectors/organic-shapes/
+                  - generic [ref=f3e819]: $19
+                - generic [ref=f3e820]:
+                  - button "Like vector" [ref=f3e821]:
+                    - generic [ref=f3e826]: "20"
+                  - link "0 comments" [ref=f3e831]:
+                    - /url: /community/marketplace/vectors/organic-shapes/#comment-input
+            - generic [ref=f3e835] [cursor=pointer]:
+              - link "Dotted Icons" [ref=f3e836]:
+                - /url: /community/marketplace/vectors/dotted-icons/
+              - button "Open preview" [ref=f3e837]
+              - generic [ref=f3e840]:
+                - generic:
+                  - img "Dotted Icons"
+              - generic [ref=f3e841]:
+                - generic [ref=f3e842]:
+                  - link "Dotted Icons" [ref=f3e844]:
+                    - /url: /community/marketplace/vectors/dotted-icons/
+                  - generic [ref=f3e846]: Free
+                - generic [ref=f3e847]:
+                  - button "Like vector" [ref=f3e848]:
+                    - generic [ref=f3e853]: "42"
+                  - link "0 comments" [ref=f3e858]:
+                    - /url: /community/marketplace/vectors/dotted-icons/#comment-input
+          - generic [ref=f3e862]:
+            - generic [ref=f3e864] [cursor=pointer]:
+              - link "Aarrows" [ref=f3e865]:
+                - /url: /community/marketplace/vectors/aarrows/
+              - button "Open preview" [ref=f3e866]
+              - generic [ref=f3e869]:
+                - generic:
+                  - img "Aarrows"
+              - generic [ref=f3e870]:
+                - generic [ref=f3e871]:
+                  - link "Aarrows" [ref=f3e873]:
+                    - /url: /community/marketplace/vectors/aarrows/
+                  - generic [ref=f3e875]: Free
+                - generic [ref=f3e876]:
+                  - button "Like vector" [ref=f3e877]:
+                    - generic [ref=f3e882]: "20"
+                  - link "0 comments" [ref=f3e887]:
+                    - /url: /community/marketplace/vectors/aarrows/#comment-input
+            - generic [ref=f3e891] [cursor=pointer]:
+              - link "Brand Icons-Monotone" [ref=f3e892]:
+                - /url: /community/marketplace/vectors/brand-icons-monotone/
+              - button "Open preview" [ref=f3e893]
+              - generic [ref=f3e896]:
+                - generic:
+                  - img "Brand Icons-Monotone"
+              - generic [ref=f3e897]:
+                - generic [ref=f3e898]:
+                  - link "Brand Icons-Monotone" [ref=f3e900]:
+                    - /url: /community/marketplace/vectors/brand-icons-monotone/
+                  - generic [ref=f3e902]: Free
+                - generic [ref=f3e903]:
+                  - button "Like vector" [ref=f3e904]:
+                    - generic [ref=f3e909]: "17"
+                  - link "1 comment" [ref=f3e914]:
+                    - /url: /community/marketplace/vectors/brand-icons-monotone/#comment-input
+                    - generic [ref=f3e917]: "1"
+            - generic [ref=f3e923] [cursor=pointer]:
+              - link "3D Agriculture Icons" [ref=f3e924]:
+                - /url: /community/marketplace/vectors/3d-agriculture-icons/
+              - button "Open preview" [ref=f3e925]
+              - generic [ref=f3e928]:
+                - generic:
+                  - img "3D Agriculture Icons"
+              - generic [ref=f3e929]:
+                - generic [ref=f3e930]:
+                  - link "3D Agriculture Icons" [ref=f3e932]:
+                    - /url: /community/marketplace/vectors/3d-agriculture-icons/
+                  - generic [ref=f3e934]: $25
+                - generic [ref=f3e935]:
+                  - button "Like vector" [ref=f3e936]:
+                    - generic [ref=f3e941]: "9"
+                  - link "0 comments" [ref=f3e946]:
+                    - /url: /community/marketplace/vectors/3d-agriculture-icons/#comment-input
+  - region "Notifications (F8)":
+    - list
+  - alert [ref=f3e952]
