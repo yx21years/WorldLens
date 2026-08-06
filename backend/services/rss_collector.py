@@ -14,6 +14,7 @@ from datetime import datetime
 from typing import Any, Dict, List, Optional
 import json
 import re
+import urllib.request
 
 import feedparser
 
@@ -22,8 +23,26 @@ from app_logging.setup import get_logger
 
 logger = get_logger("rss_collector")
 
+# ============================================================
+# 全局代理配置（所有请求统一走代理）
+# ============================================================
+PROXY = {
+    'http': 'http://127.0.0.1:7890',
+    'https': 'http://127.0.0.1:7890'
+}
 
-async def fetch_rss_feed(source_url: str, timeout: int = 15) -> List[Dict[str, Any]]:
+
+def _parse_with_proxy(url: str):
+    """使用全局代理解析 RSS 源"""
+    proxy_handler = urllib.request.ProxyHandler(PROXY)
+    opener = urllib.request.build_opener(proxy_handler)
+    # 可选：添加 User-Agent 头，防止某些源拦截
+    opener.addheaders = [('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')]
+    urllib.request.install_opener(opener)
+    return feedparser.parse(url)
+
+
+async def fetch_rss_feed(source_url: str, timeout: int = 15, source_url_param: str = None) -> List[Dict[str, Any]]:
     """Fetch an RSS feed and parse it into article dictionaries.
 
     Args:
@@ -32,7 +51,7 @@ async def fetch_rss_feed(source_url: str, timeout: int = 15) -> List[Dict[str, A
 
     Returns:
         List of article dicts with fields matching Article schema:
-        {title, url, published_at, content, summary, author, image_url}
+        {title, url, published_at, content, summary, author, image_url, _feed_url}
 
     Raises:
         FetchTimeoutError: If the request exceeds the timeout threshold.
@@ -42,9 +61,10 @@ async def fetch_rss_feed(source_url: str, timeout: int = 15) -> List[Dict[str, A
 
     try:
         loop = asyncio.get_event_loop()
+        # ✅ 全部走代理
         feed = await loop.run_in_executor(
             None,
-            lambda: feedparser.parse(source_url),
+            lambda: _parse_with_proxy(source_url),
         )
 
         elapsed = time.time() - start_time
@@ -57,7 +77,7 @@ async def fetch_rss_feed(source_url: str, timeout: int = 15) -> List[Dict[str, A
 
         articles = []
         for entry in feed.entries:
-            article = _extract_entry_data(entry)
+            article = _extract_entry_data(entry, source_url_param or source_url)
             if article:
                 articles.append(article)
 
@@ -71,7 +91,7 @@ async def fetch_rss_feed(source_url: str, timeout: int = 15) -> List[Dict[str, A
         return []
 
 
-def _extract_entry_data(entry: Any) -> Dict[str, Any] | None:
+def _extract_entry_data(entry: Any, source_url: str) -> Dict[str, Any] | None:
     """Extract structured article data from a feedparser entry dict."""
     title = entry.get("title", "").strip()
     if len(title) < 2:
@@ -105,6 +125,7 @@ def _extract_entry_data(entry: Any) -> Dict[str, Any] | None:
         "author": author,
         "image_url": image_url,
         "raw_entry": entry,
+        "_feed_url": source_url,  # ✅ 源头标记
     }
 
 
@@ -193,7 +214,7 @@ async def fetch_all_rss_feeds(feeds: List[str], batch_timeout: int = 60) -> List
 
     async def fetch_with_semaphore(url):
         async with semaphore:
-            return await fetch_rss_feed(url, timeout=batch_timeout // max(1, len(feeds)))
+            return await fetch_rss_feed(url, timeout=batch_timeout // max(1, len(feeds)), source_url_param=url)
 
     tasks = [fetch_with_semaphore(url) for url in feeds]
     results = await asyncio.gather(*tasks, return_exceptions=True)
@@ -227,7 +248,7 @@ def clean_article(raw: dict) -> dict | None:
     cleaned["content"] = content[:5000] if len(content) > 5000 else content
     cleaned["summary"] = raw.get("summary", "")[:500]
     cleaned["author"] = raw.get("author", "")[:200]
-    # 保留 image_url
+    # 保留 image_url 和 _feed_url
     return cleaned
 
 
@@ -256,6 +277,7 @@ def normalize_artifacts(articles: List[dict], source_id: int | None = None) -> L
     """Normalize article dicts to match Article ORM model schema for DB insertion.
 
     Adds source_id foreign key if provided, converts types where needed.
+    ✅ 关键修复：保留 _feed_url 字段，用于后续 source_id 绑定
     """
     normalized = []
     now = datetime.now()
@@ -273,6 +295,7 @@ def normalize_artifacts(articles: List[dict], source_id: int | None = None) -> L
             "content": str(art.get("content", ""))[:5000],
             "author": str(art.get("author", ""))[:200],
             "image_url": str(art.get("image_url", ""))[:2000] if art.get("image_url") else None,
+            "_feed_url": art.get("_feed_url"),  # ✅ 关键：保留来源标记
         }
         normalized.append(rec)
     return normalized

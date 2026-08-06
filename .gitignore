@@ -32,4 +32,4 @@ data/worldlens.db
 *~
 # Alembic
 migrations/versions/
-
+*.db

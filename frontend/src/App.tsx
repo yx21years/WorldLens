@@ -12,29 +12,29 @@ const CATEGORIES = [
     id: 'tech',
     nameCN: '科技',
     nameEN: 'Technology',
-    videoUrl: 'https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260702_081127_0992a171-d3c6-4978-8213-0ec5df8b6d63.mp4',
+    videoUrl:'/assets/video1.mp4',
   },
   {
     id: 'war',
     nameCN: '战争',
     nameEN: 'War',
-    videoUrl: 'https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260702_092026_dd05b805-ea0f-40b2-8c52-332b88502592.mp4',
+    videoUrl:'/assets/video2.mp4',
   },
   {
     id: 'life',
     nameCN: '生活',
     nameEN: 'Life',
-    videoUrl: 'https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260702_081042_df7202bf-bd80-4b2b-bbc6-1f09ba2870e9.mp4',
+    videoUrl: '/assets/video3.mp4',
   },
   {
     id: 'leisure',
     nameCN: '休闲',
     nameEN: 'Leisure',
-    videoUrl: 'https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260702_080959_4cac5234-3573-464e-a5b7-76b94b8a7d61.mp4',
+    videoUrl: '/assets/video4.mp4',
   },
 ];
 
-const OVERLAY_PNG = 'https://soft-zoom-63098134.figma.site/_assets/v11/0b4a435b2df2747593c43d7a1c9b4578f7d8d90c.png';
+const OVERLAY_PNG = '/assets/cover.png';
 
 // ============================================================
 // NAVIGATION BAR
@@ -49,8 +49,8 @@ const NavBar: React.FC = () => {
       transition={{ duration: 0.6, ease: 'easeOut' }}
       className="fixed top-0 left-0 right-0 z-50"
       style={{
-        background: 'rgba(10,10,15,0.55)',
-        backdropFilter: 'blur(20px)',
+         
+        
         WebkitBackdropFilter: 'blur(20px)',
         borderBottom: '1px solid rgba(255,255,255,0.08)',
         boxShadow: '0 1px 0 rgba(255,255,255,0.04), 0 4px 24px rgba(0,0,0,0.40)',
@@ -269,7 +269,7 @@ const HomePage: React.FC = () => {
                 fontSize: 'clamp(5rem, 12vw, 10rem)',
                 fontWeight: 700,
                 letterSpacing: '0.05em',
-                color: '#fff',
+                color:'rgba(255,255,255,0.77)',
                 textShadow: '0 4px 60px rgba(0,0,0,0.55)',
                 lineHeight: 1.1,
                 marginBottom: '0.4rem',

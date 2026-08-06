@@ -6,10 +6,10 @@ import json
 import traceback
 from fastapi import APIRouter, HTTPException, Query
 from sqlalchemy import select, desc
-from sqlalchemy.orm import selectinload
+from sqlalchemy.orm import joinedload, selectinload
 
 from database.connection import async_session_maker
-from database.models import Article, Analysis
+from database.models import Article, Analysis, Source
 from errors.base import CollectionError
 from services.collection import collect_from_sources
 from services.ai_service import analyze_article, analyze_all_articles
@@ -24,20 +24,20 @@ router = APIRouter(prefix="/api/v1/articles", tags=["articles"])
 async def list_articles(
     status: str | None = None,
     category: str | None = None,
-    limit: int = Query(20, ge=1, le=100),
+    limit: int = Query(20, ge=1, le=5000),
     offset: int = Query(0, ge=0),
 ):
     """List articles with optional status and category filters."""
     try:
         async with async_session_maker() as session:
-            stmt = select(Article).options(selectinload(Article.source))
+            stmt = select(Article).options(selectinload(Article.source), joinedload(Article.analysis))
 
             if status:
                 stmt = stmt.where(Article.status == status)
 
             if category:
-                stmt = stmt.join(Analysis, Article.id == Analysis.article_id).where(
-                    Analysis.category == category
+                stmt = stmt.join(Source, Article.source_id == Source.id).where(
+                    Source.category == category
                 )
 
             stmt = stmt.order_by(desc(Article.created_at)).offset(offset).limit(limit)
@@ -54,7 +54,12 @@ async def list_articles(
                     "published_at": art.published_at,
                     "status": art.status,
                     "source_id": art.source_id,
-                    "source_name": art.source.name if art.source else None,  # 预加载后安全访问
+                    "source_name": art.source.name if art.source else None,
+                    "analysis": {
+                        "summary": art.analysis.summary if art.analysis else None,
+                        "importance": art.analysis.importance if art.analysis else None,
+                        "sentiment": art.analysis.sentiment if art.analysis else None,
+                    } if art.analysis else None,
                 })
 
             return {
@@ -105,8 +110,11 @@ async def get_article(article_id: int):
 @router.post("/collect")
 async def trigger_collection():
     """Manually trigger news collection from RSS feeds."""
+    print("🔥🔥🔥 采集端点被调用了！")
+    logger.info("🔥🔥🔥 采集端点被调用了！")
     try:
         result = await collect_from_sources()
+        print(f"🔥 采集结果: {result}")
         if not result["success"]:
             raise CollectionError(f"Collection failed: {result['errors'][0]}")
         return {
@@ -120,9 +128,8 @@ async def trigger_collection():
             },
             "errors": []
         }
-    except CollectionError as e:
-        raise HTTPException(status_code=500, detail=str(e))
     except Exception as e:
+        print(f"❌❌❌ 采集异常: {e}")
         logger.error(f"Collection endpoint error: {e}")
         raise HTTPException(status_code=500, detail="Collection service encountered an error")
 
@@ -157,11 +164,11 @@ async def analyze_all_articles_route():
         import traceback
         traceback.print_exc()
         logger.exception("All-analyze endpoint error")
-        # ✅ 返回具体错误信息
         raise HTTPException(
             status_code=500,
             detail=f"Batch analysis failed: {str(e)}"
         )
+
 
 @router.get("/{article_id}/enriched")
 async def get_enriched_article(article_id: int):
@@ -207,6 +214,7 @@ async def get_enriched_article(article_id: int):
             "status": article.status,
             "analysis": analysis_data
         }
+
 
 @router.post("/analyze_direct_async")
 async def analyze_all_direct_async_route():
