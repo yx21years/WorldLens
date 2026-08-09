@@ -73,3 +73,15 @@ app.include_router(settings_router)
 @app.get("/health")
 async def health_root():
     return {"status": "healthy", "app": settings.APP_NAME, "version": settings.APP_VERSION}
+
+# 放在所有路由和 app 定义之后
+if __name__ == "__main__":
+    import uvicorn
+    import os
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(
+        "main:app",
+        host="0.0.0.0",
+        port=port,
+        reload=False  # 生产环境不要开 reload
+    )
