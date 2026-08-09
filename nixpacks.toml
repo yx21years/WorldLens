@@ -1,0 +1,8 @@
+[build]
+builder = "NIXPACKS"
+
+[build.apt]
+packages = ["build-essential", "python3-dev", "libxml2-dev", "libxslt-dev", "libpq-dev"]
+
+[build.env]
+PYTHON_VERSION = "3.12"
